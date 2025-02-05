@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1738541254 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1738714056 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -93,8 +93,6 @@ cloudns.cl IN CNAME .
 *.cloudns.cl IN CNAME .
 cloudns.org IN CNAME .
 *.cloudns.org IN CNAME .
-cloudns.pro IN CNAME .
-*.cloudns.pro IN CNAME .
 con-ip.com IN CNAME .
 *.con-ip.com IN CNAME .
 corbina.ru IN CNAME .
@@ -181,6 +179,8 @@ dnsdojo.com IN CNAME .
 *.dnsdojo.com IN CNAME .
 dnsdojo.net IN CNAME .
 *.dnsdojo.net IN CNAME .
+dnsdojo.org IN CNAME .
+*.dnsdojo.org IN CNAME .
 dnset.com IN CNAME .
 *.dnset.com IN CNAME .
 dnsexit.com IN CNAME .
@@ -359,8 +359,6 @@ freeddns.com IN CNAME .
 *.freeddns.com IN CNAME .
 freeddns.org IN CNAME .
 *.freeddns.org IN CNAME .
-freeddns.us IN CNAME .
-*.freeddns.us IN CNAME .
 freedynamicdns.org IN CNAME .
 *.freedynamicdns.org IN CNAME .
 freemyip.com IN CNAME .
@@ -369,8 +367,6 @@ freetcp.com IN CNAME .
 *.freetcp.com IN CNAME .
 from-al.com IN CNAME .
 *.from-al.com IN CNAME .
-from-ar.com IN CNAME .
-*.from-ar.com IN CNAME .
 from-ca.com IN CNAME .
 *.from-ca.com IN CNAME .
 from-dc.com IN CNAME .
@@ -611,6 +607,8 @@ myjino.ru IN CNAME .
 *.myjino.ru IN CNAME .
 mylftv.com IN CNAME .
 *.mylftv.com IN CNAME .
+mymediapc.net IN CNAME .
+*.mymediapc.net IN CNAME .
 mymom.info IN CNAME .
 *.mymom.info IN CNAME .
 mynetav.com IN CNAME .
@@ -625,6 +623,8 @@ mypi.co IN CNAME .
 *.mypi.co IN CNAME .
 mypicture.info IN CNAME .
 *.mypicture.info IN CNAME .
+mypop3.net IN CNAME .
+*.mypop3.net IN CNAME .
 mypsx.net IN CNAME .
 *.mypsx.net IN CNAME .
 myq-see.com IN CNAME .
@@ -911,8 +911,6 @@ wwwhost.biz IN CNAME .
 *.wwwhost.biz IN CNAME .
 x24hr.com IN CNAME .
 *.x24hr.com IN CNAME .
-x443.pw IN CNAME .
-*.x443.pw IN CNAME .
 xsph.ru IN CNAME .
 *.xsph.ru IN CNAME .
 xxuz.com IN CNAME .
