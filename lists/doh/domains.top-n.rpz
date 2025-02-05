@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1738541244 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1738714045 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -85,8 +85,6 @@ ath01.dnscry.pt IN CNAME .
 *.ath01.dnscry.pt IN CNAME .
 atl01.dnscry.pt IN CNAME .
 *.atl01.dnscry.pt IN CNAME .
-awan.ftp.sh IN CNAME .
-*.awan.ftp.sh IN CNAME .
 b.family.ns.dnslify.com IN CNAME .
 *.b.family.ns.dnslify.com IN CNAME .
 b.ns.dnslify.com IN CNAME .
