@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1738714052 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1738800450 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.net IN CNAME .
@@ -801,8 +801,6 @@ easy-vpn.comodo.com IN CNAME .
 *.easy-vpn.comodo.com IN CNAME .
 ec2-34-194-122-51.compute-1.amazonaws.com IN CNAME .
 *.ec2-34-194-122-51.compute-1.amazonaws.com IN CNAME .
-ecoweb-network.com IN CNAME .
-*.ecoweb-network.com IN CNAME .
 ecs-doh.dnswarden.com IN CNAME .
 *.ecs-doh.dnswarden.com IN CNAME .
 edge.nextdns.io IN CNAME .
