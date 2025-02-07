@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1738800450 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1738886852 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.net IN CNAME .
@@ -409,6 +409,8 @@ dns.aeiou.pp.ua IN CNAME .
 *.dns.aeiou.pp.ua IN CNAME .
 dns.alekberg.net IN CNAME .
 *.dns.alekberg.net IN CNAME .
+dns.alvosec.com IN CNAME .
+*.dns.alvosec.com IN CNAME .
 dns.api.globus.org IN CNAME .
 *.dns.api.globus.org IN CNAME .
 dns.api.preview.globus.org IN CNAME .
@@ -963,6 +965,8 @@ hidemyass.com IN CNAME .
 *.hidemyass.com IN CNAME .
 hideproxy.me IN CNAME .
 *.hideproxy.me IN CNAME .
+hidester.com IN CNAME .
+*.hidester.com IN CNAME .
 hkg01.dnscry.pt IN CNAME .
 *.hkg01.dnscry.pt IN CNAME .
 hkg02.dnscry.pt IN CNAME .
@@ -1553,8 +1557,6 @@ ssl-proxy.my-addr.com IN CNAME .
 *.ssl-proxy.my-addr.com IN CNAME .
 stable-vpn.com IN CNAME .
 *.stable-vpn.com IN CNAME .
-stackfront.xyz IN CNAME .
-*.stackfront.xyz IN CNAME .
 staticnetcontent.com IN CNAME .
 *.staticnetcontent.com IN CNAME .
 steering.nextdns.io IN CNAME .
