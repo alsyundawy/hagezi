@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1738886852 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1738973251 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.net IN CNAME .
@@ -965,8 +965,6 @@ hidemyass.com IN CNAME .
 *.hidemyass.com IN CNAME .
 hideproxy.me IN CNAME .
 *.hideproxy.me IN CNAME .
-hidester.com IN CNAME .
-*.hidester.com IN CNAME .
 hkg01.dnscry.pt IN CNAME .
 *.hkg01.dnscry.pt IN CNAME .
 hkg02.dnscry.pt IN CNAME .
@@ -1687,8 +1685,6 @@ unblock-proxy.com.de IN CNAME .
 *.unblock-proxy.com.de IN CNAME .
 unblock-us.com IN CNAME .
 *.unblock-us.com IN CNAME .
-unblocked.how IN CNAME .
-*.unblocked.how IN CNAME .
 unblockit.pages.dev IN CNAME .
 *.unblockit.pages.dev IN CNAME .
 unblockninja.com IN CNAME .
