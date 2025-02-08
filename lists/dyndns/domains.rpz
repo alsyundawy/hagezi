@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1738886855 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1738973255 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -423,8 +423,6 @@ gr8domain.biz IN CNAME .
 *.gr8domain.biz IN CNAME .
 guild-site.com IN CNAME .
 *.guild-site.com IN CNAME .
-ham-radio-op.net IN CNAME .
-*.ham-radio-op.net IN CNAME .
 heroinewarrior.com IN CNAME .
 *.heroinewarrior.com IN CNAME .
 hicam.net IN CNAME .
@@ -809,8 +807,6 @@ sitelutions.com IN CNAME .
 *.sitelutions.com IN CNAME .
 softether.net IN CNAME .
 *.softether.net IN CNAME .
-soon.it IN CNAME .
-*.soon.it IN CNAME .
 space-to-rent.com IN CNAME .
 *.space-to-rent.com IN CNAME .
 spdns.de IN CNAME .
@@ -903,6 +899,8 @@ www1.biz IN CNAME .
 *.www1.biz IN CNAME .
 wwwhost.biz IN CNAME .
 *.wwwhost.biz IN CNAME .
+wwwhost.us IN CNAME .
+*.wwwhost.us IN CNAME .
 x24hr.com IN CNAME .
 *.x24hr.com IN CNAME .
 xsph.ru IN CNAME .
