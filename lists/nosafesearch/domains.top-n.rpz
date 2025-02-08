@@ -1,6 +1,6 @@
 ; RPZ "NOSAFESEARCH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1738887000 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1738973400 12h 15m 3w 3h
 andisearch.com IN CNAME .
 *.andisearch.com IN CNAME .
 baidu.com IN CNAME .
@@ -25,8 +25,6 @@ metacrawler.com IN CNAME .
 *.metacrawler.com IN CNAME .
 metager.de IN CNAME .
 *.metager.de IN CNAME .
-metager.org IN CNAME .
-*.metager.org IN CNAME .
 mojeek.com IN CNAME .
 *.mojeek.com IN CNAME .
 neeva.com IN CNAME .
