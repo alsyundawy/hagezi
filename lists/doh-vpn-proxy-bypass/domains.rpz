@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1738973251 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739059650 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.net IN CNAME .
@@ -409,8 +409,6 @@ dns.aeiou.pp.ua IN CNAME .
 *.dns.aeiou.pp.ua IN CNAME .
 dns.alekberg.net IN CNAME .
 *.dns.alekberg.net IN CNAME .
-dns.alvosec.com IN CNAME .
-*.dns.alvosec.com IN CNAME .
 dns.api.globus.org IN CNAME .
 *.dns.api.globus.org IN CNAME .
 dns.api.preview.globus.org IN CNAME .
@@ -821,6 +819,8 @@ eth.link IN CNAME .
 *.eth.link IN CNAME .
 eu-browse.startpage.com IN CNAME .
 *.eu-browse.startpage.com IN CNAME .
+eu1-browse.startpage.com IN CNAME .
+*.eu1-browse.startpage.com IN CNAME .
 eu1.dns.lavate.ch IN CNAME .
 *.eu1.dns.lavate.ch IN CNAME .
 eu2-browse.startpage.com IN CNAME .
@@ -1383,8 +1383,6 @@ protonvpn.net IN CNAME .
 *.protonvpn.net IN CNAME .
 proxfree.com IN CNAME .
 *.proxfree.com IN CNAME .
-proxy-123.com IN CNAME .
-*.proxy-123.com IN CNAME .
 proxy-search.com IN CNAME .
 *.proxy-search.com IN CNAME .
 proxy-seller.com IN CNAME .
@@ -1399,6 +1397,10 @@ proxy.com.de IN CNAME .
 *.proxy.com.de IN CNAME .
 proxy.wynd.network IN CNAME .
 *.proxy.wynd.network IN CNAME .
+proxy1.startpage.com IN CNAME .
+*.proxy1.startpage.com IN CNAME .
+proxy2.startpage.com IN CNAME .
+*.proxy2.startpage.com IN CNAME .
 proxy3.startpage.com IN CNAME .
 *.proxy3.startpage.com IN CNAME .
 proxybrowser.github.io IN CNAME .
