@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1738973324 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739059722 12h 15m 3w 3h
 000space.com IN CNAME .
 *.000space.com IN CNAME .
 000webhost.com IN CNAME .
@@ -13,8 +13,6 @@ $TTL 3600
 *.0fees.net IN CNAME .
 100webspace.net IN CNAME .
 *.100webspace.net IN CNAME .
-100ws.com IN CNAME .
-*.100ws.com IN CNAME .
 110mb.com IN CNAME .
 *.110mb.com IN CNAME .
 125mb.com IN CNAME .
@@ -853,8 +851,6 @@ freehosting.com IN CNAME .
 *.freehosting.com IN CNAME .
 freehosting.net IN CNAME .
 *.freehosting.net IN CNAME .
-freehostingeu.com IN CNAME .
-*.freehostingeu.com IN CNAME .
 freeoda.com IN CNAME .
 *.freeoda.com IN CNAME .
 freeservers.com IN CNAME .
@@ -1177,6 +1173,8 @@ noblogs.org IN CNAME .
 *.noblogs.org IN CNAME .
 nobody.jp IN CNAME .
 *.nobody.jp IN CNAME .
+nut.cc IN CNAME .
+*.nut.cc IN CNAME .
 nuvox.net IN CNAME .
 *.nuvox.net IN CNAME .
 oblogation.com IN CNAME .
@@ -1485,8 +1483,6 @@ ucoz.com IN CNAME .
 *.ucoz.com IN CNAME .
 ucoz.de IN CNAME .
 *.ucoz.de IN CNAME .
-ucoz.hu IN CNAME .
-*.ucoz.hu IN CNAME .
 ucoz.lv IN CNAME .
 *.ucoz.lv IN CNAME .
 ucoz.net IN CNAME .
@@ -1655,8 +1651,6 @@ xp3.biz IN CNAME .
 *.xp3.biz IN CNAME .
 xtgem.com IN CNAME .
 *.xtgem.com IN CNAME .
-xtreemhost.com IN CNAME .
-*.xtreemhost.com IN CNAME .
 xxxxxxxx.jp IN CNAME .
 *.xxxxxxxx.jp IN CNAME .
 xzblogs.com IN CNAME .
