@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739059650 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739146050 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.net IN CNAME .
@@ -991,6 +991,8 @@ hshh.org IN CNAME .
 *.hshh.org IN CNAME .
 hsselite.com IN CNAME .
 *.hsselite.com IN CNAME .
+http-dns.imoim.net IN CNAME .
+*.http-dns.imoim.net IN CNAME .
 httpdns-push.heytapmobile.com IN CNAME .
 *.httpdns-push.heytapmobile.com IN CNAME .
 httpdns-sc.aliyuncs.com IN CNAME .
