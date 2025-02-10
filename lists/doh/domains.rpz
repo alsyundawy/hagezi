@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739059644 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739146044 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -623,6 +623,8 @@ hrk01.dnscry.pt IN CNAME .
 *.hrk01.dnscry.pt IN CNAME .
 hshh.org IN CNAME .
 *.hshh.org IN CNAME .
+http-dns.imoim.net IN CNAME .
+*.http-dns.imoim.net IN CNAME .
 httpdns-push.heytapmobile.com IN CNAME .
 *.httpdns-push.heytapmobile.com IN CNAME .
 httpdns-sc.aliyuncs.com IN CNAME .
