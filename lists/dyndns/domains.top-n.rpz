@@ -1,6 +1,8 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739146054 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739405255 12h 15m 3w 3h
+120v.ac IN CNAME .
+*.120v.ac IN CNAME .
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -43,6 +45,8 @@ ath.cx IN CNAME .
 *.ath.cx IN CNAME .
 b0tnet.com IN CNAME .
 *.b0tnet.com IN CNAME .
+baselinux.net IN CNAME .
+*.baselinux.net IN CNAME .
 better-than.tv IN CNAME .
 *.better-than.tv IN CNAME .
 bigmoney.biz IN CNAME .
@@ -85,12 +89,20 @@ cleansite.us IN CNAME .
 *.cleansite.us IN CNAME .
 cloudns.asia IN CNAME .
 *.cloudns.asia IN CNAME .
+cloudns.be IN CNAME .
+*.cloudns.be IN CNAME .
+cloudns.biz IN CNAME .
+*.cloudns.biz IN CNAME .
 cloudns.cc IN CNAME .
 *.cloudns.cc IN CNAME .
+cloudns.ch IN CNAME .
+*.cloudns.ch IN CNAME .
 cloudns.cl IN CNAME .
 *.cloudns.cl IN CNAME .
 cloudns.org IN CNAME .
 *.cloudns.org IN CNAME .
+cloudns.pro IN CNAME .
+*.cloudns.pro IN CNAME .
 con-ip.com IN CNAME .
 *.con-ip.com IN CNAME .
 corbina.ru IN CNAME .
@@ -175,6 +187,8 @@ dnsalias.org IN CNAME .
 *.dnsalias.org IN CNAME .
 dnsdojo.com IN CNAME .
 *.dnsdojo.com IN CNAME .
+dnsdojo.net IN CNAME .
+*.dnsdojo.net IN CNAME .
 dnset.com IN CNAME .
 *.dnset.com IN CNAME .
 dnsexit.com IN CNAME .
@@ -245,6 +259,8 @@ dynamic-dns.net IN CNAME .
 *.dynamic-dns.net IN CNAME .
 dynamic-m.com IN CNAME .
 *.dynamic-m.com IN CNAME .
+dynathome.net IN CNAME .
+*.dynathome.net IN CNAME .
 dyndns-at-home.com IN CNAME .
 *.dyndns-at-home.com IN CNAME .
 dyndns-at-work.com IN CNAME .
@@ -349,6 +365,8 @@ freeddns.com IN CNAME .
 *.freeddns.com IN CNAME .
 freeddns.org IN CNAME .
 *.freeddns.org IN CNAME .
+freeddns.us IN CNAME .
+*.freeddns.us IN CNAME .
 freedynamicdns.org IN CNAME .
 *.freedynamicdns.org IN CNAME .
 freemyip.com IN CNAME .
@@ -357,6 +375,8 @@ freetcp.com IN CNAME .
 *.freetcp.com IN CNAME .
 from-al.com IN CNAME .
 *.from-al.com IN CNAME .
+from-ar.com IN CNAME .
+*.from-ar.com IN CNAME .
 from-ca.com IN CNAME .
 *.from-ca.com IN CNAME .
 from-dc.com IN CNAME .
@@ -391,8 +411,6 @@ from-sc.com IN CNAME .
 *.from-sc.com IN CNAME .
 from-tn.com IN CNAME .
 *.from-tn.com IN CNAME .
-from-wa.com IN CNAME .
-*.from-wa.com IN CNAME .
 ftp.sh IN CNAME .
 *.ftp.sh IN CNAME .
 ftp1.biz IN CNAME .
@@ -463,6 +481,8 @@ ikwb.com IN CNAME .
 *.ikwb.com IN CNAME .
 instanthq.com IN CNAME .
 *.instanthq.com IN CNAME .
+ip-ddns.com IN CNAME .
+*.ip-ddns.com IN CNAME .
 ipv64.de IN CNAME .
 *.ipv64.de IN CNAME .
 ipv64.net IN CNAME .
@@ -737,6 +757,8 @@ root.sx IN CNAME .
 *.root.sx IN CNAME .
 rr.nu IN CNAME .
 *.rr.nu IN CNAME .
+run.place IN CNAME .
+*.run.place IN CNAME .
 sdp-mos.ru IN CNAME .
 *.sdp-mos.ru IN CNAME .
 securitytactics.com IN CNAME .
@@ -801,6 +823,8 @@ sitelutions.com IN CNAME .
 *.sitelutions.com IN CNAME .
 softether.net IN CNAME .
 *.softether.net IN CNAME .
+soon.it IN CNAME .
+*.soon.it IN CNAME .
 space-to-rent.com IN CNAME .
 *.space-to-rent.com IN CNAME .
 spdns.de IN CNAME .
@@ -809,6 +833,8 @@ spdns.org IN CNAME .
 *.spdns.org IN CNAME .
 spdyn.de IN CNAME .
 *.spdyn.de IN CNAME .
+sslip.io IN CNAME .
+*.sslip.io IN CNAME .
 ssmailer.com IN CNAME .
 *.ssmailer.com IN CNAME .
 strangled.net IN CNAME .
@@ -851,8 +877,6 @@ tzo.com IN CNAME .
 *.tzo.com IN CNAME .
 uk.to IN CNAME .
 *.uk.to IN CNAME .
-undo.it IN CNAME .
-*.undo.it IN CNAME .
 unusualperson.com IN CNAME .
 *.unusualperson.com IN CNAME .
 us.to IN CNAME .
@@ -867,8 +891,6 @@ venez.net IN CNAME .
 *.venez.net IN CNAME .
 viewdns.net IN CNAME .
 *.viewdns.net IN CNAME .
-vizvaz.com IN CNAME .
-*.vizvaz.com IN CNAME .
 vpndns.net IN CNAME .
 *.vpndns.net IN CNAME .
 webhop.biz IN CNAME .
@@ -889,6 +911,8 @@ winco.com.br IN CNAME .
 *.winco.com.br IN CNAME .
 winconnection.net IN CNAME .
 *.winconnection.net IN CNAME .
+work.gd IN CNAME .
+*.work.gd IN CNAME .
 workisboring.com IN CNAME .
 *.workisboring.com IN CNAME .
 www1.biz IN CNAME .
