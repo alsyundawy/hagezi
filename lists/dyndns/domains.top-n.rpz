@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739405255 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739578054 12h 15m 3w 3h
 120v.ac IN CNAME .
 *.120v.ac IN CNAME .
 1337.cx IN CNAME .
@@ -15,8 +15,6 @@ $TTL 3600
 *.3-a.net IN CNAME .
 3322.net IN CNAME .
 *.3322.net IN CNAME .
-3322.org IN CNAME .
-*.3322.org IN CNAME .
 3utilities.com IN CNAME .
 *.3utilities.com IN CNAME .
 4cloud.click IN CNAME .
@@ -69,8 +67,6 @@ camdvr.org IN CNAME .
 *.camdvr.org IN CNAME .
 casacam.net IN CNAME .
 *.casacam.net IN CNAME .
-cbu.net IN CNAME .
-*.cbu.net IN CNAME .
 changeip.co IN CNAME .
 *.changeip.co IN CNAME .
 changeip.com IN CNAME .
@@ -99,6 +95,8 @@ cloudns.ch IN CNAME .
 *.cloudns.ch IN CNAME .
 cloudns.cl IN CNAME .
 *.cloudns.cl IN CNAME .
+cloudns.in IN CNAME .
+*.cloudns.in IN CNAME .
 cloudns.org IN CNAME .
 *.cloudns.org IN CNAME .
 cloudns.pro IN CNAME .
@@ -115,8 +113,6 @@ custom-gaming.net IN CNAME .
 *.custom-gaming.net IN CNAME .
 damnserver.com IN CNAME .
 *.damnserver.com IN CNAME .
-ddns.com.br IN CNAME .
-*.ddns.com.br IN CNAME .
 ddns.info IN CNAME .
 *.ddns.info IN CNAME .
 ddns.me IN CNAME .
@@ -145,8 +141,6 @@ ddnss.org IN CNAME .
 *.ddnss.org IN CNAME .
 dedyn.io IN CNAME .
 *.dedyn.io IN CNAME .
-dhs.org IN CNAME .
-*.dhs.org IN CNAME .
 digikabel.hu IN CNAME .
 *.digikabel.hu IN CNAME .
 dip.jp IN CNAME .
@@ -163,10 +157,6 @@ dns-dynamic.net IN CNAME .
 *.dns-dynamic.net IN CNAME .
 dns-stuff.com IN CNAME .
 *.dns-stuff.com IN CNAME .
-dns.army IN CNAME .
-*.dns.army IN CNAME .
-dns.navy IN CNAME .
-*.dns.navy IN CNAME .
 dns04.com IN CNAME .
 *.dns04.com IN CNAME .
 dns05.com IN CNAME .
@@ -257,8 +247,6 @@ dynalias.org IN CNAME .
 *.dynalias.org IN CNAME .
 dynamic-dns.net IN CNAME .
 *.dynamic-dns.net IN CNAME .
-dynamic-m.com IN CNAME .
-*.dynamic-m.com IN CNAME .
 dynathome.net IN CNAME .
 *.dynathome.net IN CNAME .
 dyndns-at-home.com IN CNAME .
@@ -321,10 +309,6 @@ dynuddns.net IN CNAME .
 *.dynuddns.net IN CNAME .
 dynv6.com IN CNAME .
 *.dynv6.com IN CNAME .
-dynv6.net IN CNAME .
-*.dynv6.net IN CNAME .
-dynvpn.de IN CNAME .
-*.dynvpn.de IN CNAME .
 easydns.com IN CNAME .
 *.easydns.com IN CNAME .
 easydns.info IN CNAME .
@@ -345,8 +329,6 @@ expired-dns.com IN CNAME .
 *.expired-dns.com IN CNAME .
 ezua.com IN CNAME .
 *.ezua.com IN CNAME .
-f3322.net IN CNAME .
-*.f3322.net IN CNAME .
 faqserv.com IN CNAME .
 *.faqserv.com IN CNAME .
 farted.net IN CNAME .
@@ -359,8 +341,6 @@ for-the.biz IN CNAME .
 *.for-the.biz IN CNAME .
 forumz.info IN CNAME .
 *.forumz.info IN CNAME .
-fr.to IN CNAME .
-*.fr.to IN CNAME .
 freeddns.com IN CNAME .
 *.freeddns.com IN CNAME .
 freeddns.org IN CNAME .
@@ -541,8 +521,6 @@ justdied.com IN CNAME .
 *.justdied.com IN CNAME .
 k.vu IN CNAME .
 *.k.vu IN CNAME .
-kck-saratov.ru IN CNAME .
-*.kck-saratov.ru IN CNAME .
 kicks-ass.net IN CNAME .
 *.kicks-ass.net IN CNAME .
 kicks-ass.org IN CNAME .
@@ -679,8 +657,6 @@ now-dns.net IN CNAME .
 *.now-dns.net IN CNAME .
 nowddns.com IN CNAME .
 *.nowddns.com IN CNAME .
-ns01.biz IN CNAME .
-*.ns01.biz IN CNAME .
 ns01.info IN CNAME .
 *.ns01.info IN CNAME .
 ns01.us IN CNAME .
@@ -823,8 +799,6 @@ sitelutions.com IN CNAME .
 *.sitelutions.com IN CNAME .
 softether.net IN CNAME .
 *.softether.net IN CNAME .
-soon.it IN CNAME .
-*.soon.it IN CNAME .
 space-to-rent.com IN CNAME .
 *.space-to-rent.com IN CNAME .
 spdns.de IN CNAME .
@@ -873,8 +847,6 @@ tunnelbroker.net IN CNAME .
 *.tunnelbroker.net IN CNAME .
 twilightparadox.com IN CNAME .
 *.twilightparadox.com IN CNAME .
-tzo.com IN CNAME .
-*.tzo.com IN CNAME .
 uk.to IN CNAME .
 *.uk.to IN CNAME .
 unusualperson.com IN CNAME .
@@ -883,8 +855,6 @@ us.to IN CNAME .
 *.us.to IN CNAME .
 usa.cc IN CNAME .
 *.usa.cc IN CNAME .
-v6.rocks IN CNAME .
-*.v6.rocks IN CNAME .
 venez.fr IN CNAME .
 *.venez.fr IN CNAME .
 venez.net IN CNAME .
@@ -909,8 +879,6 @@ wikaba.com IN CNAME .
 *.wikaba.com IN CNAME .
 winco.com.br IN CNAME .
 *.winco.com.br IN CNAME .
-winconnection.net IN CNAME .
-*.winconnection.net IN CNAME .
 work.gd IN CNAME .
 *.work.gd IN CNAME .
 workisboring.com IN CNAME .
@@ -919,12 +887,10 @@ www1.biz IN CNAME .
 *.www1.biz IN CNAME .
 wwwhost.biz IN CNAME .
 *.wwwhost.biz IN CNAME .
-wwwhost.us IN CNAME .
-*.wwwhost.us IN CNAME .
 x24hr.com IN CNAME .
 *.x24hr.com IN CNAME .
-xsph.ru IN CNAME .
-*.xsph.ru IN CNAME .
+x443.pw IN CNAME .
+*.x443.pw IN CNAME .
 xxuz.com IN CNAME .
 *.xxuz.com IN CNAME .
 xxxy.info IN CNAME .
