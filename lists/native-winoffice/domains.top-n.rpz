@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739405393 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739578193 12h 15m 3w 3h
 a4.bing.com IN CNAME .
 *.a4.bing.com IN CNAME .
 ac2.msn.com IN CNAME .
@@ -371,6 +371,8 @@ irreverselookuptm.trafficmanager.net IN CNAME .
 *.irreverselookuptm.trafficmanager.net IN CNAME .
 ism-telemetry.trafficmanager.net IN CNAME .
 *.ism-telemetry.trafficmanager.net IN CNAME .
+jpc-visio-telemetry.officeapps.live.com IN CNAME .
+*.jpc-visio-telemetry.officeapps.live.com IN CNAME .
 js.cdn.applicationinsights.io IN CNAME .
 *.js.cdn.applicationinsights.io IN CNAME .
 js.monitor.azure.com IN CNAME .
