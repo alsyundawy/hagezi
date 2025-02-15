@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Hagezi "WHITELIST-REFERRAL" AdBlock List
-! Version: 1739492534
-! Number of rules: 652
+! Version: 1739578935
+! Number of rules: 655
 !
 ||3cinteractive.com^
 ||7eer.net^
@@ -25,6 +25,7 @@
 ||aax-eu.amazon.it^
 ||aax-eu.amazon.nl^
 ||aax-eu.amazon.sa^
+||aax-eu.amazon.se^
 ||aax-fe-pdx-direct.amazon.com^
 ||aax-fe-retail-rtb.amazon.com^
 ||aax-fe.amazon.co.jp^
@@ -69,7 +70,6 @@
 ||adservice.google.com.br^
 ||adservice.google.com.cl^
 ||adservice.google.com.co^
-||adservice.google.com.ec^
 ||adservice.google.com.gt^
 ||adservice.google.com.mx^
 ||adservice.google.com.pe^
@@ -87,7 +87,6 @@
 ||adservice.google.hr^
 ||adservice.google.ie^
 ||adservice.google.it^
-||adservice.google.lt^
 ||adservice.google.nl^
 ||adservice.google.no^
 ||adservice.google.pl^
@@ -105,6 +104,7 @@
 ||analytics.barnebys.sh^
 ||analytics.twitter.com^
 ||anrdoezrs.net^
+||api-01.moengage.com^
 ||api-eu.cleverpush.com^
 ||api-eu1.hubapi.com^
 ||api-na1.hubapi.com^
@@ -279,6 +279,7 @@
 ||dt51.net^
 ||e.customeriomail.com^
 ||ea.galerieslafayette.com^
+||ek8.voyage-prive.com^
 ||email-tracking.infobip.com^
 ||email.docker.com^
 ||email.microsoft.com^
@@ -303,6 +304,7 @@
 ||fr135.net^
 ||gate-ag.first-id.fr^
 ||geo.itunes.apple.com^
+||geo01.dns.presslabs.net^
 ||geo02.dns.presslabs.net^
 ||geo1.presslabs.net^
 ||ggopjn.com^
@@ -377,23 +379,27 @@
 ||mention-me.com^
 ||metric.picodi.com^
 ||micpn.com^
+||mkto-ab020242.com^
 ||mkto-ab040115.com^
 ||mkto-ab040147.com^
 ||mkto-ab060134.com^
-||mkto-ab130125.com^
-||mkto-ab150224.com^
+||mkto-ab060144.com^
+||mkto-ab070017.com^
+||mkto-ab100016.com^
+||mkto-ab110171.com^
 ||mkto-ab220178.com^
 ||mkto-ab220193.com^
 ||mkto-ab240112.com^
 ||mkto-ab250105.com^
+||mkto-ab270090.com^
 ||mkto-ab300154.com^
 ||mkto-ab310115.com^
 ||mkto-ab330197.com^
 ||mkto-ab340022.com^
 ||mkto-ab340124.com^
-||mkto-ab390087.com^
 ||mkto-ab420081.com^
-||mkto-ab440025.com^
+||mkto-ab460120.com^
+||mkto-ab470063.com^
 ||mkto-ab470148.com^
 ||mkto-ab530057.com^
 ||mkto-ab540059.com^
@@ -402,7 +408,6 @@
 ||mkto-ab560068.com^
 ||mkto-ab570110.com^
 ||mkto-ab580004.com^
-||mkto-ab590004.com^
 ||mkto-ab640193.com^
 ||mkto-ab650097.com^
 ||mkto-ab660121.com^
@@ -410,21 +415,20 @@
 ||mkto-ab690062.com^
 ||mkto-ab690180.com^
 ||mkto-abm0229.com^
-||mkto-cs0007.com^
 ||mkto-d0170.com^
 ||mkto-g0180.com^
 ||mkto-lon030291.com^
 ||mkto-lon040152.com^
-||mkto-lon090082.com^
 ||mkto-nld1040060.com^
 ||mkto-nld1040186.com^
 ||mkto-sj010104.com^
 ||mkto-sj030214.com^
 ||mkto-sj040136.com^
 ||mkto-sj040252.com^
-||mkto-sj070218.com^
 ||mkto-sj090132.com^
+||mkto-sj140007.com^
 ||mkto-sj160210.com^
+||mkto-sj170094.com^
 ||mkto-sj180011.com^
 ||mkto-sj190104.com^
 ||mkto-sj190237.com^
@@ -434,6 +438,7 @@
 ||mkto-sj270080.com^
 ||mkto-sj320047.com^
 ||mkto-sj330006.com^
+||mkto-sj340004.com^
 ||mkto-sj360142.com^
 ||mkto-sj380048.com^
 ||mkto-sjh0224.com^
@@ -448,7 +453,6 @@
 ||newsletter2go.com^
 ||newslink.reuters.com^
 ||njih.net^
-||nl-go.kelkoogroup.net^
 ||nonstoppartner.net^
 ||ojrq.net^
 ||onelink.me^
@@ -474,7 +478,6 @@
 ||prf.hn^
 ||prism.app-us1.com^
 ||promo.mobile.de^
-||pt-go.kelkoogroup.net^
 ||px.a8.net^
 ||pxf.io^
 ||qflm.net^
@@ -483,8 +486,8 @@
 ||r.linksprf.com^
 ||r.srvtrck.com^
 ||r20.rs6.net^
+||r88lcbcab.cc.rs6.net^
 ||rads.stackoverflow.com^
-||rdr9bzpab.cc.rs6.net^
 ||readdle.cmail20.com^
 ||rebrandlydomain.com^
 ||recommender-eu.scarabresearch.com^
@@ -498,15 +501,14 @@
 ||referrals.bravesoftware.com^
 ||referrer.disqus.com^
 ||rewardtk.com^
-||rgllca6ab.cc.rs6.net^
-||rh5utc9ab.cc.rs6.net^
 ||ri-cdn.exponea.com^
 ||rides.sng.link^
+||rtaw7vebb.cc.rs6.net^
 ||run.admost.com^
 ||s1.exacttarget.com^
 ||s10.exacttarget.com^
-||s10.login.exacttarget.com^
 ||s11.exacttarget.com^
+||s11.login.exacttarget.com^
 ||s12.exacttarget.com^
 ||s13.exacttarget.com^
 ||s4.exacttarget.com^
@@ -514,7 +516,6 @@
 ||s51.exacttarget.com^
 ||s6.exacttarget.com^
 ||s7.exacttarget.com^
-||s8.exacttarget.com^
 ||sailthru.com^
 ||sdk.us.xtremepush.com^
 ||secure.everyaction.com^
@@ -545,11 +546,12 @@
 ||suite10.emarsys.net^
 ||suite11.emarsys.net^
 ||suite16.emarsys.net^
-||suite17.emarsys.net^
 ||suite24.emarsys.net^
-||suite27.emarsys.net^
 ||suite29.emarsys.net^
+||suite32.emarsys.net^
 ||suite33.emarsys.net^
+||suite34.emarsys.net^
+||suite36.emarsys.net^
 ||suite38.emarsys.net^
 ||suite40-cf.emarsys.net^
 ||suite40.emarsys.net^
@@ -561,6 +563,7 @@
 ||suite58.emarsys.net^
 ||suite59.emarsys.net^
 ||suite63.emarsys.net^
+||suite67-cf.emarsys.net^
 ||suite7.emarsys.net^
 ||suite9.emarsys.net^
 ||t.1und1.de^
