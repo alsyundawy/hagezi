@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739405244 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739578044 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -29,6 +29,8 @@ a.safe.ns.dnslify.com IN CNAME .
 *.a.safe.ns.dnslify.com IN CNAME .
 abe01.dnscry.pt IN CNAME .
 *.abe01.dnscry.pt IN CNAME .
+abel.waringer-atg.de IN CNAME .
+*.abel.waringer-atg.de IN CNAME .
 abn01.dnscry.pt IN CNAME .
 *.abn01.dnscry.pt IN CNAME .
 ada.openbld.net IN CNAME .
@@ -441,8 +443,6 @@ doh.mullvad.net IN CNAME .
 *.doh.mullvad.net IN CNAME .
 doh.nic.lv IN CNAME .
 *.doh.nic.lv IN CNAME .
-doh.niyawe.de IN CNAME .
-*.doh.niyawe.de IN CNAME .
 doh.northeu.pi-dns.com IN CNAME .
 *.doh.northeu.pi-dns.com IN CNAME .
 doh.onedns.net IN CNAME .
@@ -813,6 +813,8 @@ punono.duckdns.org IN CNAME .
 *.punono.duckdns.org IN CNAME .
 qlf-doh.inria.fr IN CNAME .
 *.qlf-doh.inria.fr IN CNAME .
+r1bnc.com IN CNAME .
+*.r1bnc.com IN CNAME .
 rdd01.dnscry.pt IN CNAME .
 *.rdd01.dnscry.pt IN CNAME .
 rdns.faelix.net IN CNAME .
