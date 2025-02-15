@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739405322 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739578122 12h 15m 3w 3h
 000space.com IN CNAME .
 *.000space.com IN CNAME .
 000webhost.com IN CNAME .
@@ -447,6 +447,8 @@ blogspot.com.by IN CNAME .
 *.blogspot.com.by IN CNAME .
 blogspot.com.co IN CNAME .
 *.blogspot.com.co IN CNAME .
+blogspot.com.com IN CNAME .
+*.blogspot.com.com IN CNAME .
 blogspot.com.cy IN CNAME .
 *.blogspot.com.cy IN CNAME .
 blogspot.com.ee IN CNAME .
@@ -1569,6 +1571,8 @@ webcindario.com IN CNAME .
 *.webcindario.com IN CNAME .
 webdesign96.com IN CNAME .
 *.webdesign96.com IN CNAME .
+webflow.io IN CNAME .
+*.webflow.io IN CNAME .
 webgarden.com IN CNAME .
 *.webgarden.com IN CNAME .
 weblium.com IN CNAME .
