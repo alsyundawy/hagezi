@@ -1,6 +1,8 @@
 ; RPZ "NATIVE-VIVO-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739578190 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739664590 12h 15m 3w 3h
+asia-ad-mkt-vivofs.vivoglobal.com IN CNAME .
+*.asia-ad-mkt-vivofs.vivoglobal.com IN CNAME .
 asia-adlog.vivoglobal.com IN CNAME .
 *.asia-adlog.vivoglobal.com IN CNAME .
 asia-adsjssdk.vivoglobal.com IN CNAME .
@@ -37,6 +39,8 @@ asia-st-sl.vivoglobal.com IN CNAME .
 *.asia-st-sl.vivoglobal.com IN CNAME .
 asia-stsdk.vivoglobal.com IN CNAME .
 *.asia-stsdk.vivoglobal.com IN CNAME .
+asia-vcode-od.vivoglobal.com IN CNAME .
+*.asia-vcode-od.vivoglobal.com IN CNAME .
 asia-vcode-or.vivoglobal.com IN CNAME .
 *.asia-vcode-or.vivoglobal.com IN CNAME .
 asia-vpushonrt-stsdk.vivoglobal.com IN CNAME .
@@ -95,10 +99,14 @@ in-ex-adlog.vivoglobal.com IN CNAME .
 *.in-ex-adlog.vivoglobal.com IN CNAME .
 in-monitor-stsdk.vivoglobal.com IN CNAME .
 *.in-monitor-stsdk.vivoglobal.com IN CNAME .
+in-news-abroad-backstage-interface.vivoglobal.com IN CNAME .
+*.in-news-abroad-backstage-interface.vivoglobal.com IN CNAME .
 in-onrt-stsdk.vivoglobal.com IN CNAME .
 *.in-onrt-stsdk.vivoglobal.com IN CNAME .
 in-ort-stsdk.vivoglobal.com IN CNAME .
 *.in-ort-stsdk.vivoglobal.com IN CNAME .
+in-os-config-appstore.vivoglobal.com IN CNAME .
+*.in-os-config-appstore.vivoglobal.com IN CNAME .
 in-pnrt-stsdk.vivoglobal.com IN CNAME .
 *.in-pnrt-stsdk.vivoglobal.com IN CNAME .
 in-vpushonrt-stsdk.vivoglobal.com IN CNAME .
@@ -175,3 +183,15 @@ ru-stsdk.vivoglobal.com IN CNAME .
 *.ru-stsdk.vivoglobal.com IN CNAME .
 stsdk.vivoglobal.com IN CNAME .
 *.stsdk.vivoglobal.com IN CNAME .
+tr-domaincfg.vivoglobal.com IN CNAME .
+*.tr-domaincfg.vivoglobal.com IN CNAME .
+tr-romsp-unifyconfig.vivoglobal.com IN CNAME .
+*.tr-romsp-unifyconfig.vivoglobal.com IN CNAME .
+tr-st-sl.vivoglobal.com IN CNAME .
+*.tr-st-sl.vivoglobal.com IN CNAME .
+tr-timesync.vivoglobal.com IN CNAME .
+*.tr-timesync.vivoglobal.com IN CNAME .
+tr-vcode-api.vivoglobal.com IN CNAME .
+*.tr-vcode-api.vivoglobal.com IN CNAME .
+tr-vcode-od.vivoglobal.com IN CNAME .
+*.tr-vcode-od.vivoglobal.com IN CNAME .
