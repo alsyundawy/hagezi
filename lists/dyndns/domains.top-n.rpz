@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739578054 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739664454 12h 15m 3w 3h
 120v.ac IN CNAME .
 *.120v.ac IN CNAME .
 1337.cx IN CNAME .
@@ -179,6 +179,8 @@ dnsdojo.com IN CNAME .
 *.dnsdojo.com IN CNAME .
 dnsdojo.net IN CNAME .
 *.dnsdojo.net IN CNAME .
+dnsdojo.org IN CNAME .
+*.dnsdojo.org IN CNAME .
 dnset.com IN CNAME .
 *.dnset.com IN CNAME .
 dnsexit.com IN CNAME .
