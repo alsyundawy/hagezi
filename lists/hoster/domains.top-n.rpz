@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739578122 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739664522 12h 15m 3w 3h
 000space.com IN CNAME .
 *.000space.com IN CNAME .
 000webhost.com IN CNAME .
@@ -23,6 +23,8 @@ $TTL 3600
 *.150m.com IN CNAME .
 16clouds.com IN CNAME .
 *.16clouds.com IN CNAME .
+16mb.com IN CNAME .
+*.16mb.com IN CNAME .
 1asphost.com IN CNAME .
 *.1asphost.com IN CNAME .
 1fr1.net IN CNAME .
@@ -793,8 +795,6 @@ fitnell.com IN CNAME .
 *.fitnell.com IN CNAME .
 flazio.com IN CNAME .
 *.flazio.com IN CNAME .
-focal.us.kg IN CNAME .
-*.focal.us.kg IN CNAME .
 footeo.com IN CNAME .
 *.footeo.com IN CNAME .
 fora.pl IN CNAME .
@@ -855,6 +855,8 @@ freehosting.com IN CNAME .
 *.freehosting.com IN CNAME .
 freehosting.net IN CNAME .
 *.freehosting.net IN CNAME .
+freehostingeu.com IN CNAME .
+*.freehostingeu.com IN CNAME .
 freeoda.com IN CNAME .
 *.freeoda.com IN CNAME .
 freeservers.com IN CNAME .
@@ -889,6 +891,8 @@ fw.hu IN CNAME .
 *.fw.hu IN CNAME .
 galeon.com IN CNAME .
 *.galeon.com IN CNAME .
+gamingcontrol.de IN CNAME .
+*.gamingcontrol.de IN CNAME .
 get-blogging.com IN CNAME .
 *.get-blogging.com IN CNAME .
 getblogs.net IN CNAME .
@@ -1655,8 +1659,6 @@ wifeo.com IN CNAME .
 *.wifeo.com IN CNAME .
 win-blog.com IN CNAME .
 *.win-blog.com IN CNAME .
-wix.com IN CNAME .
-*.wix.com IN CNAME .
 wixsite.com IN CNAME .
 *.wixsite.com IN CNAME .
 wizzardsblog.com IN CNAME .
