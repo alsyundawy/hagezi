@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739664444 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739750843 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -201,6 +201,8 @@ dns.csswg.org IN CNAME .
 *.dns.csswg.org IN CNAME .
 dns.daemon.za.net IN CNAME .
 *.dns.daemon.za.net IN CNAME .
+dns.de.futuredns.eu.org IN CNAME .
+*.dns.de.futuredns.eu.org IN CNAME .
 dns.decloudus.com IN CNAME .
 *.dns.decloudus.com IN CNAME .
 dns.digitale-gesellschaft.ch IN CNAME .
@@ -209,6 +211,8 @@ dns.dns-53.com IN CNAME .
 *.dns.dns-53.com IN CNAME .
 dns.dnshome.de IN CNAME .
 *.dns.dnshome.de IN CNAME .
+dns.dnsoverhttps.net IN CNAME .
+*.dns.dnsoverhttps.net IN CNAME .
 dns.dnswarden.com IN CNAME .
 *.dns.dnswarden.com IN CNAME .
 dns.enzonix.com IN CNAME .
@@ -299,6 +303,8 @@ dns.us-ashburn-1.oraclecloud.com IN CNAME .
 *.dns.us-ashburn-1.oraclecloud.com IN CNAME .
 dns.us-phoenix-1.oraclecloud.com IN CNAME .
 *.dns.us-phoenix-1.oraclecloud.com IN CNAME .
+dns.us.futuredns.eu.org IN CNAME .
+*.dns.us.futuredns.eu.org IN CNAME .
 dns.watch IN CNAME .
 *.dns.watch IN CNAME .
 dns.wechat.com IN CNAME .
@@ -379,6 +385,8 @@ doh-fi.blahdns.com IN CNAME .
 *.doh-fi.blahdns.com IN CNAME .
 doh-jp.blahdns.com IN CNAME .
 *.doh-jp.blahdns.com IN CNAME .
+doh-pure.onedns.net IN CNAME .
+*.doh-pure.onedns.net IN CNAME .
 doh-sg.blahdns.com IN CNAME .
 *.doh-sg.blahdns.com IN CNAME .
 doh.360.cn IN CNAME .
@@ -699,6 +707,8 @@ luna-is.so-gorgeo.us.kg IN CNAME .
 *.luna-is.so-gorgeo.us.kg IN CNAME .
 mad01.dnscry.pt IN CNAME .
 *.mad01.dnscry.pt IN CNAME .
+man01.dnscry.pt IN CNAME .
+*.man01.dnscry.pt IN CNAME .
 mask-api.fe2.apple-dns.net IN CNAME .
 *.mask-api.fe2.apple-dns.net IN CNAME .
 mask-api.icloud.com IN CNAME .
@@ -943,17 +953,19 @@ waw01.dnscry.pt IN CNAME .
 *.waw01.dnscry.pt IN CNAME .
 waw02.dnscry.pt IN CNAME .
 *.waw02.dnscry.pt IN CNAME .
+yhz01.dnscry.pt IN CNAME .
+*.yhz01.dnscry.pt IN CNAME .
 yul01.dnscry.pt IN CNAME .
 *.yul01.dnscry.pt IN CNAME .
 yussy-is.so-gorgeo.us.kg IN CNAME .
 *.yussy-is.so-gorgeo.us.kg IN CNAME .
 yvr01.dnscry.pt IN CNAME .
 *.yvr01.dnscry.pt IN CNAME .
+yyc01.dnscry.pt IN CNAME .
+*.yyc01.dnscry.pt IN CNAME .
 yyz01.dnscry.pt IN CNAME .
 *.yyz01.dnscry.pt IN CNAME .
 zal01.dnscry.pt IN CNAME .
 *.zal01.dnscry.pt IN CNAME .
 zrh1-ns01.monzoon.net IN CNAME .
 *.zrh1-ns01.monzoon.net IN CNAME .
-zxcvb.pp.ua IN CNAME .
-*.zxcvb.pp.ua IN CNAME .
