@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739750843 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739837244 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -681,8 +681,6 @@ kiv01.dnscry.pt IN CNAME .
 *.kiv01.dnscry.pt IN CNAME .
 kronos.plan9-dns.com IN CNAME .
 *.kronos.plan9-dns.com IN CNAME .
-krtekvpn.duckdns.org IN CNAME .
-*.krtekvpn.duckdns.org IN CNAME .
 las01.dnscry.pt IN CNAME .
 *.las01.dnscry.pt IN CNAME .
 lax01.dnscry.pt IN CNAME .
