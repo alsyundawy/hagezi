@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739837393 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739923793 12h 15m 3w 3h
 a4.bing.com IN CNAME .
 *.a4.bing.com IN CNAME .
 ac2.msn.com IN CNAME .
@@ -123,6 +123,8 @@ btv-du-dev-eventhub-streamanalytics.servicebus.windows.net IN CNAME .
 *.btv-du-dev-eventhub-streamanalytics.servicebus.windows.net IN CNAME .
 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net IN CNAME .
 *.btv-du-prod-eventhub-streamanalytics.servicebus.windows.net IN CNAME .
+c-bingapis-com.dual-a-0034.a-msedge.net IN CNAME .
+*.c-bingapis-com.dual-a-0034.a-msedge.net IN CNAME .
 c.ar.msn.com IN CNAME .
 *.c.ar.msn.com IN CNAME .
 c.at.msn.com IN CNAME .
@@ -131,6 +133,8 @@ c.be.msn.com IN CNAME .
 *.c.be.msn.com IN CNAME .
 c.bing.com IN CNAME .
 *.c.bing.com IN CNAME .
+c.bingapis.com IN CNAME .
+*.c.bingapis.com IN CNAME .
 c.br.msn.com IN CNAME .
 *.c.br.msn.com IN CNAME .
 c.ca.msn.com IN CNAME .
