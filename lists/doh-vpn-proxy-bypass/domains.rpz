@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739837250 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1739923650 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.net IN CNAME .
@@ -1085,6 +1085,8 @@ kproxy.com IN CNAME .
 *.kproxy.com IN CNAME .
 kronos.plan9-dns.com IN CNAME .
 *.kronos.plan9-dns.com IN CNAME .
+krtekvpn.duckdns.org IN CNAME .
+*.krtekvpn.duckdns.org IN CNAME .
 lantern.io IN CNAME .
 *.lantern.io IN CNAME .
 las01.dnscry.pt IN CNAME .
@@ -1611,8 +1613,6 @@ thevpncompany.net IN CNAME .
 *.thevpncompany.net IN CNAME .
 tiger.dns.qwer.pw IN CNAME .
 *.tiger.dns.qwer.pw IN CNAME .
-tikvpn.com IN CNAME .
-*.tikvpn.com IN CNAME .
 tky-dns.bitdefender.net IN CNAME .
 *.tky-dns.bitdefender.net IN CNAME .
 tll01.dnscry.pt IN CNAME .
