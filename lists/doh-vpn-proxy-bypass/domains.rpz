@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739923650 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740010051 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.net IN CNAME .
@@ -1403,6 +1403,8 @@ proxy-service.com.de IN CNAME .
 *.proxy-service.com.de IN CNAME .
 proxy-site.com.de IN CNAME .
 *.proxy-site.com.de IN CNAME .
+proxy-works.com IN CNAME .
+*.proxy-works.com IN CNAME .
 proxy-youtube.com IN CNAME .
 *.proxy-youtube.com IN CNAME .
 proxy.com.de IN CNAME .
@@ -1609,6 +1611,8 @@ tbunet.com IN CNAME .
 *.tbunet.com IN CNAME .
 testpilot.firefox.com IN CNAME .
 *.testpilot.firefox.com IN CNAME .
+tetty-is.so-gorgeo.us.kg IN CNAME .
+*.tetty-is.so-gorgeo.us.kg IN CNAME .
 thevpncompany.net IN CNAME .
 *.thevpncompany.net IN CNAME .
 tiger.dns.qwer.pw IN CNAME .
