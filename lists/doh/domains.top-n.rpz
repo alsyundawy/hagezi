@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1739923643 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740010044 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -909,6 +909,8 @@ syd02.dnscry.pt IN CNAME .
 *.syd02.dnscry.pt IN CNAME .
 tbs01.dnscry.pt IN CNAME .
 *.tbs01.dnscry.pt IN CNAME .
+tetty-is.so-gorgeo.us.kg IN CNAME .
+*.tetty-is.so-gorgeo.us.kg IN CNAME .
 tiger.dns.qwer.pw IN CNAME .
 *.tiger.dns.qwer.pw IN CNAME .
 tky-dns.bitdefender.net IN CNAME .
