@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740010051 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740096450 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.net IN CNAME .
@@ -1395,6 +1395,8 @@ protonvpn.net IN CNAME .
 *.protonvpn.net IN CNAME .
 proxfree.com IN CNAME .
 *.proxfree.com IN CNAME .
+proxy-123.com IN CNAME .
+*.proxy-123.com IN CNAME .
 proxy-search.com IN CNAME .
 *.proxy-search.com IN CNAME .
 proxy-seller.com IN CNAME .
