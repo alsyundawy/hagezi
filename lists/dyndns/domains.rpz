@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740010054 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740096454 12h 15m 3w 3h
 120v.ac IN CNAME .
 *.120v.ac IN CNAME .
 1337.cx IN CNAME .
@@ -251,8 +251,6 @@ dynalias.org IN CNAME .
 *.dynalias.org IN CNAME .
 dynamic-dns.net IN CNAME .
 *.dynamic-dns.net IN CNAME .
-dynathome.net IN CNAME .
-*.dynathome.net IN CNAME .
 dyndns-at-home.com IN CNAME .
 *.dyndns-at-home.com IN CNAME .
 dyndns-at-work.com IN CNAME .
@@ -587,6 +585,8 @@ myddns.com IN CNAME .
 *.myddns.com IN CNAME .
 myddns.me IN CNAME .
 *.myddns.me IN CNAME .
+myddns.rocks IN CNAME .
+*.myddns.rocks IN CNAME .
 myeffect.net IN CNAME .
 *.myeffect.net IN CNAME .
 myftp.biz IN CNAME .
