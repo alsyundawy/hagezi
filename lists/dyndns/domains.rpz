@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740096454 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740182853 12h 15m 3w 3h
 120v.ac IN CNAME .
 *.120v.ac IN CNAME .
 1337.cx IN CNAME .
@@ -431,6 +431,8 @@ hobby-site.com IN CNAME .
 *.hobby-site.com IN CNAME .
 home-webserver.de IN CNAME .
 *.home-webserver.de IN CNAME .
+home.kg IN CNAME .
+*.home.kg IN CNAME .
 home64.de IN CNAME .
 *.home64.de IN CNAME .
 homedns.org IN CNAME .
@@ -573,8 +575,6 @@ mrface.com IN CNAME .
 *.mrface.com IN CNAME .
 mrslove.com IN CNAME .
 *.mrslove.com IN CNAME .
-my-wan.de IN CNAME .
-*.my-wan.de IN CNAME .
 my.to IN CNAME .
 *.my.to IN CNAME .
 my03.com IN CNAME .
