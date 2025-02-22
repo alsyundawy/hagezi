@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740096444 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740182843 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -451,6 +451,8 @@ doh.mullvad.net IN CNAME .
 *.doh.mullvad.net IN CNAME .
 doh.nic.lv IN CNAME .
 *.doh.nic.lv IN CNAME .
+doh.niyawe.de IN CNAME .
+*.doh.niyawe.de IN CNAME .
 doh.northeu.pi-dns.com IN CNAME .
 *.doh.northeu.pi-dns.com IN CNAME .
 doh.onedns.net IN CNAME .
