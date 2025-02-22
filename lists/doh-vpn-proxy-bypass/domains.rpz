@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740096450 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740182850 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.net IN CNAME .
@@ -683,6 +683,8 @@ doh.libredns.gr IN CNAME .
 *.doh.libredns.gr IN CNAME .
 doh.nic.lv IN CNAME .
 *.doh.nic.lv IN CNAME .
+doh.niyawe.de IN CNAME .
+*.doh.niyawe.de IN CNAME .
 doh.northeu.pi-dns.com IN CNAME .
 *.doh.northeu.pi-dns.com IN CNAME .
 doh.onedns.net IN CNAME .
