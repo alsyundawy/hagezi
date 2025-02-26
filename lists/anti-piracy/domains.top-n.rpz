@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740355639 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740528442 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -27,6 +27,8 @@ $TTL 3600
 *.123movie.cc IN CNAME .
 123movies-to.org IN CNAME .
 *.123movies-to.org IN CNAME .
+123movies.com.pk IN CNAME .
+*.123movies.com.pk IN CNAME .
 123moviesfree.net IN CNAME .
 *.123moviesfree.net IN CNAME .
 123moviestv.me IN CNAME .
@@ -153,8 +155,6 @@ admin.videoenpoche.info IN CNAME .
 *.admin.videoenpoche.info IN CNAME .
 adobecccrack2017formacandwindows.yolasite.com IN CNAME .
 *.adobecccrack2017formacandwindows.yolasite.com IN CNAME .
-adult-cinema-network.net IN CNAME .
-*.adult-cinema-network.net IN CNAME .
 aegir.sexy IN CNAME .
 *.aegir.sexy IN CNAME .
 aelitis.com IN CNAME .
@@ -525,6 +525,8 @@ bt1.the9.com IN CNAME .
 *.bt1.the9.com IN CNAME .
 bt1.xxxxbt.cc IN CNAME .
 *.bt1.xxxxbt.cc IN CNAME .
+bt2.080609.xyz IN CNAME .
+*.bt2.080609.xyz IN CNAME .
 bt2.edwardk.info IN CNAME .
 *.bt2.edwardk.info IN CNAME .
 bt4gprx.com IN CNAME .
@@ -533,8 +535,6 @@ btdig.com IN CNAME .
 *.btdig.com IN CNAME .
 btjunkie.org IN CNAME .
 *.btjunkie.org IN CNAME .
-btmet.com IN CNAME .
-*.btmet.com IN CNAME .
 btorrent.xyz IN CNAME .
 *.btorrent.xyz IN CNAME .
 btracker.top IN CNAME .
@@ -717,6 +717,8 @@ ddgu.ddos-guard.net IN CNAME .
 *.ddgu.ddos-guard.net IN CNAME .
 ddlcomics.blogspot.com IN CNAME .
 *.ddlcomics.blogspot.com IN CNAME .
+ddlvalley.me IN CNAME .
+*.ddlvalley.me IN CNAME .
 ddownload.com IN CNAME .
 *.ddownload.com IN CNAME .
 degree-anime.com IN CNAME .
@@ -737,6 +739,8 @@ deph.edwardk.info IN CNAME .
 *.deph.edwardk.info IN CNAME .
 devil-torrents.pl IN CNAME .
 *.devil-torrents.pl IN CNAME .
+devuploads.com IN CNAME .
+*.devuploads.com IN CNAME .
 dfireworks.eu.org IN CNAME .
 *.dfireworks.eu.org IN CNAME .
 dhakamovie.com IN CNAME .
@@ -883,8 +887,6 @@ epider.me IN CNAME .
 *.epider.me IN CNAME .
 episodes-tv.com IN CNAME .
 *.episodes-tv.com IN CNAME .
-erai-raws.info IN CNAME .
-*.erai-raws.info IN CNAME .
 ev01.to IN CNAME .
 *.ev01.to IN CNAME .
 evan.im IN CNAME .
@@ -1127,8 +1129,6 @@ genesis-sp.org IN CNAME .
 *.genesis-sp.org IN CNAME .
 get-host.net IN CNAME .
 *.get-host.net IN CNAME .
-getcomics.info IN CNAME .
-*.getcomics.info IN CNAME .
 getintopc.com IN CNAME .
 *.getintopc.com IN CNAME .
 getjar.com IN CNAME .
@@ -1157,8 +1157,6 @@ git.vulnix.sh IN CNAME .
 *.git.vulnix.sh IN CNAME .
 givemereddit.eu IN CNAME .
 *.givemereddit.eu IN CNAME .
-gk-network.net IN CNAME .
-*.gk-network.net IN CNAME .
 global-evolve.com IN CNAME .
 *.global-evolve.com IN CNAME .
 globalwave.no-ip.org IN CNAME .
@@ -1615,8 +1613,6 @@ megacloud.tube IN CNAME .
 *.megacloud.tube IN CNAME .
 megagames.com IN CNAME .
 *.megagames.com IN CNAME .
-megatorrents.kg IN CNAME .
-*.megatorrents.kg IN CNAME .
 megawarez.webcindario.com IN CNAME .
 *.megawarez.webcindario.com IN CNAME .
 members.shaw.ca IN CNAME .
@@ -2125,6 +2121,8 @@ qbittorrent.org IN CNAME .
 *.qbittorrent.org IN CNAME .
 qg.lorzl.gq IN CNAME .
 *.qg.lorzl.gq IN CNAME .
+quebec-team.net IN CNAME .
+*.quebec-team.net IN CNAME .
 r.l5.ca IN CNAME .
 *.r.l5.ca IN CNAME .
 rahfies.blogspot.com IN CNAME .
@@ -2757,6 +2755,8 @@ torrent.eu.org IN CNAME .
 *.torrent.eu.org IN CNAME .
 torrent.fedoraproject.org IN CNAME .
 *.torrent.fedoraproject.org IN CNAME .
+torrent.lt IN CNAME .
+*.torrent.lt IN CNAME .
 torrent.mp3quran.net IN CNAME .
 *.torrent.mp3quran.net IN CNAME .
 torrent.tracker.durukanbal.com IN CNAME .
@@ -3413,8 +3413,12 @@ unionpeer.org IN CNAME .
 *.unionpeer.org IN CNAME .
 uniquestream.net IN CNAME .
 *.uniquestream.net IN CNAME .
+up-4ever.net IN CNAME .
+*.up-4ever.net IN CNAME .
 upeer.me IN CNAME .
 *.upeer.me IN CNAME .
+upfiles.com IN CNAME .
+*.upfiles.com IN CNAME .
 uplay.ubi.com IN CNAME .
 *.uplay.ubi.com IN CNAME .
 uploaded.net IN CNAME .
@@ -3467,8 +3471,6 @@ vexmovies.org IN CNAME .
 *.vexmovies.org IN CNAME .
 vf-stream.org IN CNAME .
 *.vf-stream.org IN CNAME .
-vfxdownload.com IN CNAME .
-*.vfxdownload.com IN CNAME .
 vibe.community IN CNAME .
 *.vibe.community IN CNAME .
 vibe.sleepyinternetfun.xyz IN CNAME .
