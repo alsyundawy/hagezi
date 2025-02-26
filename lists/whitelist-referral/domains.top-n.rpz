@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740356574 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740529937 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -43,6 +43,8 @@ aax-eu.amazon.it IN CNAME .
 *.aax-eu.amazon.it IN CNAME .
 aax-eu.amazon.nl IN CNAME .
 *.aax-eu.amazon.nl IN CNAME .
+aax-eu.amazon.sa IN CNAME .
+*.aax-eu.amazon.sa IN CNAME .
 aax-fe-pdx-direct.amazon.com IN CNAME .
 *.aax-fe-pdx-direct.amazon.com IN CNAME .
 aax-fe-retail-rtb.amazon.com IN CNAME .
@@ -55,6 +57,8 @@ aax-fe.amazon.com.au IN CNAME .
 *.aax-fe.amazon.com.au IN CNAME .
 aax-fe.amazon.sg IN CNAME .
 *.aax-fe.amazon.sg IN CNAME .
+aax-ott-sdk.amazon-adsystem.amazon.com IN CNAME .
+*.aax-ott-sdk.amazon-adsystem.amazon.com IN CNAME .
 aax-ott.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott.amazon-adsystem.amazon.com IN CNAME .
 aax-us-east-retail-direct.amazon.com IN CNAME .
@@ -101,8 +105,6 @@ adorama.rfvk.net IN CNAME .
 *.adorama.rfvk.net IN CNAME .
 adservice.google.ca IN CNAME .
 *.adservice.google.ca IN CNAME .
-adservice.google.ch IN CNAME .
-*.adservice.google.ch IN CNAME .
 adservice.google.co.id IN CNAME .
 *.adservice.google.co.id IN CNAME .
 adservice.google.co.in IN CNAME .
@@ -161,8 +163,6 @@ adservice.google.ie IN CNAME .
 *.adservice.google.ie IN CNAME .
 adservice.google.it IN CNAME .
 *.adservice.google.it IN CNAME .
-adservice.google.lt IN CNAME .
-*.adservice.google.lt IN CNAME .
 adservice.google.nl IN CNAME .
 *.adservice.google.nl IN CNAME .
 adservice.google.no IN CNAME .
@@ -311,8 +311,6 @@ cdn.eu1.exponea.com IN CNAME .
 *.cdn.eu1.exponea.com IN CNAME .
 cdn.exponea.com IN CNAME .
 *.cdn.exponea.com IN CNAME .
-cdn.ftspecialist.exponea.com IN CNAME .
-*.cdn.ftspecialist.exponea.com IN CNAME .
 cdn.network.exponea.com IN CNAME .
 *.cdn.network.exponea.com IN CNAME .
 cdn.pardot.com IN CNAME .
@@ -491,6 +489,8 @@ data.digital.costco.ca IN CNAME .
 *.data.digital.costco.ca IN CNAME .
 data.digital.costco.com IN CNAME .
 *.data.digital.costco.com IN CNAME .
+de-go.kelkoogroup.net IN CNAME .
+*.de-go.kelkoogroup.net IN CNAME .
 disneyplus.bn5x.net IN CNAME .
 *.disneyplus.bn5x.net IN CNAME .
 dominos.sng.link IN CNAME .
@@ -507,8 +507,6 @@ email.docker.com IN CNAME .
 *.email.docker.com IN CNAME .
 email.microsoft.com IN CNAME .
 *.email.microsoft.com IN CNAME .
-email.microsoftemail.com IN CNAME .
-*.email.microsoftemail.com IN CNAME .
 email.microsoftonline.com IN CNAME .
 *.email.microsoftonline.com IN CNAME .
 email.namebase.io IN CNAME .
@@ -545,8 +543,6 @@ gate-ag.first-id.fr IN CNAME .
 *.gate-ag.first-id.fr IN CNAME .
 geo.itunes.apple.com IN CNAME .
 *.geo.itunes.apple.com IN CNAME .
-geo01.dns.presslabs.net IN CNAME .
-*.geo01.dns.presslabs.net IN CNAME .
 geo02.dns.presslabs.net IN CNAME .
 *.geo02.dns.presslabs.net IN CNAME .
 geo1.presslabs.net IN CNAME .
@@ -613,8 +609,6 @@ k.cocooncenter.com IN CNAME .
 *.k.cocooncenter.com IN CNAME .
 klclick.com IN CNAME .
 *.klclick.com IN CNAME .
-klclick.dollarshaveclub.com IN CNAME .
-*.klclick.dollarshaveclub.com IN CNAME .
 klclick1.com IN CNAME .
 *.klclick1.com IN CNAME .
 klclick2.com IN CNAME .
@@ -645,10 +639,10 @@ link.springer.com IN CNAME .
 *.link.springer.com IN CNAME .
 link.sylikes.com IN CNAME .
 *.link.sylikes.com IN CNAME .
+link.us.paramountplus.com IN CNAME .
+*.link.us.paramountplus.com IN CNAME .
 link.wizzair.com IN CNAME .
 *.link.wizzair.com IN CNAME .
-links-na.afterpay.com IN CNAME .
-*.links-na.afterpay.com IN CNAME .
 links.email.crunchbase.com IN CNAME .
 *.links.email.crunchbase.com IN CNAME .
 links.iterable.com IN CNAME .
@@ -677,8 +671,6 @@ micpn.com IN CNAME .
 *.micpn.com IN CNAME .
 mkto-ab420081.com IN CNAME .
 *.mkto-ab420081.com IN CNAME .
-mkto-trk.cisco.com IN CNAME .
-*.mkto-trk.cisco.com IN CNAME .
 mktoweb.com IN CNAME .
 *.mktoweb.com IN CNAME .
 mmtro.com IN CNAME .
@@ -695,6 +687,8 @@ newslink.reuters.com IN CNAME .
 *.newslink.reuters.com IN CNAME .
 njih.net IN CNAME .
 *.njih.net IN CNAME .
+nl-go.kelkoogroup.net IN CNAME .
+*.nl-go.kelkoogroup.net IN CNAME .
 nonstoppartner.net IN CNAME .
 *.nonstoppartner.net IN CNAME .
 ojrq.net IN CNAME .
@@ -753,8 +747,6 @@ r20.rs6.net IN CNAME .
 *.r20.rs6.net IN CNAME .
 rads.stackoverflow.com IN CNAME .
 *.rads.stackoverflow.com IN CNAME .
-rdr9bzpab.cc.rs6.net IN CNAME .
-*.rdr9bzpab.cc.rs6.net IN CNAME .
 readdle.cmail20.com IN CNAME .
 *.readdle.cmail20.com IN CNAME .
 recommender-eu.scarabresearch.com IN CNAME .
@@ -775,10 +767,6 @@ referrals.bravesoftware.com IN CNAME .
 *.referrals.bravesoftware.com IN CNAME .
 referrer.disqus.com IN CNAME .
 *.referrer.disqus.com IN CNAME .
-rgllca6ab.cc.rs6.net IN CNAME .
-*.rgllca6ab.cc.rs6.net IN CNAME .
-ri-cdn.exponea.com IN CNAME .
-*.ri-cdn.exponea.com IN CNAME .
 rides.sng.link IN CNAME .
 *.rides.sng.link IN CNAME .
 run.admost.com IN CNAME .
@@ -787,8 +775,6 @@ s1.exacttarget.com IN CNAME .
 *.s1.exacttarget.com IN CNAME .
 s10.exacttarget.com IN CNAME .
 *.s10.exacttarget.com IN CNAME .
-s10.login.exacttarget.com IN CNAME .
-*.s10.login.exacttarget.com IN CNAME .
 s11.exacttarget.com IN CNAME .
 *.s11.exacttarget.com IN CNAME .
 s12.exacttarget.com IN CNAME .
@@ -805,8 +791,6 @@ s6.exacttarget.com IN CNAME .
 *.s6.exacttarget.com IN CNAME .
 s7.exacttarget.com IN CNAME .
 *.s7.exacttarget.com IN CNAME .
-s8.exacttarget.com IN CNAME .
-*.s8.exacttarget.com IN CNAME .
 sailthru.com IN CNAME .
 *.sailthru.com IN CNAME .
 sdk.us.xtremepush.com IN CNAME .
@@ -855,8 +839,6 @@ static.cleverpush.com IN CNAME .
 *.static.cleverpush.com IN CNAME .
 stvkr.com IN CNAME .
 *.stvkr.com IN CNAME .
-suite-dashboard.gservice.emarsys.net IN CNAME .
-*.suite-dashboard.gservice.emarsys.net IN CNAME .
 suite10.emarsys.net IN CNAME .
 *.suite10.emarsys.net IN CNAME .
 suite11.emarsys.net IN CNAME .
@@ -871,36 +853,22 @@ suite27.emarsys.net IN CNAME .
 *.suite27.emarsys.net IN CNAME .
 suite29.emarsys.net IN CNAME .
 *.suite29.emarsys.net IN CNAME .
-suite30.emarsys.net IN CNAME .
-*.suite30.emarsys.net IN CNAME .
+suite32.emarsys.net IN CNAME .
+*.suite32.emarsys.net IN CNAME .
 suite33.emarsys.net IN CNAME .
 *.suite33.emarsys.net IN CNAME .
-suite34.emarsys.net IN CNAME .
-*.suite34.emarsys.net IN CNAME .
 suite38.emarsys.net IN CNAME .
 *.suite38.emarsys.net IN CNAME .
-suite40-cf.emarsys.net IN CNAME .
-*.suite40-cf.emarsys.net IN CNAME .
-suite40.emarsys.net IN CNAME .
-*.suite40.emarsys.net IN CNAME .
-suite44.emarsys.net IN CNAME .
-*.suite44.emarsys.net IN CNAME .
-suite45.emarsys.net IN CNAME .
-*.suite45.emarsys.net IN CNAME .
 suite54.emarsys.net IN CNAME .
 *.suite54.emarsys.net IN CNAME .
-suite56.emarsys.net IN CNAME .
-*.suite56.emarsys.net IN CNAME .
 suite57.emarsys.net IN CNAME .
 *.suite57.emarsys.net IN CNAME .
 suite58.emarsys.net IN CNAME .
 *.suite58.emarsys.net IN CNAME .
-suite59.emarsys.net IN CNAME .
-*.suite59.emarsys.net IN CNAME .
 suite63.emarsys.net IN CNAME .
 *.suite63.emarsys.net IN CNAME .
-suite7.emarsys.net IN CNAME .
-*.suite7.emarsys.net IN CNAME .
+suite67-cf.emarsys.net IN CNAME .
+*.suite67-cf.emarsys.net IN CNAME .
 suite9.emarsys.net IN CNAME .
 *.suite9.emarsys.net IN CNAME .
 t.1und1.de IN CNAME .
@@ -1003,8 +971,6 @@ track.shoparize.com IN CNAME .
 *.track.shoparize.com IN CNAME .
 track.smtp2go.net IN CNAME .
 *.track.smtp2go.net IN CNAME .
-track34102166105.effiliation.com IN CNAME .
-*.track34102166105.effiliation.com IN CNAME .
 trackcmp.net IN CNAME .
 *.trackcmp.net IN CNAME .
 tracker.gamesdonequick.com IN CNAME .
@@ -1041,6 +1007,8 @@ ts.tradetracker.net IN CNAME .
 *.ts.tradetracker.net IN CNAME .
 ue.flipboard.com IN CNAME .
 *.ue.flipboard.com IN CNAME .
+uk-go.kelkoogroup.net IN CNAME .
+*.uk-go.kelkoogroup.net IN CNAME .
 ulink.adjust.com IN CNAME .
 *.ulink.adjust.com IN CNAME .
 uns.apsis.one IN CNAME .
