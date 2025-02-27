@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740528447 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740614843 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -237,8 +237,6 @@ dns.ha-dvin.pp.ua IN CNAME .
 *.dns.ha-dvin.pp.ua IN CNAME .
 dns.hinet.net IN CNAME .
 *.dns.hinet.net IN CNAME .
-dns.hoody.com IN CNAME .
-*.dns.hoody.com IN CNAME .
 dns.ikataruto.com IN CNAME .
 *.dns.ikataruto.com IN CNAME .
 dns.islandnet.com IN CNAME .
