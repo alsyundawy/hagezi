@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740528454 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740614850 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.net IN CNAME .
@@ -479,8 +479,6 @@ dns.ha-dvin.pp.ua IN CNAME .
 *.dns.ha-dvin.pp.ua IN CNAME .
 dns.hinet.net IN CNAME .
 *.dns.hinet.net IN CNAME .
-dns.hoody.com IN CNAME .
-*.dns.hoody.com IN CNAME .
 dns.ikataruto.com IN CNAME .
 *.dns.ikataruto.com IN CNAME .
 dns.islandnet.com IN CNAME .
@@ -1703,6 +1701,8 @@ unblock-proxy.com.de IN CNAME .
 *.unblock-proxy.com.de IN CNAME .
 unblock-us.com IN CNAME .
 *.unblock-us.com IN CNAME .
+unblocked.how IN CNAME .
+*.unblocked.how IN CNAME .
 unblockit.pages.dev IN CNAME .
 *.unblockit.pages.dev IN CNAME .
 unblockninja.com IN CNAME .
@@ -1747,6 +1747,8 @@ vpn-professional.company IN CNAME .
 *.vpn-professional.company IN CNAME .
 vpn-sd.ff.avast.com IN CNAME .
 *.vpn-sd.ff.avast.com IN CNAME .
+vpn.appsverse.com IN CNAME .
+*.vpn.appsverse.com IN CNAME .
 vpn.avg.tools.avast.com IN CNAME .
 *.vpn.avg.tools.avast.com IN CNAME .
 vpn.azure.com IN CNAME .
