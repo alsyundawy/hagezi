@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740701243 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740874044 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -841,8 +841,6 @@ res-acst3.absolight.net IN CNAME .
 *.res-acst3.absolight.net IN CNAME .
 resolv.flokinet.net IN CNAME .
 *.resolv.flokinet.net IN CNAME .
-resolver.r0cket.net IN CNAME .
-*.resolver.r0cket.net IN CNAME .
 resolver.sunet.se IN CNAME .
 *.resolver.sunet.se IN CNAME .
 resolver1-fs.opendns.com IN CNAME .
@@ -975,3 +973,5 @@ zal01.dnscry.pt IN CNAME .
 *.zal01.dnscry.pt IN CNAME .
 zrh1-ns01.monzoon.net IN CNAME .
 *.zrh1-ns01.monzoon.net IN CNAME .
+zxcvb.pp.ua IN CNAME .
+*.zxcvb.pp.ua IN CNAME .
