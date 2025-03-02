@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Hagezi "WHITELIST-REFERRAL" AdBlock List (Top-N Version)
-! Version: 1740702371
-! Number of rules: 518
+! Version: 1740875201
+! Number of rules: 537
 !
 ||3cinteractive.com^
 ||7eer.net^
@@ -9,13 +9,11 @@
 ||a1.adform.net^
 ||aax-dtb-cf.amazon-adsystem.amazon.com^
 ||aax-dtb-mobile-geo.amazon-adsystem.amazon.com^
-||aax-eu-dub.amazon.com^
 ||aax-eu-retail-direct.amazon-adsystem.com^
 ||aax-eu-retail-direct.dub.amazon.com^
 ||aax-eu-retail-rtb.amazon.com^
 ||aax-eu.amazon.ae^
 ||aax-eu.amazon.co.uk^
-||aax-eu.amazon.com^
 ||aax-eu.amazon.com.be^
 ||aax-eu.amazon.com.tr^
 ||aax-eu.amazon.de^
@@ -24,14 +22,14 @@
 ||aax-eu.amazon.in^
 ||aax-eu.amazon.it^
 ||aax-eu.amazon.nl^
+||aax-eu.amazon.pl^
 ||aax-eu.amazon.sa^
+||aax-eu.amazon.se^
 ||aax-fe-pdx-direct.amazon.com^
 ||aax-fe-retail-rtb.amazon.com^
 ||aax-fe.amazon.co.jp^
-||aax-fe.amazon.com^
 ||aax-fe.amazon.com.au^
 ||aax-fe.amazon.sg^
-||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-us-east-retail-direct.amazon.com^
 ||aax-us-east-retail-direct.iad.amazon.com^
@@ -84,6 +82,7 @@
 ||adservice.google.hr^
 ||adservice.google.ie^
 ||adservice.google.it^
+||adservice.google.lt^
 ||adservice.google.nl^
 ||adservice.google.no^
 ||adservice.google.pl^
@@ -96,6 +95,7 @@
 ||alb.reddit.com^
 ||analytics.twitter.com^
 ||anrdoezrs.net^
+||api-01.moengage.com^
 ||api-eu.cleverpush.com^
 ||api-eu1.hubapi.com^
 ||api-na1.hubapi.com^
@@ -148,6 +148,7 @@
 ||c2-sandbox.piano.io^
 ||c2.piano.io^
 ||c2827.dotomi.com^
+||c2990.dotomi.com^
 ||campaign.adobe.com^
 ||campaign.aliexpress.com^
 ||casale-match.dotomi.com^
@@ -158,6 +159,7 @@
 ||cdn.braze.eu^
 ||cdn.eu1.exponea.com^
 ||cdn.exponea.com^
+||cdn.ftspecialist.exponea.com^
 ||cdn.network.exponea.com^
 ||cdn.pardot.com^
 ||cdn.piano.io^
@@ -256,6 +258,7 @@
 ||email-tracking.infobip.com^
 ||email.docker.com^
 ||email.microsoft.com^
+||email.microsoftemail.com^
 ||email.microsoftonline.com^
 ||email.namebase.io^
 ||email.office.com^
@@ -274,6 +277,7 @@
 ||evyy.net^
 ||gate-ag.first-id.fr^
 ||geo.itunes.apple.com^
+||geo01.dns.presslabs.net^
 ||geo02.dns.presslabs.net^
 ||geo1.presslabs.net^
 ||glnk.io^
@@ -307,6 +311,7 @@
 ||judge.me^
 ||k.cocooncenter.com^
 ||klclick.com^
+||klclick.dollarshaveclub.com^
 ||klclick1.com^
 ||klclick2.com^
 ||klclick3.com^
@@ -322,8 +327,8 @@
 ||link.freshmail.mx^
 ||link.springer.com^
 ||link.sylikes.com^
-||link.us.paramountplus.com^
 ||link.wizzair.com^
+||links-na.afterpay.com^
 ||links.email.crunchbase.com^
 ||links.iterable.com^
 ||linksmail.geosolinc.com^
@@ -338,6 +343,7 @@
 ||metric.picodi.com^
 ||micpn.com^
 ||mkto-ab420081.com^
+||mkto-test.com^
 ||mktoweb.com^
 ||mmtro.com^
 ||mssg.me^
@@ -346,13 +352,13 @@
 ||newsletter2go.com^
 ||newslink.reuters.com^
 ||njih.net^
-||nl-go.kelkoogroup.net^
 ||nonstoppartner.net^
 ||ojrq.net^
 ||onelink.me^
 ||open.spotify.com^
 ||openinapp.link^
 ||p.placed.com^
+||pan-cdn.exponea.com^
 ||pepperjamnetwork.com^
 ||personaclick.com^
 ||pi.pardot.com^
@@ -375,6 +381,7 @@
 ||r.linksprf.com^
 ||r.srvtrck.com^
 ||r20.rs6.net^
+||r88lcbcab.cc.rs6.net^
 ||rads.stackoverflow.com^
 ||readdle.cmail20.com^
 ||recommender-eu.scarabresearch.com^
@@ -386,11 +393,15 @@
 ||referrals.brave.com^
 ||referrals.bravesoftware.com^
 ||referrer.disqus.com^
+||rgllca6ab.cc.rs6.net^
+||ri-cdn.exponea.com^
 ||rides.sng.link^
 ||run.admost.com^
 ||s1.exacttarget.com^
 ||s10.exacttarget.com^
+||s10.login.exacttarget.com^
 ||s11.exacttarget.com^
+||s11.login.exacttarget.com^
 ||s12.exacttarget.com^
 ||s13.exacttarget.com^
 ||s4.exacttarget.com^
@@ -422,21 +433,29 @@
 ||static-eu.cleverpush.com^
 ||static.cleverpush.com^
 ||stvkr.com^
+||suite-dashboard.gservice.emarsys.net^
+||suite.emarsys.net^
 ||suite10.emarsys.net^
 ||suite11.emarsys.net^
 ||suite16.emarsys.net^
 ||suite17.emarsys.net^
-||suite24.emarsys.net^
 ||suite27.emarsys.net^
 ||suite29.emarsys.net^
 ||suite32.emarsys.net^
 ||suite33.emarsys.net^
+||suite34.emarsys.net^
+||suite36.emarsys.net^
 ||suite38.emarsys.net^
+||suite40.emarsys.net^
+||suite45.emarsys.net^
+||suite52.emarsys.net^
 ||suite54.emarsys.net^
+||suite56.emarsys.net^
 ||suite57.emarsys.net^
 ||suite58.emarsys.net^
+||suite59.emarsys.net^
 ||suite63.emarsys.net^
-||suite67-cf.emarsys.net^
+||suite7.emarsys.net^
 ||suite9.emarsys.net^
 ||t.1und1.de^
 ||t.adcell.com^
@@ -488,6 +507,7 @@
 ||track.seadform.net^
 ||track.shoparize.com^
 ||track.smtp2go.net^
+||track34102166105.effiliation.com^
 ||trackcmp.net^
 ||tracker.gamesdonequick.com^
 ||tracker.marinsm.com^
@@ -506,7 +526,6 @@
 ||trk.specialized.com^
 ||ts.tradetracker.net^
 ||ue.flipboard.com^
-||uk-go.kelkoogroup.net^
 ||ulink.adjust.com^
 ||uns.apsis.one^
 ||us-go.kelkoogroup.net^
