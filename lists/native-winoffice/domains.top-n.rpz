@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740701381 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740874184 12h 15m 3w 3h
 a4.bing.com IN CNAME .
 *.a4.bing.com IN CNAME .
 ac2.msn.com IN CNAME .
@@ -31,6 +31,10 @@ adsdk.microsoft.com IN CNAME .
 *.adsdk.microsoft.com IN CNAME .
 adsdk.trafficmanager.net IN CNAME .
 *.adsdk.trafficmanager.net IN CNAME .
+adsdkpreprod.afd.azureedge.net IN CNAME .
+*.adsdkpreprod.afd.azureedge.net IN CNAME .
+adsdkpreprod.azureedge.net IN CNAME .
+*.adsdkpreprod.azureedge.net IN CNAME .
 adsdkprod.afd.azureedge.net IN CNAME .
 *.adsdkprod.afd.azureedge.net IN CNAME .
 adsdkprod.azureedge.net IN CNAME .
@@ -67,6 +71,8 @@ analytics.trafficmanager.net IN CNAME .
 *.analytics.trafficmanager.net IN CNAME .
 analyticsehnwe.servicebus.windows.net IN CNAME .
 *.analyticsehnwe.servicebus.windows.net IN CNAME .
+analyticsiot-prod-simpad-ehn.servicebus.windows.net IN CNAME .
+*.analyticsiot-prod-simpad-ehn.servicebus.windows.net IN CNAME .
 analyticspixel.microsoft.com IN CNAME .
 *.analyticspixel.microsoft.com IN CNAME .
 api.edgeoffer.microsoft.com IN CNAME .
