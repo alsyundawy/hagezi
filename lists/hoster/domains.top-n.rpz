@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740701316 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740874120 12h 15m 3w 3h
 000space.com IN CNAME .
 *.000space.com IN CNAME .
 000webhost.com IN CNAME .
@@ -795,6 +795,8 @@ evenweb.com IN CNAME .
 *.evenweb.com IN CNAME .
 exblog.jp IN CNAME .
 *.exblog.jp IN CNAME .
+excite.it IN CNAME .
+*.excite.it IN CNAME .
 ezblogz.com IN CNAME .
 *.ezblogz.com IN CNAME .
 ezyro.com IN CNAME .
@@ -921,8 +923,6 @@ get-blogging.com IN CNAME .
 *.get-blogging.com IN CNAME .
 getblogs.net IN CNAME .
 *.getblogs.net IN CNAME .
-gkyu.sa.com IN CNAME .
-*.gkyu.sa.com IN CNAME .
 glifeblog.com IN CNAME .
 *.glifeblog.com IN CNAME .
 goabroadblog.com IN CNAME .
