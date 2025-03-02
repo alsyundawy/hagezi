@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-AMAZON-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740701354 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740874158 12h 15m 3w 3h
 aan.amazon.co.jp IN CNAME .
 *.aan.amazon.co.jp IN CNAME .
 aan.amazon.co.uk IN CNAME .
@@ -221,8 +221,6 @@ at-gamma-us-east.amazon-adsystem.com IN CNAME .
 *.at-gamma-us-east.amazon-adsystem.com IN CNAME .
 at-us-east.amazon-adsystem.com IN CNAME .
 *.at-us-east.amazon-adsystem.com IN CNAME .
-ateu.amazon-adsystem.com IN CNAME .
-*.ateu.amazon-adsystem.com IN CNAME .
 atfe.amazon-adsystem.com IN CNAME .
 *.atfe.amazon-adsystem.com IN CNAME .
 atue.amazon-adsystem.com IN CNAME .
@@ -443,6 +441,8 @@ monitoring.me-central-1.amazonaws.com IN CNAME .
 *.monitoring.me-central-1.amazonaws.com IN CNAME .
 monitoring.me-south-1.amazonaws.com IN CNAME .
 *.monitoring.me-south-1.amazonaws.com IN CNAME .
+monitoring.prod.cloudwatch.amazonaws.com IN CNAME .
+*.monitoring.prod.cloudwatch.amazonaws.com IN CNAME .
 monitoring.sa-east-1.amazonaws.com IN CNAME .
 *.monitoring.sa-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-1.amazonaws.com IN CNAME .
