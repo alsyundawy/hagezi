@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740874120 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740960518 12h 15m 3w 3h
 000space.com IN CNAME .
 *.000space.com IN CNAME .
 000webhost.com IN CNAME .
@@ -965,8 +965,6 @@ hop.ru IN CNAME .
 *.hop.ru IN CNAME .
 host.sk IN CNAME .
 *.host.sk IN CNAME .
-hoster-test.ru IN CNAME .
-*.hoster-test.ru IN CNAME .
 hostinger.de IN CNAME .
 *.hostinger.de IN CNAME .
 howeweb.com IN CNAME .
