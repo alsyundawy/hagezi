@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740874039 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1740960439 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -1595,6 +1595,8 @@ mc.itscraftsoftware.my.id IN CNAME .
 *.mc.itscraftsoftware.my.id IN CNAME .
 mcnbd.com IN CNAME .
 *.mcnbd.com IN CNAME .
+media.radiantbd.com IN CNAME .
+*.media.radiantbd.com IN CNAME .
 mediafire.com IN CNAME .
 *.mediafire.com IN CNAME .
 mega.co.nz IN CNAME .
@@ -2437,8 +2439,6 @@ soap2day.day IN CNAME .
 *.soap2day.day IN CNAME .
 soap2day.pe IN CNAME .
 *.soap2day.pe IN CNAME .
-soap2day.to IN CNAME .
-*.soap2day.to IN CNAME .
 soap2dayhd.co IN CNAME .
 *.soap2dayhd.co IN CNAME .
 soccerstreams100.io IN CNAME .
@@ -2455,8 +2455,6 @@ solarmovie.cr IN CNAME .
 *.solarmovie.cr IN CNAME .
 solarmovieru.com IN CNAME .
 *.solarmovieru.com IN CNAME .
-solarmovies.win IN CNAME .
-*.solarmovies.win IN CNAME .
 solidtorrents.to IN CNAME .
 *.solidtorrents.to IN CNAME .
 somosmovies.com IN CNAME .
@@ -2671,6 +2669,8 @@ ti.to IN CNAME .
 *.ti.to IN CNAME .
 timcityparadize.free.fr IN CNAME .
 *.timcityparadize.free.fr IN CNAME .
+timepassbd.live IN CNAME .
+*.timepassbd.live IN CNAME .
 tinfoil.space IN CNAME .
 *.tinfoil.space IN CNAME .
 tioanime.com IN CNAME .
@@ -3041,8 +3041,6 @@ tracker.gigantino.net IN CNAME .
 *.tracker.gigantino.net IN CNAME .
 tracker.gmi.gd IN CNAME .
 *.tracker.gmi.gd IN CNAME .
-tracker.greatposterwall.com IN CNAME .
-*.tracker.greatposterwall.com IN CNAME .
 tracker.grepler.com IN CNAME .
 *.tracker.grepler.com IN CNAME .
 tracker.guguan.us.kg IN CNAME .
@@ -3081,6 +3079,8 @@ tracker.itscraftsoftware.my.id IN CNAME .
 *.tracker.itscraftsoftware.my.id IN CNAME .
 tracker.jonaslsa.com IN CNAME .
 *.tracker.jonaslsa.com IN CNAME .
+tracker.jordan.im IN CNAME .
+*.tracker.jordan.im IN CNAME .
 tracker.joybomb.tw IN CNAME .
 *.tracker.joybomb.tw IN CNAME .
 tracker.justseed.it IN CNAME .
@@ -3237,8 +3237,6 @@ tracker.vds.nz IN CNAME .
 *.tracker.vds.nz IN CNAME .
 tracker.vectahosting.eu IN CNAME .
 *.tracker.vectahosting.eu IN CNAME .
-tracker.videodrugproject.com IN CNAME .
-*.tracker.videodrugproject.com IN CNAME .
 tracker.vraphim.com IN CNAME .
 *.tracker.vraphim.com IN CNAME .
 tracker.vulnix.sh IN CNAME .
