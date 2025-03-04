@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740960443 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741046843 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -345,8 +345,6 @@ dns2.nextdns.io IN CNAME .
 *.dns2.nextdns.io IN CNAME .
 dns2.nordvpn.com IN CNAME .
 *.dns2.nordvpn.com IN CNAME .
-dns3.dns-ga.de IN CNAME .
-*.dns3.dns-ga.de IN CNAME .
 dns4me.net IN CNAME .
 *.dns4me.net IN CNAME .
 dns9.quad9.net IN CNAME .
