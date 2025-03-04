@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1740960449 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741046849 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.net IN CNAME .
@@ -579,8 +579,6 @@ dns2.in-berlin.de IN CNAME .
 *.dns2.in-berlin.de IN CNAME .
 dns2.nextdns.io IN CNAME .
 *.dns2.nextdns.io IN CNAME .
-dns3.dns-ga.de IN CNAME .
-*.dns3.dns-ga.de IN CNAME .
 dns4me.net IN CNAME .
 *.dns4me.net IN CNAME .
 dns9.quad9.net IN CNAME .
@@ -1267,6 +1265,10 @@ nyc-ny-us.prcdn.net IN CNAME .
 *.nyc-ny-us.prcdn.net IN CNAME .
 nyc01.dnscry.pt IN CNAME .
 *.nyc01.dnscry.pt IN CNAME .
+nymtech.net IN CNAME .
+*.nymtech.net IN CNAME .
+nymvpn.com IN CNAME .
+*.nymvpn.com IN CNAME .
 o2comm-prd.norton.com IN CNAME .
 *.o2comm-prd.norton.com IN CNAME .
 octohide.com IN CNAME .
@@ -1569,6 +1571,8 @@ sshmax.net IN CNAME .
 *.sshmax.net IN CNAME .
 sshocean.com IN CNAME .
 *.sshocean.com IN CNAME .
+sshstores.net IN CNAME .
+*.sshstores.net IN CNAME .
 ssl-proxy.my-addr.com IN CNAME .
 *.ssl-proxy.my-addr.com IN CNAME .
 stable-vpn.com IN CNAME .
@@ -1679,6 +1683,8 @@ tunnelbear.com IN CNAME .
 *.tunnelbear.com IN CNAME .
 tunnelbear.s3.amazonaws.com IN CNAME .
 *.tunnelbear.s3.amazonaws.com IN CNAME .
+turbovpn.co IN CNAME .
+*.turbovpn.co IN CNAME .
 turbovpn.com IN CNAME .
 *.turbovpn.com IN CNAME .
 twingate.com IN CNAME .
