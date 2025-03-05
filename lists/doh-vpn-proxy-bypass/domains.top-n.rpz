@@ -1,8 +1,10 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741046849 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741133250 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
+1clickvpn.com IN CNAME .
+*.1clickvpn.com IN CNAME .
 1clickvpn.net IN CNAME .
 *.1clickvpn.net IN CNAME .
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com IN CNAME .
@@ -93,6 +95,8 @@ alhapi.com IN CNAME .
 *.alhapi.com IN CNAME .
 alidns.com IN CNAME .
 *.alidns.com IN CNAME .
+alohabrowser.com IN CNAME .
+*.alohabrowser.com IN CNAME .
 amandahugnkiss.org IN CNAME .
 *.amandahugnkiss.org IN CNAME .
 ams01.dnscry.pt IN CNAME .
@@ -821,6 +825,8 @@ edpuzzle-lol.vercel.app IN CNAME .
 *.edpuzzle-lol.vercel.app IN CNAME .
 encrypt.me IN CNAME .
 *.encrypt.me IN CNAME .
+eonvpn.com IN CNAME .
+*.eonvpn.com IN CNAME .
 epicbrowser.com IN CNAME .
 *.epicbrowser.com IN CNAME .
 esel.stusta.mhn.de IN CNAME .
