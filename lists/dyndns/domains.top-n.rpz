@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741046853 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741133254 12h 15m 3w 3h
 120v.ac IN CNAME .
 *.120v.ac IN CNAME .
 1337.cx IN CNAME .
@@ -411,8 +411,6 @@ gotdns.com IN CNAME .
 *.gotdns.com IN CNAME .
 gotdns.org IN CNAME .
 *.gotdns.org IN CNAME .
-gr8domain.biz IN CNAME .
-*.gr8domain.biz IN CNAME .
 guild-site.com IN CNAME .
 *.guild-site.com IN CNAME .
 ham-radio-op.net IN CNAME .
