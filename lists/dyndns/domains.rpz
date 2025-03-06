@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741133254 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741219656 12h 15m 3w 3h
 120v.ac IN CNAME .
 *.120v.ac IN CNAME .
 1337.cx IN CNAME .
@@ -63,6 +63,8 @@ broke-it.net IN CNAME .
 *.broke-it.net IN CNAME .
 bumbleshrimp.com IN CNAME .
 *.bumbleshrimp.com IN CNAME .
+cable-modem.org IN CNAME .
+*.cable-modem.org IN CNAME .
 camdvr.org IN CNAME .
 *.camdvr.org IN CNAME .
 casacam.net IN CNAME .
@@ -221,8 +223,6 @@ duiadns.net IN CNAME .
 *.duiadns.net IN CNAME .
 dumb1.com IN CNAME .
 *.dumb1.com IN CNAME .
-dvr-ddns.com IN CNAME .
-*.dvr-ddns.com IN CNAME .
 dvrcam.info IN CNAME .
 *.dvrcam.info IN CNAME .
 dvrdns.org IN CNAME .
@@ -415,6 +415,8 @@ guild-site.com IN CNAME .
 *.guild-site.com IN CNAME .
 ham-radio-op.net IN CNAME .
 *.ham-radio-op.net IN CNAME .
+health-carereform.com IN CNAME .
+*.health-carereform.com IN CNAME .
 heroinewarrior.com IN CNAME .
 *.heroinewarrior.com IN CNAME .
 hicam.net IN CNAME .
@@ -579,8 +581,6 @@ myddns.com IN CNAME .
 *.myddns.com IN CNAME .
 myddns.me IN CNAME .
 *.myddns.me IN CNAME .
-myddns.rocks IN CNAME .
-*.myddns.rocks IN CNAME .
 myeffect.net IN CNAME .
 *.myeffect.net IN CNAME .
 myftp.biz IN CNAME .
@@ -797,6 +797,8 @@ serveusers.com IN CNAME .
 *.serveusers.com IN CNAME .
 sexidude.com IN CNAME .
 *.sexidude.com IN CNAME .
+sexxxy.biz IN CNAME .
+*.sexxxy.biz IN CNAME .
 simple-url.com IN CNAME .
 *.simple-url.com IN CNAME .
 sitelutions.com IN CNAME .
