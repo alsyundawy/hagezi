@@ -1,6 +1,6 @@
 ; RPZ "NOSAFESEARCH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741306206 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741479008 12h 15m 3w 3h
 andisearch.com IN CNAME .
 *.andisearch.com IN CNAME .
 baidu.com IN CNAME .
@@ -65,6 +65,8 @@ searchencrypt.com IN CNAME .
 *.searchencrypt.com IN CNAME .
 searx.linux.pizza IN CNAME .
 *.searx.linux.pizza IN CNAME .
+searx.roflcopter.fr IN CNAME .
+*.searx.roflcopter.fr IN CNAME .
 searx.sp-codes.de IN CNAME .
 *.searx.sp-codes.de IN CNAME .
 searx.thegreenwebfoundation.org IN CNAME .
@@ -87,6 +89,8 @@ whoogle.privacydev.net IN CNAME .
 *.whoogle.privacydev.net IN CNAME .
 wiby.me IN CNAME .
 *.wiby.me IN CNAME .
+wtf.roflcopter.fr IN CNAME .
+*.wtf.roflcopter.fr IN CNAME .
 yep.com IN CNAME .
 *.yep.com IN CNAME .
 yippy.com IN CNAME .
