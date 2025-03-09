@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741306052 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741478852 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.com IN CNAME .
@@ -53,8 +53,6 @@ abcproxy.com IN CNAME .
 *.abcproxy.com IN CNAME .
 abe01.dnscry.pt IN CNAME .
 *.abe01.dnscry.pt IN CNAME .
-abel.waringer-atg.de IN CNAME .
-*.abel.waringer-atg.de IN CNAME .
 abn01.dnscry.pt IN CNAME .
 *.abn01.dnscry.pt IN CNAME .
 acdtop.com IN CNAME .
@@ -99,6 +97,8 @@ alohabrowser.com IN CNAME .
 *.alohabrowser.com IN CNAME .
 amandahugnkiss.org IN CNAME .
 *.amandahugnkiss.org IN CNAME .
+amnezia.org IN CNAME .
+*.amnezia.org IN CNAME .
 ams01.dnscry.pt IN CNAME .
 *.ams01.dnscry.pt IN CNAME .
 ams02.dnscry.pt IN CNAME .
@@ -183,8 +183,6 @@ bebasid.com IN CNAME .
 *.bebasid.com IN CNAME .
 bestvpn.org IN CNAME .
 *.bestvpn.org IN CNAME .
-bestvpnprovider.info IN CNAME .
-*.bestvpnprovider.info IN CNAME .
 betternet-backend.herokuapp.com IN CNAME .
 *.betternet-backend.herokuapp.com IN CNAME .
 betternet.co IN CNAME .
@@ -213,6 +211,8 @@ browse.startpage.com IN CNAME .
 *.browse.startpage.com IN CNAME .
 browsec.com IN CNAME .
 *.browsec.com IN CNAME .
+browserling.com IN CNAME .
+*.browserling.com IN CNAME .
 bru-be.prcdn.net IN CNAME .
 *.bru-be.prcdn.net IN CNAME .
 bru01.dnscry.pt IN CNAME .
@@ -387,6 +387,8 @@ de.dns.privex.io IN CNAME .
 *.de.dns.privex.io IN CNAME .
 den01.dnscry.pt IN CNAME .
 *.den01.dnscry.pt IN CNAME .
+desec.io IN CNAME .
+*.desec.io IN CNAME .
 dfw02.dnscry.pt IN CNAME .
 *.dfw02.dnscry.pt IN CNAME .
 dg98q1fqxxogp.cloudfront.net IN CNAME .
@@ -939,6 +941,8 @@ getfoxyproxy.org IN CNAME .
 *.getfoxyproxy.org IN CNAME .
 geti2p.net IN CNAME .
 *.geti2p.net IN CNAME .
+getiantem.org IN CNAME .
+*.getiantem.org IN CNAME .
 getoutline.org IN CNAME .
 *.getoutline.org IN CNAME .
 goldenfrog.com IN CNAME .
@@ -1407,6 +1411,8 @@ proxfree.com IN CNAME .
 *.proxfree.com IN CNAME .
 proxy-123.com IN CNAME .
 *.proxy-123.com IN CNAME .
+proxy-best.com IN CNAME .
+*.proxy-best.com IN CNAME .
 proxy-search.com IN CNAME .
 *.proxy-search.com IN CNAME .
 proxy-seller.com IN CNAME .
@@ -1515,6 +1521,8 @@ safe.dot.dns.yandex.net IN CNAME .
 *.safe.dot.dns.yandex.net IN CNAME .
 safeconnect.mcafee.com IN CNAME .
 *.safeconnect.mcafee.com IN CNAME .
+safing.io IN CNAME .
+*.safing.io IN CNAME .
 sandbox.opendns.com IN CNAME .
 *.sandbox.opendns.com IN CNAME .
 school-ilove.vercel.app IN CNAME .
@@ -1683,6 +1691,8 @@ tuandns.duckdns.org IN CNAME .
 *.tuandns.duckdns.org IN CNAME .
 tungdnsne.duckdns.org IN CNAME .
 *.tungdnsne.duckdns.org IN CNAME .
+tunnel.googlezip.net IN CNAME .
+*.tunnel.googlezip.net IN CNAME .
 tunnelbear.com IN CNAME .
 *.tunnelbear.com IN CNAME .
 tunnelbear.s3.amazonaws.com IN CNAME .
@@ -1783,8 +1793,6 @@ vpngate2.jp IN CNAME .
 *.vpngate2.jp IN CNAME .
 vpnjantit.com IN CNAME .
 *.vpnjantit.com IN CNAME .
-vpnmaster.top IN CNAME .
-*.vpnmaster.top IN CNAME .
 vpnmentor.com IN CNAME .
 *.vpnmentor.com IN CNAME .
 vpnoverview.com IN CNAME .
