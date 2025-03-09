@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-SAMSUNG-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741306187 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741478989 12h 15m 3w 3h
 acr-au-prd.samsungcloud.tv IN CNAME .
 *.acr-au-prd.samsungcloud.tv IN CNAME .
 acr-br-prd.samsungcloud.tv IN CNAME .
@@ -49,6 +49,8 @@ bldr.mkt.samsung.com IN CNAME .
 *.bldr.mkt.samsung.com IN CNAME .
 bpu.samsungelectronics.com IN CNAME .
 *.bpu.samsungelectronics.com IN CNAME .
+business.samsungusa.com IN CNAME .
+*.business.samsungusa.com IN CNAME .
 channelusa.samsung.com IN CNAME .
 *.channelusa.samsung.com IN CNAME .
 clientapi-samsung.dtignite.com IN CNAME .
@@ -83,6 +85,18 @@ fast.samsungsingapore.demdex.net IN CNAME .
 *.fast.samsungsingapore.demdex.net IN CNAME .
 gld.samsungosp.com IN CNAME .
 *.gld.samsungosp.com IN CNAME .
+images.b2bindia.samsung.com IN CNAME .
+*.images.b2bindia.samsung.com IN CNAME .
+images.chbusiness.samsung.com IN CNAME .
+*.images.chbusiness.samsung.com IN CNAME .
+images.frbusiness.samsung.com IN CNAME .
+*.images.frbusiness.samsung.com IN CNAME .
+images.it.business.samsung.com IN CNAME .
+*.images.it.business.samsung.com IN CNAME .
+images.partnersupport.samsung.com IN CNAME .
+*.images.partnersupport.samsung.com IN CNAME .
+images.ssbusiness.samsung.com IN CNAME .
+*.images.ssbusiness.samsung.com IN CNAME .
 invitation.samsungiotcloud.com IN CNAME .
 *.invitation.samsungiotcloud.com IN CNAME .
 kpu.samsungelectronics.com IN CNAME .
