@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Hagezi "WHITELIST-REFERRAL" AdBlock List (Top-N Version)
-! Version: 1741307193
-! Number of rules: 537
+! Version: 1741479985
+! Number of rules: 533
 !
 ||3cinteractive.com^
 ||7eer.net^
@@ -23,13 +23,12 @@
 ||aax-eu.amazon.it^
 ||aax-eu.amazon.nl^
 ||aax-eu.amazon.pl^
-||aax-eu.amazon.sa^
-||aax-eu.amazon.se^
 ||aax-fe-pdx-direct.amazon.com^
 ||aax-fe-retail-rtb.amazon.com^
 ||aax-fe.amazon.co.jp^
 ||aax-fe.amazon.com.au^
 ||aax-fe.amazon.sg^
+||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-us-east-retail-direct.amazon.com^
 ||aax-us-east-retail-direct.iad.amazon.com^
@@ -148,7 +147,6 @@
 ||c2-sandbox.piano.io^
 ||c2.piano.io^
 ||c2827.dotomi.com^
-||c2990.dotomi.com^
 ||campaign.adobe.com^
 ||campaign.aliexpress.com^
 ||casale-match.dotomi.com^
@@ -249,7 +247,6 @@
 ||d.agkn.com^
 ||data.digital.costco.ca^
 ||data.digital.costco.com^
-||de-go.kelkoogroup.net^
 ||disneyplus.bn5x.net^
 ||dominos.sng.link^
 ||dpbolvw.net^
@@ -343,7 +340,8 @@
 ||metric.picodi.com^
 ||micpn.com^
 ||mkto-ab420081.com^
-||mkto-test.com^
+||mkto-qa-stage.softwareone.com^
+||mkto-trk.cisco.com^
 ||mktoweb.com^
 ||mmtro.com^
 ||mssg.me^
@@ -381,7 +379,6 @@
 ||r.linksprf.com^
 ||r.srvtrck.com^
 ||r20.rs6.net^
-||r88lcbcab.cc.rs6.net^
 ||rads.stackoverflow.com^
 ||readdle.cmail20.com^
 ||recommender-eu.scarabresearch.com^
@@ -393,15 +390,11 @@
 ||referrals.brave.com^
 ||referrals.bravesoftware.com^
 ||referrer.disqus.com^
-||rgllca6ab.cc.rs6.net^
-||ri-cdn.exponea.com^
 ||rides.sng.link^
 ||run.admost.com^
 ||s1.exacttarget.com^
 ||s10.exacttarget.com^
-||s10.login.exacttarget.com^
 ||s11.exacttarget.com^
-||s11.login.exacttarget.com^
 ||s12.exacttarget.com^
 ||s13.exacttarget.com^
 ||s4.exacttarget.com^
@@ -414,7 +407,6 @@
 ||secure.everyaction.com^
 ||sendgrid-secure.bluecore.com^
 ||servedby.o2.co.uk^
-||seu.cleverreach.com^
 ||seu2.cleverreach.com^
 ||shareasale-analytics.com^
 ||shareasale.com^
@@ -439,16 +431,19 @@
 ||suite11.emarsys.net^
 ||suite16.emarsys.net^
 ||suite17.emarsys.net^
+||suite24.emarsys.net^
 ||suite27.emarsys.net^
 ||suite29.emarsys.net^
+||suite32-cf.emarsys.net^
 ||suite32.emarsys.net^
 ||suite33.emarsys.net^
-||suite34.emarsys.net^
 ||suite36.emarsys.net^
 ||suite38.emarsys.net^
+||suite40-cf.emarsys.net^
 ||suite40.emarsys.net^
+||suite44.emarsys.net^
 ||suite45.emarsys.net^
-||suite52.emarsys.net^
+||suite47-cf.emarsys.net^
 ||suite54.emarsys.net^
 ||suite56.emarsys.net^
 ||suite57.emarsys.net^
@@ -526,6 +521,7 @@
 ||trk.specialized.com^
 ||ts.tradetracker.net^
 ||ue.flipboard.com^
+||uk-go.kelkoogroup.net^
 ||ulink.adjust.com^
 ||uns.apsis.one^
 ||us-go.kelkoogroup.net^
