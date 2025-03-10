@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741478856 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741565253 12h 15m 3w 3h
 120v.ac IN CNAME .
 *.120v.ac IN CNAME .
 1337.cx IN CNAME .
@@ -245,8 +245,6 @@ dynalias.org IN CNAME .
 *.dynalias.org IN CNAME .
 dynamic-dns.net IN CNAME .
 *.dynamic-dns.net IN CNAME .
-dynamic.domains IN CNAME .
-*.dynamic.domains IN CNAME .
 dyndns-at-home.com IN CNAME .
 *.dyndns-at-home.com IN CNAME .
 dyndns-at-work.com IN CNAME .
@@ -765,8 +763,6 @@ serveftp.com IN CNAME .
 *.serveftp.com IN CNAME .
 serveftp.net IN CNAME .
 *.serveftp.net IN CNAME .
-serveftp.org IN CNAME .
-*.serveftp.org IN CNAME .
 servegame.com IN CNAME .
 *.servegame.com IN CNAME .
 servehalflife.com IN CNAME .
