@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741478845 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741565243 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -809,8 +809,6 @@ pihole4.hoerli.net IN CNAME .
 *.pihole4.hoerli.net IN CNAME .
 pluton.plan9-dns.com IN CNAME .
 *.pluton.plan9-dns.com IN CNAME .
-privacydns.go6lab.si IN CNAME .
-*.privacydns.go6lab.si IN CNAME .
 privatnas.servebeer.com IN CNAME .
 *.privatnas.servebeer.com IN CNAME .
 pro.shecan.ir IN CNAME .
