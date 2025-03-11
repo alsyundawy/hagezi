@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741565249 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741651651 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.com IN CNAME .
@@ -1463,8 +1463,6 @@ quickvpn.lipisoft.com IN CNAME .
 *.quickvpn.lipisoft.com IN CNAME .
 quintex.com IN CNAME .
 *.quintex.com IN CNAME .
-r1bnc.com IN CNAME .
-*.r1bnc.com IN CNAME .
 radmin-vpn.com IN CNAME .
 *.radmin-vpn.com IN CNAME .
 rayobyte.com IN CNAME .
