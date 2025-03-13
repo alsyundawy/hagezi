@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-XIAOMI-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741651804 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741824615 12h 15m 3w 3h
 11-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
 *.11-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
 5-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
@@ -71,8 +71,6 @@ api.content.intl.miui.com IN CNAME .
 *.api.content.intl.miui.com IN CNAME .
 api.developer.xiaomi.com IN CNAME .
 *.api.developer.xiaomi.com IN CNAME .
-api.e.mi.com IN CNAME .
-*.api.e.mi.com IN CNAME .
 api.g.micloud.xiaomi.net IN CNAME .
 *.api.g.micloud.xiaomi.net IN CNAME .
 api.game.intl.miui.com IN CNAME .
@@ -197,8 +195,6 @@ d.xiaomi.com IN CNAME .
 *.d.xiaomi.com IN CNAME .
 data.game.xiaomi.com IN CNAME .
 *.data.game.xiaomi.com IN CNAME .
-data.mistat.india.xiaomi.com IN CNAME .
-*.data.mistat.india.xiaomi.com IN CNAME .
 data.mistat.xiaomi.com IN CNAME .
 *.data.mistat.xiaomi.com IN CNAME .
 data.sec.intl.miui.com IN CNAME .
@@ -213,6 +209,8 @@ drm.market.xiaomi.com IN CNAME .
 *.drm.market.xiaomi.com IN CNAME .
 dvb.pandora.xiaomi.com IN CNAME .
 *.dvb.pandora.xiaomi.com IN CNAME .
+e.mi.com IN CNAME .
+*.e.mi.com IN CNAME .
 emq.xmpush.xiaomi.com IN CNAME .
 *.emq.xmpush.xiaomi.com IN CNAME .
 events.miui.com IN CNAME .
@@ -405,10 +403,26 @@ mishop.cdn.pandora.xiaomi.com IN CNAME .
 *.mishop.cdn.pandora.xiaomi.com IN CNAME .
 mishop.pandora.xiaomi.com IN CNAME .
 *.mishop.pandora.xiaomi.com IN CNAME .
+mistat.india.xiaomi.com IN CNAME .
+*.mistat.india.xiaomi.com IN CNAME .
+mistat.india.xiaomi.com.edgesuite.net IN CNAME .
+*.mistat.india.xiaomi.com.edgesuite.net IN CNAME .
+mistat.india.xiaomi.com.ksyna.net IN CNAME .
+*.mistat.india.xiaomi.com.ksyna.net IN CNAME .
 mistat.intl.xiaomi.com IN CNAME .
 *.mistat.intl.xiaomi.com IN CNAME .
+mistat.intl.xiaomi.com.edgesuite.net IN CNAME .
+*.mistat.intl.xiaomi.com.edgesuite.net IN CNAME .
+mistat.intl.xiaomi.com.ksyna.net IN CNAME .
+*.mistat.intl.xiaomi.com.ksyna.net IN CNAME .
 mistat.rus.xiaomi.com IN CNAME .
 *.mistat.rus.xiaomi.com IN CNAME .
+mistat.rus.xiaomi.com.edgesuite.net IN CNAME .
+*.mistat.rus.xiaomi.com.edgesuite.net IN CNAME .
+mistat.rus.xiaomi.com.ksyna.net IN CNAME .
+*.mistat.rus.xiaomi.com.ksyna.net IN CNAME .
+mistat.xiaomi.com.download.ks-cdn.com IN CNAME .
+*.mistat.xiaomi.com.download.ks-cdn.com IN CNAME .
 miui-l7-data-other-c3.pt.miui.com IN CNAME .
 *.miui-l7-data-other-c3.pt.miui.com IN CNAME .
 miui-l7-data-other.pt.miui.com IN CNAME .
@@ -565,8 +579,6 @@ shop.pandora.xiaomi.com IN CNAME .
 *.shop.pandora.xiaomi.com IN CNAME .
 si.ptqy.gitv.tv IN CNAME .
 *.si.ptqy.gitv.tv IN CNAME .
-site.e.mi.com IN CNAME .
-*.site.e.mi.com IN CNAME .
 smarthome.pandora.xiaomi.com IN CNAME .
 *.smarthome.pandora.xiaomi.com IN CNAME .
 srv.greenguard.sec.miui.com IN CNAME .
@@ -579,8 +591,6 @@ stag.bssmini.pandora.xiaomi.com IN CNAME .
 *.stag.bssmini.pandora.xiaomi.com IN CNAME .
 staging-analyze.pt.xiaomi.com IN CNAME .
 *.staging-analyze.pt.xiaomi.com IN CNAME .
-staging.admin.e.mi.com IN CNAME .
-*.staging.admin.e.mi.com IN CNAME .
 staging.api.zhuti.n.xiaomi.com IN CNAME .
 *.staging.api.zhuti.n.xiaomi.com IN CNAME .
 staging.appapi.n.xiaomi.com IN CNAME .
