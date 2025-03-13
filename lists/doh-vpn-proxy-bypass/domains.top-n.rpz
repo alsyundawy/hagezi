@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741651651 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741824452 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.com IN CNAME .
@@ -59,8 +59,6 @@ acdtop.com IN CNAME .
 *.acdtop.com IN CNAME .
 actmobile.com IN CNAME .
 *.actmobile.com IN CNAME .
-ada.openbld.net IN CNAME .
-*.ada.openbld.net IN CNAME .
 adblock-dot.dnswarden.com IN CNAME .
 *.adblock-dot.dnswarden.com IN CNAME .
 adguard-dns.com IN CNAME .
@@ -673,8 +671,6 @@ doh.eastus.pi-dns.com IN CNAME .
 *.doh.eastus.pi-dns.com IN CNAME .
 doh.eu.dnswarden.com IN CNAME .
 *.doh.eu.dnswarden.com IN CNAME .
-doh.excdn.eu.org IN CNAME .
-*.doh.excdn.eu.org IN CNAME .
 doh.ffmuc.net IN CNAME .
 *.doh.ffmuc.net IN CNAME .
 doh.ibr.cs.tu-bs.de IN CNAME .
@@ -943,6 +939,8 @@ geti2p.net IN CNAME .
 *.geti2p.net IN CNAME .
 getiantem.org IN CNAME .
 *.getiantem.org IN CNAME .
+getlantern.org IN CNAME .
+*.getlantern.org IN CNAME .
 getoutline.org IN CNAME .
 *.getoutline.org IN CNAME .
 goldenfrog.com IN CNAME .
@@ -1125,8 +1123,6 @@ luminati.io IN CNAME .
 *.luminati.io IN CNAME .
 luminatinet.com IN CNAME .
 *.luminatinet.com IN CNAME .
-luna-is.so-gorgeo.us.kg IN CNAME .
-*.luna-is.so-gorgeo.us.kg IN CNAME .
 mad01.dnscry.pt IN CNAME .
 *.mad01.dnscry.pt IN CNAME .
 man01.dnscry.pt IN CNAME .
@@ -1147,8 +1143,6 @@ mask.icloud.com IN CNAME .
 *.mask.icloud.com IN CNAME .
 masterproxy-proxy.github.io IN CNAME .
 *.masterproxy-proxy.github.io IN CNAME .
-mecca-is.so-gorgeo.us.kg IN CNAME .
-*.mecca-is.so-gorgeo.us.kg IN CNAME .
 megaproxy.com IN CNAME .
 *.megaproxy.com IN CNAME .
 mel-au.prcdn.net IN CNAME .
@@ -1161,8 +1155,6 @@ mickedi.isgood.host IN CNAME .
 *.mickedi.isgood.host IN CNAME .
 mil01.dnscry.pt IN CNAME .
 *.mil01.dnscry.pt IN CNAME .
-mita-is.so-gorgeo.us.kg IN CNAME .
-*.mita-is.so-gorgeo.us.kg IN CNAME .
 mitmproxy.org IN CNAME .
 *.mitmproxy.org IN CNAME .
 mobilejump.mobi IN CNAME .
@@ -1181,12 +1173,8 @@ mullvad.net IN CNAME .
 *.mullvad.net IN CNAME .
 mus.cisco.com IN CNAME .
 *.mus.cisco.com IN CNAME .
-myrra-is.so-gorgeo.us.kg IN CNAME .
-*.myrra-is.so-gorgeo.us.kg IN CNAME .
 mzhlhrfr8z.info IN CNAME .
 *.mzhlhrfr8z.info IN CNAME .
-nana-is.so-gorgeo.us.kg IN CNAME .
-*.nana-is.so-gorgeo.us.kg IN CNAME .
 napps-1.com IN CNAME .
 *.napps-1.com IN CNAME .
 napps-2.com IN CNAME .
@@ -1217,12 +1205,8 @@ ngrok.dev IN CNAME .
 *.ngrok.dev IN CNAME .
 ngrok.io IN CNAME .
 *.ngrok.io IN CNAME .
-nightlymoon.us.kg IN CNAME .
-*.nightlymoon.us.kg IN CNAME .
 nimbleway.com IN CNAME .
 *.nimbleway.com IN CNAME .
-nindy-is.so-gorgeo.us.kg IN CNAME .
-*.nindy-is.so-gorgeo.us.kg IN CNAME .
 ninjavpn.io IN CNAME .
 *.ninjavpn.io IN CNAME .
 njal.la IN CNAME .
@@ -1235,8 +1219,6 @@ nodepay.ai IN CNAME .
 *.nodepay.ai IN CNAME .
 nodes.gen4.ninja IN CNAME .
 *.nodes.gen4.ninja IN CNAME .
-nora-is.so-gorgeo.us.kg IN CNAME .
-*.nora-is.so-gorgeo.us.kg IN CNAME .
 nordaccount.com IN CNAME .
 *.nordaccount.com IN CNAME .
 nordcdn.com IN CNAME .
@@ -1251,8 +1233,6 @@ notlong.com IN CNAME .
 *.notlong.com IN CNAME .
 notvpn.io IN CNAME .
 *.notvpn.io IN CNAME .
-nova-is.so-gorgeo.us.kg IN CNAME .
-*.nova-is.so-gorgeo.us.kg IN CNAME .
 ns0.fdn.fr IN CNAME .
 *.ns0.fdn.fr IN CNAME .
 ns1.fdn.fr IN CNAME .
@@ -1505,8 +1485,6 @@ resolver3.absolight.net IN CNAME .
 *.resolver3.absolight.net IN CNAME .
 rethinkdns.com IN CNAME .
 *.rethinkdns.com IN CNAME .
-ric.openbld.net IN CNAME .
-*.ric.openbld.net IN CNAME .
 riseup.net IN CNAME .
 *.riseup.net IN CNAME .
 rpz-public-resolver1.rrdns.pch.net IN CNAME .
@@ -1555,8 +1533,6 @@ sin03.dnscry.pt IN CNAME .
 *.sin03.dnscry.pt IN CNAME .
 siteget.net IN CNAME .
 *.siteget.net IN CNAME .
-sitha-is.so-gorgeo.us.kg IN CNAME .
-*.sitha-is.so-gorgeo.us.kg IN CNAME .
 sjc01.dnscry.pt IN CNAME .
 *.sjc01.dnscry.pt IN CNAME .
 slc01.dnscry.pt IN CNAME .
@@ -1629,8 +1605,6 @@ tbunet.com IN CNAME .
 *.tbunet.com IN CNAME .
 testpilot.firefox.com IN CNAME .
 *.testpilot.firefox.com IN CNAME .
-tetty-is.so-gorgeo.us.kg IN CNAME .
-*.tetty-is.so-gorgeo.us.kg IN CNAME .
 thevpncompany.net IN CNAME .
 *.thevpncompany.net IN CNAME .
 tiger.dns.qwer.pw IN CNAME .
@@ -1855,8 +1829,6 @@ yhz01.dnscry.pt IN CNAME .
 *.yhz01.dnscry.pt IN CNAME .
 yul01.dnscry.pt IN CNAME .
 *.yul01.dnscry.pt IN CNAME .
-yussy-is.so-gorgeo.us.kg IN CNAME .
-*.yussy-is.so-gorgeo.us.kg IN CNAME .
 yvr01.dnscry.pt IN CNAME .
 *.yvr01.dnscry.pt IN CNAME .
 yyc01.dnscry.pt IN CNAME .
