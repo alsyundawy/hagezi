@@ -1,8 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741651655 12h 15m 3w 3h
-120v.ac IN CNAME .
-*.120v.ac IN CNAME .
+@ SOA dummy-ns hostmaster 1741824456 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -173,8 +171,6 @@ dnsalias.org IN CNAME .
 *.dnsalias.org IN CNAME .
 dnsdojo.com IN CNAME .
 *.dnsdojo.com IN CNAME .
-dnsdojo.net IN CNAME .
-*.dnsdojo.net IN CNAME .
 dnsdojo.org IN CNAME .
 *.dnsdojo.org IN CNAME .
 dnset.com IN CNAME .
@@ -199,8 +195,6 @@ does-it.net IN CNAME .
 *.does-it.net IN CNAME .
 doesntexist.com IN CNAME .
 *.doesntexist.com IN CNAME .
-dontexist.com IN CNAME .
-*.dontexist.com IN CNAME .
 doomdns.com IN CNAME .
 *.doomdns.com IN CNAME .
 drayddns.com IN CNAME .
@@ -219,6 +213,8 @@ duiadns.net IN CNAME .
 *.duiadns.net IN CNAME .
 dumb1.com IN CNAME .
 *.dumb1.com IN CNAME .
+dvr-ddns.com IN CNAME .
+*.dvr-ddns.com IN CNAME .
 dvrcam.info IN CNAME .
 *.dvrcam.info IN CNAME .
 dvrdns.org IN CNAME .
@@ -243,6 +239,8 @@ dynalias.org IN CNAME .
 *.dynalias.org IN CNAME .
 dynamic-dns.net IN CNAME .
 *.dynamic-dns.net IN CNAME .
+dynamic.domains IN CNAME .
+*.dynamic.domains IN CNAME .
 dyndns-at-home.com IN CNAME .
 *.dyndns-at-home.com IN CNAME .
 dyndns-at-work.com IN CNAME .
@@ -339,8 +337,6 @@ freeddns.org IN CNAME .
 *.freeddns.org IN CNAME .
 freeddns.us IN CNAME .
 *.freeddns.us IN CNAME .
-freedynamicdns.org IN CNAME .
-*.freedynamicdns.org IN CNAME .
 freemyip.com IN CNAME .
 *.freemyip.com IN CNAME .
 freetcp.com IN CNAME .
@@ -407,8 +403,6 @@ gotdns.org IN CNAME .
 *.gotdns.org IN CNAME .
 guild-site.com IN CNAME .
 *.guild-site.com IN CNAME .
-ham-radio-op.net IN CNAME .
-*.ham-radio-op.net IN CNAME .
 health-carereform.com IN CNAME .
 *.health-carereform.com IN CNAME .
 heroinewarrior.com IN CNAME .
@@ -621,8 +615,6 @@ mywire.org IN CNAME .
 *.mywire.org IN CNAME .
 myz.info IN CNAME .
 *.myz.info IN CNAME .
-n4t.co IN CNAME .
-*.n4t.co IN CNAME .
 neat-url.com IN CNAME .
 *.neat-url.com IN CNAME .
 nedvighimost-sochi.ru IN CNAME .
@@ -789,6 +781,8 @@ serveusers.com IN CNAME .
 *.serveusers.com IN CNAME .
 sexidude.com IN CNAME .
 *.sexidude.com IN CNAME .
+sexxxy.biz IN CNAME .
+*.sexxxy.biz IN CNAME .
 simple-url.com IN CNAME .
 *.simple-url.com IN CNAME .
 sitelutions.com IN CNAME .
@@ -883,8 +877,6 @@ wwwhost.biz IN CNAME .
 *.wwwhost.biz IN CNAME .
 x24hr.com IN CNAME .
 *.x24hr.com IN CNAME .
-x443.pw IN CNAME .
-*.x443.pw IN CNAME .
 xxuz.com IN CNAME .
 *.xxuz.com IN CNAME .
 xxxy.info IN CNAME .
