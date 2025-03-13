@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741651644 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741824445 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -31,8 +31,6 @@ abe01.dnscry.pt IN CNAME .
 *.abe01.dnscry.pt IN CNAME .
 abn01.dnscry.pt IN CNAME .
 *.abn01.dnscry.pt IN CNAME .
-ada.openbld.net IN CNAME .
-*.ada.openbld.net IN CNAME .
 adblock-dot.dnswarden.com IN CNAME .
 *.adblock-dot.dnswarden.com IN CNAME .
 adguard-dns.com IN CNAME .
@@ -431,8 +429,6 @@ doh.eastus.pi-dns.com IN CNAME .
 *.doh.eastus.pi-dns.com IN CNAME .
 doh.eu.dnswarden.com IN CNAME .
 *.doh.eu.dnswarden.com IN CNAME .
-doh.excdn.eu.org IN CNAME .
-*.doh.excdn.eu.org IN CNAME .
 doh.ffmuc.net IN CNAME .
 *.doh.ffmuc.net IN CNAME .
 doh.ibr.cs.tu-bs.de IN CNAME .
@@ -701,8 +697,6 @@ llk01.dnscry.pt IN CNAME .
 *.llk01.dnscry.pt IN CNAME .
 lon01.dnscry.pt IN CNAME .
 *.lon01.dnscry.pt IN CNAME .
-luna-is.so-gorgeo.us.kg IN CNAME .
-*.luna-is.so-gorgeo.us.kg IN CNAME .
 mad01.dnscry.pt IN CNAME .
 *.mad01.dnscry.pt IN CNAME .
 man01.dnscry.pt IN CNAME .
@@ -721,40 +715,24 @@ mask.apple-dns.net IN CNAME .
 *.mask.apple-dns.net IN CNAME .
 mask.icloud.com IN CNAME .
 *.mask.icloud.com IN CNAME .
-mecca-is.so-gorgeo.us.kg IN CNAME .
-*.mecca-is.so-gorgeo.us.kg IN CNAME .
 mia01.dnscry.pt IN CNAME .
 *.mia01.dnscry.pt IN CNAME .
 mickedi.isgood.host IN CNAME .
 *.mickedi.isgood.host IN CNAME .
 mil01.dnscry.pt IN CNAME .
 *.mil01.dnscry.pt IN CNAME .
-mita-is.so-gorgeo.us.kg IN CNAME .
-*.mita-is.so-gorgeo.us.kg IN CNAME .
 mru01.dnscry.pt IN CNAME .
 *.mru01.dnscry.pt IN CNAME .
 muc01.dnscry.pt IN CNAME .
 *.muc01.dnscry.pt IN CNAME .
 muli.stusta.mhn.de IN CNAME .
 *.muli.stusta.mhn.de IN CNAME .
-myrra-is.so-gorgeo.us.kg IN CNAME .
-*.myrra-is.so-gorgeo.us.kg IN CNAME .
-nana-is.so-gorgeo.us.kg IN CNAME .
-*.nana-is.so-gorgeo.us.kg IN CNAME .
 nat64.tuxis.nl IN CNAME .
 *.nat64.tuxis.nl IN CNAME .
 naw01.dnscry.pt IN CNAME .
 *.naw01.dnscry.pt IN CNAME .
-nightlymoon.us.kg IN CNAME .
-*.nightlymoon.us.kg IN CNAME .
-nindy-is.so-gorgeo.us.kg IN CNAME .
-*.nindy-is.so-gorgeo.us.kg IN CNAME .
 nl.dns.privex.io IN CNAME .
 *.nl.dns.privex.io IN CNAME .
-nora-is.so-gorgeo.us.kg IN CNAME .
-*.nora-is.so-gorgeo.us.kg IN CNAME .
-nova-is.so-gorgeo.us.kg IN CNAME .
-*.nova-is.so-gorgeo.us.kg IN CNAME .
 ns0.fdn.fr IN CNAME .
 *.ns0.fdn.fr IN CNAME .
 ns1.fdn.fr IN CNAME .
@@ -855,8 +833,6 @@ resolver3.absolight.net IN CNAME .
 *.resolver3.absolight.net IN CNAME .
 rethinkdns.com IN CNAME .
 *.rethinkdns.com IN CNAME .
-ric.openbld.net IN CNAME .
-*.ric.openbld.net IN CNAME .
 rpz-public-resolver1.rrdns.pch.net IN CNAME .
 *.rpz-public-resolver1.rrdns.pch.net IN CNAME .
 safe.dot.dns.yandex.net IN CNAME .
@@ -879,8 +855,6 @@ sin02.dnscry.pt IN CNAME .
 *.sin02.dnscry.pt IN CNAME .
 sin03.dnscry.pt IN CNAME .
 *.sin03.dnscry.pt IN CNAME .
-sitha-is.so-gorgeo.us.kg IN CNAME .
-*.sitha-is.so-gorgeo.us.kg IN CNAME .
 sjc01.dnscry.pt IN CNAME .
 *.sjc01.dnscry.pt IN CNAME .
 slc01.dnscry.pt IN CNAME .
@@ -903,8 +877,6 @@ syd02.dnscry.pt IN CNAME .
 *.syd02.dnscry.pt IN CNAME .
 tbs01.dnscry.pt IN CNAME .
 *.tbs01.dnscry.pt IN CNAME .
-tetty-is.so-gorgeo.us.kg IN CNAME .
-*.tetty-is.so-gorgeo.us.kg IN CNAME .
 tiger.dns.qwer.pw IN CNAME .
 *.tiger.dns.qwer.pw IN CNAME .
 tky-dns.bitdefender.net IN CNAME .
@@ -953,8 +925,6 @@ yhz01.dnscry.pt IN CNAME .
 *.yhz01.dnscry.pt IN CNAME .
 yul01.dnscry.pt IN CNAME .
 *.yul01.dnscry.pt IN CNAME .
-yussy-is.so-gorgeo.us.kg IN CNAME .
-*.yussy-is.so-gorgeo.us.kg IN CNAME .
 yvr01.dnscry.pt IN CNAME .
 *.yvr01.dnscry.pt IN CNAME .
 yyc01.dnscry.pt IN CNAME .
