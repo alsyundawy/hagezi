@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741824441 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741910840 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -1011,6 +1011,8 @@ fpftp.blogspot.com IN CNAME .
 *.fpftp.blogspot.com IN CNAME .
 frap94.blogspot.com IN CNAME .
 *.frap94.blogspot.com IN CNAME .
+frdl.io IN CNAME .
+*.frdl.io IN CNAME .
 free-tracker.zooki.xyz IN CNAME .
 *.free-tracker.zooki.xyz IN CNAME .
 freedomalternative.com IN CNAME .
@@ -2575,8 +2577,6 @@ thepiratebayproxy.pages.dev IN CNAME .
 *.thepiratebayproxy.pages.dev IN CNAME .
 thepiratebays.com.se IN CNAME .
 *.thepiratebays.com.se IN CNAME .
-theplace.bz IN CNAME .
-*.theplace.bz IN CNAME .
 therarbg.com IN CNAME .
 *.therarbg.com IN CNAME .
 thetracker.org IN CNAME .
