@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741911013 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741997437 12h 15m 3w 3h
 a4.bing.com IN CNAME .
 *.a4.bing.com IN CNAME .
 ac2.msn.com IN CNAME .
@@ -13,6 +13,8 @@ ad.msn.com IN CNAME .
 *.ad.msn.com IN CNAME .
 adevents.msn.com IN CNAME .
 *.adevents.msn.com IN CNAME .
+ads-msn-com-profile.trafficmanager.net IN CNAME .
+*.ads-msn-com-profile.trafficmanager.net IN CNAME .
 ads.bing.com IN CNAME .
 *.ads.bing.com IN CNAME .
 ads.eu.msn.com IN CNAME .
@@ -95,8 +97,12 @@ atm-settingsfe-prod-geo2.trafficmanager.net IN CNAME .
 *.atm-settingsfe-prod-geo2.trafficmanager.net IN CNAME .
 auc-visio-telemetry.officeapps.live.com IN CNAME .
 *.auc-visio-telemetry.officeapps.live.com IN CNAME .
+az667904.vo.msecnd.net IN CNAME .
+*.az667904.vo.msecnd.net IN CNAME .
 azsc-bingads-westus.westus.cloudapp.azure.com IN CNAME .
 *.azsc-bingads-westus.westus.cloudapp.azure.com IN CNAME .
+azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com IN CNAME .
+*.azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com IN CNAME .
 azurewatson.microsoft.com IN CNAME .
 *.azurewatson.microsoft.com IN CNAME .
 azurewatsontest.microsoft.com IN CNAME .
@@ -683,6 +689,8 @@ vortex.data.microsoft.com IN CNAME .
 *.vortex.data.microsoft.com IN CNAME .
 vortex.data.trafficmanager.net IN CNAME .
 *.vortex.data.trafficmanager.net IN CNAME .
+vstelemetry.trafficmanager.net IN CNAME .
+*.vstelemetry.trafficmanager.net IN CNAME .
 watson.live.com IN CNAME .
 *.watson.live.com IN CNAME .
 watson.microsoft.com IN CNAME .
