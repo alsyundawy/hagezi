@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741910840 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741997241 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -935,6 +935,8 @@ filenetworks.blogspot.com IN CNAME .
 *.filenetworks.blogspot.com IN CNAME .
 filesharingtalk.com IN CNAME .
 *.filesharingtalk.com IN CNAME .
+filespayouts.com IN CNAME .
+*.filespayouts.com IN CNAME .
 filetracker.pl IN CNAME .
 *.filetracker.pl IN CNAME .
 filetracker.xyz IN CNAME .
@@ -1705,8 +1707,6 @@ myporn.club IN CNAME .
 *.myporn.club IN CNAME .
 myspleen.org IN CNAME .
 *.myspleen.org IN CNAME .
-mytoplist.2ix.de IN CNAME .
-*.mytoplist.2ix.de IN CNAME .
 mywebpages.comcast.net IN CNAME .
 *.mywebpages.comcast.net IN CNAME .
 nagios.tks.sumy.ua IN CNAME .
@@ -2467,8 +2467,6 @@ sukebei.tracker.wf IN CNAME .
 *.sukebei.tracker.wf IN CNAME .
 supernova.to IN CNAME .
 *.supernova.to IN CNAME .
-supersonu222.weebly.com IN CNAME .
-*.supersonu222.weebly.com IN CNAME .
 swatchseries.is IN CNAME .
 *.swatchseries.is IN CNAME .
 swatchseries.ru IN CNAME .
