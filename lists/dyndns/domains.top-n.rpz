@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741910855 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741997258 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -341,8 +341,6 @@ freetcp.com IN CNAME .
 *.freetcp.com IN CNAME .
 from-al.com IN CNAME .
 *.from-al.com IN CNAME .
-from-ar.com IN CNAME .
-*.from-ar.com IN CNAME .
 from-az.net IN CNAME .
 *.from-az.net IN CNAME .
 from-ca.com IN CNAME .
@@ -405,8 +403,6 @@ health-carereform.com IN CNAME .
 *.health-carereform.com IN CNAME .
 heroinewarrior.com IN CNAME .
 *.heroinewarrior.com IN CNAME .
-hicam.net IN CNAME .
-*.hicam.net IN CNAME .
 hldns.ru IN CNAME .
 *.hldns.ru IN CNAME .
 hobby-site.com IN CNAME .
@@ -757,6 +753,8 @@ servehalflife.com IN CNAME .
 *.servehalflife.com IN CNAME .
 servehttp.com IN CNAME .
 *.servehttp.com IN CNAME .
+servehumour.com IN CNAME .
+*.servehumour.com IN CNAME .
 serveirc.com IN CNAME .
 *.serveirc.com IN CNAME .
 serveminecraft.net IN CNAME .
