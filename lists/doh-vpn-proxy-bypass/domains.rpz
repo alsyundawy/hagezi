@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741910851 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1741997254 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.com IN CNAME .
@@ -827,6 +827,8 @@ eonvpn.com IN CNAME .
 *.eonvpn.com IN CNAME .
 epicbrowser.com IN CNAME .
 *.epicbrowser.com IN CNAME .
+error.proxy.startpage.com IN CNAME .
+*.error.proxy.startpage.com IN CNAME .
 esel.stusta.mhn.de IN CNAME .
 *.esel.stusta.mhn.de IN CNAME .
 eth.link IN CNAME .
@@ -1407,6 +1409,8 @@ proxy.com.de IN CNAME .
 *.proxy.com.de IN CNAME .
 proxy.wynd.network IN CNAME .
 *.proxy.wynd.network IN CNAME .
+proxy2.startpage.com IN CNAME .
+*.proxy2.startpage.com IN CNAME .
 proxy3.startpage.com IN CNAME .
 *.proxy3.startpage.com IN CNAME .
 proxybrowser.github.io IN CNAME .
@@ -1621,8 +1625,6 @@ toolara.net IN CNAME .
 *.toolara.net IN CNAME .
 top10vpn.com IN CNAME .
 *.top10vpn.com IN CNAME .
-toptip.cc IN CNAME .
-*.toptip.cc IN CNAME .
 topvpn.cc IN CNAME .
 *.topvpn.cc IN CNAME .
 tor-ca.prcdn.net IN CNAME .
@@ -1705,6 +1707,8 @@ unlimitedvpnapp.com IN CNAME .
 *.unlimitedvpnapp.com IN CNAME .
 urban-vpn.com IN CNAME .
 *.urban-vpn.com IN CNAME .
+us-browse.startpage.com IN CNAME .
+*.us-browse.startpage.com IN CNAME .
 us.doh.cloudveil.org IN CNAME .
 *.us.doh.cloudveil.org IN CNAME .
 us1-browse.startpage.com IN CNAME .
