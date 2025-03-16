@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741997357 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742083763 12h 15m 3w 3h
 000space.com IN CNAME .
 *.000space.com IN CNAME .
 000webhost.com IN CNAME .
@@ -661,6 +661,8 @@ comhem.se IN CNAME .
 *.comhem.se IN CNAME .
 comunidades.net IN CNAME .
 *.comunidades.net IN CNAME .
+comxa.com IN CNAME .
+*.comxa.com IN CNAME .
 conohawing.com IN CNAME .
 *.conohawing.com IN CNAME .
 cookpad-blog.jp IN CNAME .
@@ -1223,8 +1225,6 @@ page4.me IN CNAME .
 *.page4.me IN CNAME .
 pages10.com IN CNAME .
 *.pages10.com IN CNAME .
-pagexl.com IN CNAME .
-*.pagexl.com IN CNAME .
 parsiblog.com IN CNAME .
 *.parsiblog.com IN CNAME .
 pe.hu IN CNAME .
