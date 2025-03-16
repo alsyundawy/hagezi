@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1741998566 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742085068 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -711,6 +711,10 @@ micpn.com IN CNAME .
 *.micpn.com IN CNAME .
 mkto-ab420081.com IN CNAME .
 *.mkto-ab420081.com IN CNAME .
+mkto-test.com IN CNAME .
+*.mkto-test.com IN CNAME .
+mkto-trk.cisco.com IN CNAME .
+*.mkto-trk.cisco.com IN CNAME .
 mktoweb.com IN CNAME .
 *.mktoweb.com IN CNAME .
 mmtro.com IN CNAME .
@@ -803,10 +807,12 @@ r6lccqnab.cc.rs6.net IN CNAME .
 *.r6lccqnab.cc.rs6.net IN CNAME .
 r7avxrcab.cc.rs6.net IN CNAME .
 *.r7avxrcab.cc.rs6.net IN CNAME .
+r88lcbcab.cc.rs6.net IN CNAME .
+*.r88lcbcab.cc.rs6.net IN CNAME .
 rads.stackoverflow.com IN CNAME .
 *.rads.stackoverflow.com IN CNAME .
-rdr9bzpab.cc.rs6.net IN CNAME .
-*.rdr9bzpab.cc.rs6.net IN CNAME .
+rapki9kab.cc.rs6.net IN CNAME .
+*.rapki9kab.cc.rs6.net IN CNAME .
 readdle.cmail20.com IN CNAME .
 *.readdle.cmail20.com IN CNAME .
 recommender-eu.scarabresearch.com IN CNAME .
@@ -835,8 +841,6 @@ rgkkzvdab.cc.rs6.net IN CNAME .
 *.rgkkzvdab.cc.rs6.net IN CNAME .
 rides.sng.link IN CNAME .
 *.rides.sng.link IN CNAME .
-rismehabb.cc.rs6.net IN CNAME .
-*.rismehabb.cc.rs6.net IN CNAME .
 rjpz4ucab.cc.rs6.net IN CNAME .
 *.rjpz4ucab.cc.rs6.net IN CNAME .
 ro-go.kelkoogroup.net IN CNAME .
@@ -859,14 +863,14 @@ s10.login.exacttarget.com IN CNAME .
 *.s10.login.exacttarget.com IN CNAME .
 s11.exacttarget.com IN CNAME .
 *.s11.exacttarget.com IN CNAME .
+s11.login.exacttarget.com IN CNAME .
+*.s11.login.exacttarget.com IN CNAME .
 s12.exacttarget.com IN CNAME .
 *.s12.exacttarget.com IN CNAME .
 s12.login.exacttarget.com IN CNAME .
 *.s12.login.exacttarget.com IN CNAME .
 s13.exacttarget.com IN CNAME .
 *.s13.exacttarget.com IN CNAME .
-s13.login.exacttarget.com IN CNAME .
-*.s13.login.exacttarget.com IN CNAME .
 s4.exacttarget.com IN CNAME .
 *.s4.exacttarget.com IN CNAME .
 s50.exacttarget.com IN CNAME .
@@ -877,8 +881,6 @@ s6.exacttarget.com IN CNAME .
 *.s6.exacttarget.com IN CNAME .
 s7.exacttarget.com IN CNAME .
 *.s7.exacttarget.com IN CNAME .
-s8.exacttarget.com IN CNAME .
-*.s8.exacttarget.com IN CNAME .
 sailthru.com IN CNAME .
 *.sailthru.com IN CNAME .
 sdk.us.xtremepush.com IN CNAME .
@@ -931,8 +933,6 @@ stvkr.com IN CNAME .
 *.stvkr.com IN CNAME .
 suite-dashboard.gservice.emarsys.net IN CNAME .
 *.suite-dashboard.gservice.emarsys.net IN CNAME .
-suite.emarsys.net IN CNAME .
-*.suite.emarsys.net IN CNAME .
 suite10.emarsys.net IN CNAME .
 *.suite10.emarsys.net IN CNAME .
 suite11.emarsys.net IN CNAME .
@@ -949,8 +949,6 @@ suite27.emarsys.net IN CNAME .
 *.suite27.emarsys.net IN CNAME .
 suite29.emarsys.net IN CNAME .
 *.suite29.emarsys.net IN CNAME .
-suite30.emarsys.net IN CNAME .
-*.suite30.emarsys.net IN CNAME .
 suite32.emarsys.net IN CNAME .
 *.suite32.emarsys.net IN CNAME .
 suite33.emarsys.net IN CNAME .
