@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742083656 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742256453 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.com IN CNAME .
@@ -459,6 +459,8 @@ dns.dns-53.com IN CNAME .
 *.dns.dns-53.com IN CNAME .
 dns.dnshome.de IN CNAME .
 *.dns.dnshome.de IN CNAME .
+dns.dnsoverhttps.net IN CNAME .
+*.dns.dnsoverhttps.net IN CNAME .
 dns.dnswarden.com IN CNAME .
 *.dns.dnswarden.com IN CNAME .
 dns.enzonix.com IN CNAME .
@@ -1625,6 +1627,8 @@ toolara.net IN CNAME .
 *.toolara.net IN CNAME .
 top10vpn.com IN CNAME .
 *.top10vpn.com IN CNAME .
+toptip.cc IN CNAME .
+*.toptip.cc IN CNAME .
 topvpn.cc IN CNAME .
 *.topvpn.cc IN CNAME .
 tor-ca.prcdn.net IN CNAME .
