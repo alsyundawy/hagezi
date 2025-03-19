@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742256549 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742342949 12h 15m 3w 3h
 000space.com IN CNAME .
 *.000space.com IN CNAME .
 000webhost.com IN CNAME .
@@ -53,6 +53,8 @@ $TTL 3600
 *.50webs.com IN CNAME .
 59bloggers.com IN CNAME .
 *.59bloggers.com IN CNAME .
+5gbfree.com IN CNAME .
+*.5gbfree.com IN CNAME .
 5v.pl IN CNAME .
 *.5v.pl IN CNAME .
 66ghz.com IN CNAME .
@@ -1361,6 +1363,8 @@ sportsontheweb.net IN CNAME .
 *.sportsontheweb.net IN CNAME .
 spruz.com IN CNAME .
 *.spruz.com IN CNAME .
+square7.ch IN CNAME .
+*.square7.ch IN CNAME .
 ss-blog.jp IN CNAME .
 *.ss-blog.jp IN CNAME .
 ssnblog.com IN CNAME .
