@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742256446 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742342846 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -153,8 +153,6 @@ dns-nosec.quad9.net IN CNAME .
 *.dns-nosec.quad9.net IN CNAME .
 dns-unfiltered.adguard.com IN CNAME .
 *.dns-unfiltered.adguard.com IN CNAME .
-dns.23-4.cn IN CNAME .
-*.dns.23-4.cn IN CNAME .
 dns.233py.com.cdn.cloudflare.net IN CNAME .
 *.dns.233py.com.cdn.cloudflare.net IN CNAME .
 dns.aa.net.uk IN CNAME .
@@ -353,16 +351,12 @@ dnsforfamily.com IN CNAME .
 *.dnsforfamily.com IN CNAME .
 dnsforge.de IN CNAME .
 *.dnsforge.de IN CNAME .
-dnsnl-noads.alekberg.net IN CNAME .
-*.dnsnl-noads.alekberg.net IN CNAME .
 dnsnl.alekberg.net IN CNAME .
 *.dnsnl.alekberg.net IN CNAME .
 dnsotls.lab.nic.cl IN CNAME .
 *.dnsotls.lab.nic.cl IN CNAME .
 dnspub.restena.lu IN CNAME .
 *.dnspub.restena.lu IN CNAME .
-dnsse-noads.alekberg.net IN CNAME .
-*.dnsse-noads.alekberg.net IN CNAME .
 dnsse.alekberg.net IN CNAME .
 *.dnsse.alekberg.net IN CNAME .
 dog.dns.qwer.pw IN CNAME .
