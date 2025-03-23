@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-XIAOMI-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742343024 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742688627 12h 15m 3w 3h
 11-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
 *.11-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
 5-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
@@ -79,6 +79,8 @@ api.hybrid.xiaomi.com IN CNAME .
 *.api.hybrid.xiaomi.com IN CNAME .
 api.installer.xiaomi.com IN CNAME .
 *.api.installer.xiaomi.com IN CNAME .
+api.jr.mi.com IN CNAME .
+*.api.jr.mi.com IN CNAME .
 api.launcher.intl.miui.com IN CNAME .
 *.api.launcher.intl.miui.com IN CNAME .
 api.mintbrs.intl.miui.com IN CNAME .
