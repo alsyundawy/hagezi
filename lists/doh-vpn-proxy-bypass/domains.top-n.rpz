@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742342853 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742688452 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.com IN CNAME .
@@ -483,8 +483,6 @@ dns.hinet.net IN CNAME .
 *.dns.hinet.net IN CNAME .
 dns.hostux.net IN CNAME .
 *.dns.hostux.net IN CNAME .
-dns.ikataruto.com IN CNAME .
-*.dns.ikataruto.com IN CNAME .
 dns.islandnet.com IN CNAME .
 *.dns.islandnet.com IN CNAME .
 dns.kamilszczepanski.com IN CNAME .
@@ -497,8 +495,6 @@ dns.koala.us.to IN CNAME .
 *.dns.koala.us.to IN CNAME .
 dns.korzhyk.pp.ua IN CNAME .
 *.dns.korzhyk.pp.ua IN CNAME .
-dns.linkr.ninja IN CNAME .
-*.dns.linkr.ninja IN CNAME .
 dns.mayx.eu.org IN CNAME .
 *.dns.mayx.eu.org IN CNAME .
 dns.mnet-online.de IN CNAME .
@@ -691,6 +687,8 @@ doh.pi-dns.com IN CNAME .
 *.doh.pi-dns.com IN CNAME .
 doh.pub IN CNAME .
 *.doh.pub IN CNAME .
+doh.qis.io IN CNAME .
+*.doh.qis.io IN CNAME .
 doh.quickline.ch IN CNAME .
 *.doh.quickline.ch IN CNAME .
 doh.safesurfer.io IN CNAME .
@@ -889,8 +887,6 @@ fra01.dnscry.pt IN CNAME .
 *.fra01.dnscry.pt IN CNAME .
 fra02.dnscry.pt IN CNAME .
 *.fra02.dnscry.pt IN CNAME .
-free-proxy-list.net IN CNAME .
-*.free-proxy-list.net IN CNAME .
 free-proxy.com.de IN CNAME .
 *.free-proxy.com.de IN CNAME .
 free-proxysite.com IN CNAME .
@@ -1411,8 +1407,6 @@ proxy.com.de IN CNAME .
 *.proxy.com.de IN CNAME .
 proxy.wynd.network IN CNAME .
 *.proxy.wynd.network IN CNAME .
-proxy2.startpage.com IN CNAME .
-*.proxy2.startpage.com IN CNAME .
 proxy3.startpage.com IN CNAME .
 *.proxy3.startpage.com IN CNAME .
 proxybrowser.github.io IN CNAME .
@@ -1563,8 +1557,6 @@ sshmax.net IN CNAME .
 *.sshmax.net IN CNAME .
 sshocean.com IN CNAME .
 *.sshocean.com IN CNAME .
-sshstores.net IN CNAME .
-*.sshstores.net IN CNAME .
 ssl-proxy.my-addr.com IN CNAME .
 *.ssl-proxy.my-addr.com IN CNAME .
 stable-vpn.com IN CNAME .
@@ -1627,8 +1619,6 @@ toolara.net IN CNAME .
 *.toolara.net IN CNAME .
 top10vpn.com IN CNAME .
 *.top10vpn.com IN CNAME .
-toptip.cc IN CNAME .
-*.toptip.cc IN CNAME .
 topvpn.cc IN CNAME .
 *.topvpn.cc IN CNAME .
 tor-ca.prcdn.net IN CNAME .
