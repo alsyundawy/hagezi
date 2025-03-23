@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742342846 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742688445 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -233,8 +233,6 @@ dns.hinet.net IN CNAME .
 *.dns.hinet.net IN CNAME .
 dns.hostux.net IN CNAME .
 *.dns.hostux.net IN CNAME .
-dns.ikataruto.com IN CNAME .
-*.dns.ikataruto.com IN CNAME .
 dns.islandnet.com IN CNAME .
 *.dns.islandnet.com IN CNAME .
 dns.kamilszczepanski.com IN CNAME .
@@ -247,8 +245,6 @@ dns.koala.us.to IN CNAME .
 *.dns.koala.us.to IN CNAME .
 dns.korzhyk.pp.ua IN CNAME .
 *.dns.korzhyk.pp.ua IN CNAME .
-dns.linkr.ninja IN CNAME .
-*.dns.linkr.ninja IN CNAME .
 dns.mayx.eu.org IN CNAME .
 *.dns.mayx.eu.org IN CNAME .
 dns.mnet-online.de IN CNAME .
@@ -451,6 +447,8 @@ doh.pi-dns.com IN CNAME .
 *.doh.pi-dns.com IN CNAME .
 doh.pub IN CNAME .
 *.doh.pub IN CNAME .
+doh.qis.io IN CNAME .
+*.doh.qis.io IN CNAME .
 doh.quickline.ch IN CNAME .
 *.doh.quickline.ch IN CNAME .
 doh.safesurfer.io IN CNAME .
