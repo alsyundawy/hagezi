@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742774843 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742861245 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -29,6 +29,8 @@ a.safe.ns.dnslify.com IN CNAME .
 *.a.safe.ns.dnslify.com IN CNAME .
 abe01.dnscry.pt IN CNAME .
 *.abe01.dnscry.pt IN CNAME .
+abel.waringer-atg.de IN CNAME .
+*.abel.waringer-atg.de IN CNAME .
 abn01.dnscry.pt IN CNAME .
 *.abn01.dnscry.pt IN CNAME .
 adblock-dot.dnswarden.com IN CNAME .
