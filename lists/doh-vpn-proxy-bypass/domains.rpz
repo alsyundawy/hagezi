@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742774850 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742861252 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.com IN CNAME .
@@ -53,6 +53,8 @@ abcproxy.com IN CNAME .
 *.abcproxy.com IN CNAME .
 abe01.dnscry.pt IN CNAME .
 *.abe01.dnscry.pt IN CNAME .
+abel.waringer-atg.de IN CNAME .
+*.abel.waringer-atg.de IN CNAME .
 abn01.dnscry.pt IN CNAME .
 *.abn01.dnscry.pt IN CNAME .
 acdtop.com IN CNAME .
@@ -1509,6 +1511,8 @@ sea01.dnscry.pt IN CNAME .
 *.sea01.dnscry.pt IN CNAME .
 sec-tunnel.com IN CNAME .
 *.sec-tunnel.com IN CNAME .
+secretsline.biz IN CNAME .
+*.secretsline.biz IN CNAME .
 secure-dns.dns-ga.de IN CNAME .
 *.secure-dns.dns-ga.de IN CNAME .
 secure.avastdns.com IN CNAME .
@@ -1771,6 +1775,8 @@ vpnplus.to IN CNAME .
 *.vpnplus.to IN CNAME .
 vpnpro.com IN CNAME .
 *.vpnpro.com IN CNAME .
+vpnproxy.site IN CNAME .
+*.vpnproxy.site IN CNAME .
 vpnproxymaster.com IN CNAME .
 *.vpnproxymaster.com IN CNAME .
 vpnranks.com IN CNAME .
