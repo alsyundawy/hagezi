@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-XIAOMI-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742775000 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742861418 12h 15m 3w 3h
 11-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
 *.11-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
 5-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
@@ -101,8 +101,6 @@ api.xmpush.global.xiaomi.com IN CNAME .
 *.api.xmpush.global.xiaomi.com IN CNAME .
 apkrep.ff.avast.sec.miui.com IN CNAME .
 *.apkrep.ff.avast.sec.miui.com IN CNAME .
-app.chat.global.xiaomi.net.iberostar.com IN CNAME .
-*.app.chat.global.xiaomi.net.iberostar.com IN CNAME .
 app.greengurad.sec.miui.com IN CNAME .
 *.app.greengurad.sec.miui.com IN CNAME .
 app.miui.com IN CNAME .
@@ -247,8 +245,6 @@ feedback.miui.com IN CNAME .
 *.feedback.miui.com IN CNAME .
 file.cdn.mvideo.xiaomi.com IN CNAME .
 *.file.cdn.mvideo.xiaomi.com IN CNAME .
-find.api.micloud.xiaomi.net.iberostar.com IN CNAME .
-*.find.api.micloud.xiaomi.net.iberostar.com IN CNAME .
 findapi.micloud.xiaomi.net IN CNAME .
 *.findapi.micloud.xiaomi.net IN CNAME .
 flash.sec.intl.miui.com IN CNAME .
@@ -527,8 +523,6 @@ resolver.gslb.mi-idc.com IN CNAME .
 *.resolver.gslb.mi-idc.com IN CNAME .
 resolver.mi.xiaomi.com IN CNAME .
 *.resolver.mi.xiaomi.com IN CNAME .
-resolver.msg.global.xiaomi.net.iberostar.com IN CNAME .
-*.resolver.msg.global.xiaomi.net.iberostar.com IN CNAME .
 rtmpott.pandora.xiaomi.com IN CNAME .
 *.rtmpott.pandora.xiaomi.com IN CNAME .
 ru-api.xmpush.global.xiaomi.com IN CNAME .
@@ -701,14 +695,6 @@ upgrade.pandora.xiaomi.com IN CNAME .
 *.upgrade.pandora.xiaomi.com IN CNAME .
 us.api.micloud.xiaomi.net IN CNAME .
 *.us.api.micloud.xiaomi.net IN CNAME .
-us.appbackupapi.micloud.xiaomi.net.iberostar.com IN CNAME .
-*.us.appbackupapi.micloud.xiaomi.net.iberostar.com IN CNAME .
-us.micardapi.micloud.xiaomi.net.iberostar.com IN CNAME .
-*.us.micardapi.micloud.xiaomi.net.iberostar.com IN CNAME .
-us.noteapi.micloud.xiaomi.net.iberostar.com IN CNAME .
-*.us.noteapi.micloud.xiaomi.net.iberostar.com IN CNAME .
-us.pdc.micloud.xiaomi.net.iberostar.com IN CNAME .
-*.us.pdc.micloud.xiaomi.net.iberostar.com IN CNAME .
 user.pandora.xiaomi.com IN CNAME .
 *.user.pandora.xiaomi.com IN CNAME .
 userid.xiaomi.com IN CNAME .
