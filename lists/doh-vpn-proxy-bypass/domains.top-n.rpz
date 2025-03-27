@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742861252 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743034052 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.com IN CNAME .
@@ -71,8 +71,6 @@ adguard-vpn.online IN CNAME .
 *.adguard-vpn.online IN CNAME .
 adguard.io IN CNAME .
 *.adguard.io IN CNAME .
-adguard.lege.despagne.net IN CNAME .
-*.adguard.lege.despagne.net IN CNAME .
 adguard1.leadmon.net IN CNAME .
 *.adguard1.leadmon.net IN CNAME .
 adult-filter-dot.dnswarden.com IN CNAME .
@@ -1419,8 +1417,6 @@ proxyium.com IN CNAME .
 *.proxyium.com IN CNAME .
 proxymesh.com IN CNAME .
 *.proxymesh.com IN CNAME .
-proxynova.com IN CNAME .
-*.proxynova.com IN CNAME .
 proxypal.net IN CNAME .
 *.proxypal.net IN CNAME .
 proxyscrape.com IN CNAME .
