@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743034045 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743120445 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -161,10 +161,6 @@ dns.adguard.com IN CNAME .
 *.dns.adguard.com IN CNAME .
 dns.aeiou.pp.ua IN CNAME .
 *.dns.aeiou.pp.ua IN CNAME .
-dns.alekberg.net IN CNAME .
-*.dns.alekberg.net IN CNAME .
-dns.alvosec.com IN CNAME .
-*.dns.alvosec.com IN CNAME .
 dns.api.globus.org IN CNAME .
 *.dns.api.globus.org IN CNAME .
 dns.api.preview.globus.org IN CNAME .
@@ -325,8 +321,6 @@ dns12.quad9.net IN CNAME .
 *.dns12.quad9.net IN CNAME .
 dns13.quad9.net IN CNAME .
 *.dns13.quad9.net IN CNAME .
-dns2.alekberg.net IN CNAME .
-*.dns2.alekberg.net IN CNAME .
 dns2.digitale-gesellschaft.ch IN CNAME .
 *.dns2.digitale-gesellschaft.ch IN CNAME .
 dns2.dns-ga.de IN CNAME .
@@ -341,8 +335,6 @@ dns4me.net IN CNAME .
 *.dns4me.net IN CNAME .
 dns9.quad9.net IN CNAME .
 *.dns9.quad9.net IN CNAME .
-dnses.alekberg.net IN CNAME .
-*.dnses.alekberg.net IN CNAME .
 dnsforfamily.com IN CNAME .
 *.dnsforfamily.com IN CNAME .
 dnsforge.de IN CNAME .
@@ -757,8 +749,6 @@ ordns.he.net IN CNAME .
 *.ordns.he.net IN CNAME .
 ore-dns.bitdefender.net IN CNAME .
 *.ore-dns.bitdefender.net IN CNAME .
-osefcorp.duckdns.org IN CNAME .
-*.osefcorp.duckdns.org IN CNAME .
 par01.dnscry.pt IN CNAME .
 *.par01.dnscry.pt IN CNAME .
 pates.services.sfr.fr.casepp.sfr.fr IN CNAME .
