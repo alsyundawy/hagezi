@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743206855 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743293258 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -101,8 +101,6 @@ corbina.ru IN CNAME .
 *.corbina.ru IN CNAME .
 crabdance.com IN CNAME .
 *.crabdance.com IN CNAME .
-csproject.org IN CNAME .
-*.csproject.org IN CNAME .
 cupddns.net IN CNAME .
 *.cupddns.net IN CNAME .
 custom-gaming.net IN CNAME .
@@ -133,6 +131,8 @@ ddnss.ch IN CNAME .
 *.ddnss.ch IN CNAME .
 ddnss.de IN CNAME .
 *.ddnss.de IN CNAME .
+ddnss.eu IN CNAME .
+*.ddnss.eu IN CNAME .
 ddnss.org IN CNAME .
 *.ddnss.org IN CNAME .
 dedyn.io IN CNAME .
@@ -407,6 +407,8 @@ gotdns.com IN CNAME .
 *.gotdns.com IN CNAME .
 gotdns.org IN CNAME .
 *.gotdns.org IN CNAME .
+govt.hu IN CNAME .
+*.govt.hu IN CNAME .
 guild-site.com IN CNAME .
 *.guild-site.com IN CNAME .
 ham-radio-op.net IN CNAME .
