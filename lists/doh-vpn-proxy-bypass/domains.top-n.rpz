@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743293254 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743376050 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.com IN CNAME .
@@ -827,6 +827,8 @@ dot.westus.pi-dns.com IN CNAME .
 *.dot.westus.pi-dns.com IN CNAME .
 dot.xfinity.com IN CNAME .
 *.dot.xfinity.com IN CNAME .
+dotvpn.com IN CNAME .
+*.dotvpn.com IN CNAME .
 dqwow4xvbctco.cloudfront.net IN CNAME .
 *.dqwow4xvbctco.cloudfront.net IN CNAME .
 dsl-app.s3.us-east-2.amazonaws.com IN CNAME .
@@ -1407,8 +1409,6 @@ portmap.io IN CNAME .
 *.portmap.io IN CNAME .
 portmapper.myonlineportal.net IN CNAME .
 *.portmapper.myonlineportal.net IN CNAME .
-potatovpn.io IN CNAME .
-*.potatovpn.io IN CNAME .
 pq7hdf.com IN CNAME .
 *.pq7hdf.com IN CNAME .
 privado.io IN CNAME .
