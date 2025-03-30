@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-TIKTOK-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743207003 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743293423 12h 15m 3w 3h
 ad-instantpage-ttp2.tiktokv.eu IN CNAME .
 *.ad-instantpage-ttp2.tiktokv.eu IN CNAME .
 ad-instantpage-ttp2.tiktokv.us IN CNAME .
@@ -23,6 +23,8 @@ amemv.com IN CNAME .
 *.amemv.com IN CNAME .
 analytics-ie.tiktokw.eu IN CNAME .
 *.analytics-ie.tiktokw.eu IN CNAME .
+analytics-ipv6.tiktokw.us IN CNAME .
+*.analytics-ipv6.tiktokw.us IN CNAME .
 analytics-ttp2.tiktokw.eu IN CNAME .
 *.analytics-ttp2.tiktokw.eu IN CNAME .
 bdurl.net IN CNAME .
