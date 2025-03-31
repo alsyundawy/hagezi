@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743377130 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743423502 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -889,6 +889,8 @@ sailthru.com IN CNAME .
 *.sailthru.com IN CNAME .
 sdk.us.xtremepush.com IN CNAME .
 *.sdk.us.xtremepush.com IN CNAME .
+secure-hotel-tracker.com IN CNAME .
+*.secure-hotel-tracker.com IN CNAME .
 secure.everyaction.com IN CNAME .
 *.secure.everyaction.com IN CNAME .
 sendgrid-secure.bluecore.com IN CNAME .
