@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743462445 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743635246 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -61,16 +61,6 @@ antivirus.bebasid.com IN CNAME .
 *.antivirus.bebasid.com IN CNAME .
 api.cloudflareclient.com IN CNAME .
 *.api.cloudflareclient.com IN CNAME .
-apple-relay.akamaized.net IN CNAME .
-*.apple-relay.akamaized.net IN CNAME .
-apple-relay.apple.com IN CNAME .
-*.apple-relay.apple.com IN CNAME .
-apple-relay.cloudfare.com IN CNAME .
-*.apple-relay.cloudfare.com IN CNAME .
-apple-relay.cloudflare.com IN CNAME .
-*.apple-relay.cloudflare.com IN CNAME .
-apple-relay.fastly-edge.com IN CNAME .
-*.apple-relay.fastly-edge.com IN CNAME .
 arashi.eu.org IN CNAME .
 *.arashi.eu.org IN CNAME .
 arashi.net.eu.org IN CNAME .
@@ -339,14 +329,10 @@ dnsforfamily.com IN CNAME .
 *.dnsforfamily.com IN CNAME .
 dnsforge.de IN CNAME .
 *.dnsforge.de IN CNAME .
-dnsnl.alekberg.net IN CNAME .
-*.dnsnl.alekberg.net IN CNAME .
 dnsotls.lab.nic.cl IN CNAME .
 *.dnsotls.lab.nic.cl IN CNAME .
 dnspub.restena.lu IN CNAME .
 *.dnspub.restena.lu IN CNAME .
-dnsse.alekberg.net IN CNAME .
-*.dnsse.alekberg.net IN CNAME .
 dog.dns.qwer.pw IN CNAME .
 *.dog.dns.qwer.pw IN CNAME .
 doh-01.spectrum.com IN CNAME .
@@ -687,18 +673,10 @@ mad01.dnscry.pt IN CNAME .
 *.mad01.dnscry.pt IN CNAME .
 man01.dnscry.pt IN CNAME .
 *.man01.dnscry.pt IN CNAME .
-mask-api.fe2.apple-dns.net IN CNAME .
-*.mask-api.fe2.apple-dns.net IN CNAME .
 mask-api.icloud.com IN CNAME .
 *.mask-api.icloud.com IN CNAME .
-mask-boot.icloud.com IN CNAME .
-*.mask-boot.icloud.com IN CNAME .
-mask-canary.icloud.com IN CNAME .
-*.mask-canary.icloud.com IN CNAME .
 mask-h2.icloud.com IN CNAME .
 *.mask-h2.icloud.com IN CNAME .
-mask.apple-dns.net IN CNAME .
-*.mask.apple-dns.net IN CNAME .
 mask.icloud.com IN CNAME .
 *.mask.icloud.com IN CNAME .
 mia01.dnscry.pt IN CNAME .
