@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Hagezi "NATIVE-AMAZON" AdBlock List (Top-N Version)
-! Version: 1743462583
-! Number of rules: 337
+! Version: 1743635381
+! Number of rules: 345
 !
 ||aan.amazon.co.jp^
 ||aan.amazon.co.uk^
@@ -71,7 +71,6 @@
 ||aax-vx-us-us-west-2.amazon-adsystem.com^
 ||aax.amazon-adsystem.com^
 ||ads-setu-proxy-eu.amazon.com^
-||adskit.juno.alexa.amazon.dev^
 ||advertising-api-eu.amazon.com^
 ||advertising.a2z.com^
 ||advertising.amazon.ae^
@@ -92,6 +91,7 @@
 ||advertising.amazon.it^
 ||advertising.amazon.nl^
 ||advertising.amazon.sa^
+||alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com^
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
 ||alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com^
 ||alt1-3ps.amazon-adsystem.com^
@@ -225,11 +225,9 @@
 ||monitoring.il-central-1.amazonaws.com^
 ||monitoring.me-central-1.amazonaws.com^
 ||monitoring.me-south-1.amazonaws.com^
-||monitoring.prod.cloudwatch.amazonaws.com^
 ||monitoring.sa-east-1.amazonaws.com^
 ||monitoring.us-east-1.amazonaws.com^
 ||monitoring.us-east-2.amazonaws.com^
-||monitoring.us-gov-east-1.amazonaws.com^
 ||monitoring.us-gov-west-1.amazonaws.com^
 ||monitoring.us-west-1.amazonaws.com^
 ||monitoring.us-west-2.amazonaws.com^
@@ -265,6 +263,16 @@
 ||rcm-na.amazon-adsystem.com^
 ||rcm-uk.amazon.co.uk^
 ||rcm.amazon.com^
+||rum.ap-northeast-1.amazonaws.com^
+||rum.ap-southeast-1.amazonaws.com^
+||rum.ca-central-1.amazonaws.com^
+||rum.eu-central-1.amazonaws.com^
+||rum.eu-west-1.amazonaws.com^
+||rum.eu-west-2.amazonaws.com^
+||rum.us-east-1.amazonaws.com^
+||rum.us-east-2.amazonaws.com^
+||rum.us-west-1.amazonaws.com^
+||rum.us-west-2.amazonaws.com^
 ||s-fe.amazon-adsystem.com^
 ||s.amazon-adsystem.com^
 ||s3-dub-ww.cf.videorolls.row.aiv-cdn.net^
