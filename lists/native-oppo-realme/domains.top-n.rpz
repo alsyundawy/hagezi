@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-OPPO-REALME-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743462595 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743635393 12h 15m 3w 3h
 ads-bdapi-my.heytapmobile.com IN CNAME .
 *.ads-bdapi-my.heytapmobile.com IN CNAME .
 ads-bdapi-ph.heytapmobile.com IN CNAME .
@@ -117,6 +117,18 @@ conf-in-dc.heytapmobile.com IN CNAME .
 *.conf-in-dc.heytapmobile.com IN CNAME .
 conf-sg-dc.heytapdl.com IN CNAME .
 *.conf-sg-dc.heytapdl.com IN CNAME .
+conn-service-cn-01.allawntech.com IN CNAME .
+*.conn-service-cn-01.allawntech.com IN CNAME .
+conn-service-cn-03.allawntech.com IN CNAME .
+*.conn-service-cn-03.allawntech.com IN CNAME .
+conn-service-cn-04.allawntech.com IN CNAME .
+*.conn-service-cn-04.allawntech.com IN CNAME .
+conn-service-cn-05.allawntech.com IN CNAME .
+*.conn-service-cn-05.allawntech.com IN CNAME .
+conn-service-cn-07.allawntech.com IN CNAME .
+*.conn-service-cn-07.allawntech.com IN CNAME .
+conn-service-cn-08.allawntech.com IN CNAME .
+*.conn-service-cn-08.allawntech.com IN CNAME .
 conn-service-eu-01.allawnos.com IN CNAME .
 *.conn-service-eu-01.allawnos.com IN CNAME .
 conn-service-eu-02.allawnos.com IN CNAME .
@@ -131,6 +143,12 @@ conn-service-eu-07.allawnos.com IN CNAME .
 *.conn-service-eu-07.allawnos.com IN CNAME .
 conn-service-eu-08.allawnos.com IN CNAME .
 *.conn-service-eu-08.allawnos.com IN CNAME .
+conn-service-gl-01.allawntech.com IN CNAME .
+*.conn-service-gl-01.allawntech.com IN CNAME .
+conn-service-gl-03.allawntech.com IN CNAME .
+*.conn-service-gl-03.allawntech.com IN CNAME .
+conn-service-gl-04.allawntech.com IN CNAME .
+*.conn-service-gl-04.allawntech.com IN CNAME .
 conn-service-in-01.allawnos.com IN CNAME .
 *.conn-service-in-01.allawnos.com IN CNAME .
 conn-service-in-03.allawnos.com IN CNAME .
@@ -193,8 +211,20 @@ dhfs-vn.oppomobile.com IN CNAME .
 *.dhfs-vn.oppomobile.com IN CNAME .
 dhfsf.oppomobile.com IN CNAME .
 *.dhfsf.oppomobile.com IN CNAME .
+dragate-br.dc.oppomobile.com IN CNAME .
+*.dragate-br.dc.oppomobile.com IN CNAME .
+dragate-cn.dc.heytapmobi.com IN CNAME .
+*.dragate-cn.dc.heytapmobi.com IN CNAME .
 dragate-in-dc.heytapmobile.com IN CNAME .
 *.dragate-in-dc.heytapmobile.com IN CNAME .
+dragate-in.dc.heytapmobi.com IN CNAME .
+*.dragate-in.dc.heytapmobi.com IN CNAME .
+dragate-sg.dc.heytapmobi.com IN CNAME .
+*.dragate-sg.dc.heytapmobi.com IN CNAME .
+dragate-sg.dc.oppomobile.com IN CNAME .
+*.dragate-sg.dc.oppomobile.com IN CNAME .
+dragate.dc.oppomobile.com IN CNAME .
+*.dragate.dc.oppomobile.com IN CNAME .
 eap-log-in.allawnos.com IN CNAME .
 *.eap-log-in.allawnos.com IN CNAME .
 eap-log-sg.allawnos.com IN CNAME .
@@ -597,6 +627,8 @@ ostorage-ocloud-in.allawnos.com IN CNAME .
 *.ostorage-ocloud-in.allawnos.com IN CNAME .
 ostorage-ocloud-sg.allawnos.com IN CNAME .
 *.ostorage-ocloud-sg.allawnos.com IN CNAME .
+predragate.dc.oppomobile.com IN CNAME .
+*.predragate.dc.oppomobile.com IN CNAME .
 push-dc-us.heytapmobile.com IN CNAME .
 *.push-dc-us.heytapmobile.com IN CNAME .
 push.heytapmobi.com IN CNAME .
