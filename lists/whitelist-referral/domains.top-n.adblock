@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Hagezi "WHITELIST-REFERRAL" AdBlock List (Top-N Version)
-! Version: 1743462982
-! Number of rules: 576
+! Version: 1743635778
+! Number of rules: 573
 !
 ||3cinteractive.com^
 ||7eer.net^
@@ -22,10 +22,12 @@
 ||aax-eu.amazon.it^
 ||aax-eu.amazon.nl^
 ||aax-eu.amazon.pl^
+||aax-eu.amazon.sa^
+||aax-eu.amazon.se^
 ||aax-fe-pdx-direct.amazon.com^
 ||aax-fe.amazon.co.jp^
 ||aax-fe.amazon.com.au^
-||aax-fe.amazon.sg^
+||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-us-east-retail-direct.amazon.com^
 ||aax-us-east-retail-direct.iad.amazon.com^
@@ -61,7 +63,6 @@
 ||adservice.google.com.au^
 ||adservice.google.com.br^
 ||adservice.google.com.co^
-||adservice.google.com.ec^
 ||adservice.google.com.eg^
 ||adservice.google.com.gt^
 ||adservice.google.com.hk^
@@ -153,6 +154,7 @@
 ||c2-sandbox.piano.io^
 ||c2.piano.io^
 ||c2827.dotomi.com^
+||c2990.dotomi.com^
 ||campaign.adobe.com^
 ||campaign.aliexpress.com^
 ||casale-match.dotomi.com^
@@ -194,6 +196,7 @@
 ||click.em.blizzard.com^
 ||click.em.samsclub.com^
 ||click.email.jcpenney.com^
+||click.email.microsoftemail.com^
 ||click.email.newegg.com^
 ||click.email.sonos.com^
 ||click.emcom.bankofamerica.com^
@@ -268,7 +271,6 @@
 ||email-tracking.infobip.com^
 ||email.docker.com^
 ||email.microsoft.com^
-||email.microsoftemail.com^
 ||email.microsoftonline.com^
 ||email.namebase.io^
 ||email.office.com^
@@ -316,6 +318,7 @@
 ||hubspotemail.net^
 ||hubspotlinks.com^
 ||i.airtel.in^
+||image.email.microsoftemail.com^
 ||ink1001.com^
 ||intercom-clicks.com^
 ||it-go.kelkoogroup.net^
@@ -332,11 +335,9 @@
 ||l.facebook.com^
 ||l.klarna.com^
 ||l.lefigaro.fr^
-||l.neqty.net^
 ||link.betclic.com^
 ||link.dana.id^
 ||link.epicgames.com^
-||link.freshmail.mx^
 ||link.springer.com^
 ||link.sylikes.com^
 ||link.us.paramountplus.com^
@@ -359,7 +360,6 @@
 ||micpn.com^
 ||mkto-ab420081.com^
 ||mkto-test.com^
-||mkto-trk.cisco.com^
 ||mktoweb.com^
 ||mmtro.com^
 ||mssg.me^
@@ -404,13 +404,10 @@
 ||r4gh8tuab.cc.rs6.net^
 ||r4ofs8cab.cc.rs6.net^
 ||r5waxhbbb.cc.rs6.net^
-||r6hquldab.cc.rs6.net^
 ||r6lccqnab.cc.rs6.net^
 ||r7avxrcab.cc.rs6.net^
 ||rads.stackoverflow.com^
-||rdbpgc7ab.cc.rs6.net^
 ||readdle.cmail20.com^
-||reaplmcab.cc.rs6.net^
 ||recommender-eu.scarabresearch.com^
 ||recommender.scarabresearch.com^
 ||redirect.appmetrica.yandex.com^
@@ -433,11 +430,8 @@
 ||rz6dkreab.cc.rs6.net^
 ||s1.exacttarget.com^
 ||s10.exacttarget.com^
-||s10.login.exacttarget.com^
 ||s11.exacttarget.com^
-||s11.login.exacttarget.com^
 ||s12.exacttarget.com^
-||s12.login.exacttarget.com^
 ||s13.exacttarget.com^
 ||s4.exacttarget.com^
 ||s50.exacttarget.com^
@@ -481,11 +475,12 @@
 ||suite24.emarsys.net^
 ||suite27.emarsys.net^
 ||suite29.emarsys.net^
-||suite32.emarsys.net^
 ||suite33.emarsys.net^
 ||suite38.emarsys.net^
+||suite40-cf.emarsys.net^
 ||suite40.emarsys.net^
 ||suite45.emarsys.net^
+||suite47-cf.emarsys.net^
 ||suite54.emarsys.net^
 ||suite56.emarsys.net^
 ||suite57.emarsys.net^
@@ -494,6 +489,7 @@
 ||suite63.emarsys.net^
 ||suite67-cf.emarsys.net^
 ||suite7.emarsys.net^
+||suite8.emarsys.net^
 ||suite9.emarsys.net^
 ||t.1und1.de^
 ||t.adcell.com^
@@ -569,6 +565,7 @@
 ||uns.apsis.one^
 ||us-go.kelkoogroup.net^
 ||vfo.voyage-prive.co.uk^
+||view.email.microsoftemail.com^
 ||view.email.nzz.ch^
 ||webflow.grsm.io^
 ||webpower.eu^

@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743462982 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743635778 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -39,14 +39,18 @@ aax-eu.amazon.nl IN CNAME .
 *.aax-eu.amazon.nl IN CNAME .
 aax-eu.amazon.pl IN CNAME .
 *.aax-eu.amazon.pl IN CNAME .
+aax-eu.amazon.sa IN CNAME .
+*.aax-eu.amazon.sa IN CNAME .
+aax-eu.amazon.se IN CNAME .
+*.aax-eu.amazon.se IN CNAME .
 aax-fe-pdx-direct.amazon.com IN CNAME .
 *.aax-fe-pdx-direct.amazon.com IN CNAME .
 aax-fe.amazon.co.jp IN CNAME .
 *.aax-fe.amazon.co.jp IN CNAME .
 aax-fe.amazon.com.au IN CNAME .
 *.aax-fe.amazon.com.au IN CNAME .
-aax-fe.amazon.sg IN CNAME .
-*.aax-fe.amazon.sg IN CNAME .
+aax-ott-sdk.amazon-adsystem.amazon.com IN CNAME .
+*.aax-ott-sdk.amazon-adsystem.amazon.com IN CNAME .
 aax-ott.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott.amazon-adsystem.amazon.com IN CNAME .
 aax-us-east-retail-direct.amazon.com IN CNAME .
@@ -117,8 +121,6 @@ adservice.google.com.br IN CNAME .
 *.adservice.google.com.br IN CNAME .
 adservice.google.com.co IN CNAME .
 *.adservice.google.com.co IN CNAME .
-adservice.google.com.ec IN CNAME .
-*.adservice.google.com.ec IN CNAME .
 adservice.google.com.eg IN CNAME .
 *.adservice.google.com.eg IN CNAME .
 adservice.google.com.gt IN CNAME .
@@ -301,6 +303,8 @@ c2.piano.io IN CNAME .
 *.c2.piano.io IN CNAME .
 c2827.dotomi.com IN CNAME .
 *.c2827.dotomi.com IN CNAME .
+c2990.dotomi.com IN CNAME .
+*.c2990.dotomi.com IN CNAME .
 campaign.adobe.com IN CNAME .
 *.campaign.adobe.com IN CNAME .
 campaign.aliexpress.com IN CNAME .
@@ -383,6 +387,8 @@ click.em.samsclub.com IN CNAME .
 *.click.em.samsclub.com IN CNAME .
 click.email.jcpenney.com IN CNAME .
 *.click.email.jcpenney.com IN CNAME .
+click.email.microsoftemail.com IN CNAME .
+*.click.email.microsoftemail.com IN CNAME .
 click.email.newegg.com IN CNAME .
 *.click.email.newegg.com IN CNAME .
 click.email.sonos.com IN CNAME .
@@ -531,8 +537,6 @@ email.docker.com IN CNAME .
 *.email.docker.com IN CNAME .
 email.microsoft.com IN CNAME .
 *.email.microsoft.com IN CNAME .
-email.microsoftemail.com IN CNAME .
-*.email.microsoftemail.com IN CNAME .
 email.microsoftonline.com IN CNAME .
 *.email.microsoftonline.com IN CNAME .
 email.namebase.io IN CNAME .
@@ -627,6 +631,8 @@ hubspotlinks.com IN CNAME .
 *.hubspotlinks.com IN CNAME .
 i.airtel.in IN CNAME .
 *.i.airtel.in IN CNAME .
+image.email.microsoftemail.com IN CNAME .
+*.image.email.microsoftemail.com IN CNAME .
 ink1001.com IN CNAME .
 *.ink1001.com IN CNAME .
 intercom-clicks.com IN CNAME .
@@ -659,16 +665,12 @@ l.klarna.com IN CNAME .
 *.l.klarna.com IN CNAME .
 l.lefigaro.fr IN CNAME .
 *.l.lefigaro.fr IN CNAME .
-l.neqty.net IN CNAME .
-*.l.neqty.net IN CNAME .
 link.betclic.com IN CNAME .
 *.link.betclic.com IN CNAME .
 link.dana.id IN CNAME .
 *.link.dana.id IN CNAME .
 link.epicgames.com IN CNAME .
 *.link.epicgames.com IN CNAME .
-link.freshmail.mx IN CNAME .
-*.link.freshmail.mx IN CNAME .
 link.springer.com IN CNAME .
 *.link.springer.com IN CNAME .
 link.sylikes.com IN CNAME .
@@ -713,8 +715,6 @@ mkto-ab420081.com IN CNAME .
 *.mkto-ab420081.com IN CNAME .
 mkto-test.com IN CNAME .
 *.mkto-test.com IN CNAME .
-mkto-trk.cisco.com IN CNAME .
-*.mkto-trk.cisco.com IN CNAME .
 mktoweb.com IN CNAME .
 *.mktoweb.com IN CNAME .
 mmtro.com IN CNAME .
@@ -803,20 +803,14 @@ r4ofs8cab.cc.rs6.net IN CNAME .
 *.r4ofs8cab.cc.rs6.net IN CNAME .
 r5waxhbbb.cc.rs6.net IN CNAME .
 *.r5waxhbbb.cc.rs6.net IN CNAME .
-r6hquldab.cc.rs6.net IN CNAME .
-*.r6hquldab.cc.rs6.net IN CNAME .
 r6lccqnab.cc.rs6.net IN CNAME .
 *.r6lccqnab.cc.rs6.net IN CNAME .
 r7avxrcab.cc.rs6.net IN CNAME .
 *.r7avxrcab.cc.rs6.net IN CNAME .
 rads.stackoverflow.com IN CNAME .
 *.rads.stackoverflow.com IN CNAME .
-rdbpgc7ab.cc.rs6.net IN CNAME .
-*.rdbpgc7ab.cc.rs6.net IN CNAME .
 readdle.cmail20.com IN CNAME .
 *.readdle.cmail20.com IN CNAME .
-reaplmcab.cc.rs6.net IN CNAME .
-*.reaplmcab.cc.rs6.net IN CNAME .
 recommender-eu.scarabresearch.com IN CNAME .
 *.recommender-eu.scarabresearch.com IN CNAME .
 recommender.scarabresearch.com IN CNAME .
@@ -861,16 +855,10 @@ s1.exacttarget.com IN CNAME .
 *.s1.exacttarget.com IN CNAME .
 s10.exacttarget.com IN CNAME .
 *.s10.exacttarget.com IN CNAME .
-s10.login.exacttarget.com IN CNAME .
-*.s10.login.exacttarget.com IN CNAME .
 s11.exacttarget.com IN CNAME .
 *.s11.exacttarget.com IN CNAME .
-s11.login.exacttarget.com IN CNAME .
-*.s11.login.exacttarget.com IN CNAME .
 s12.exacttarget.com IN CNAME .
 *.s12.exacttarget.com IN CNAME .
-s12.login.exacttarget.com IN CNAME .
-*.s12.login.exacttarget.com IN CNAME .
 s13.exacttarget.com IN CNAME .
 *.s13.exacttarget.com IN CNAME .
 s4.exacttarget.com IN CNAME .
@@ -957,16 +945,18 @@ suite27.emarsys.net IN CNAME .
 *.suite27.emarsys.net IN CNAME .
 suite29.emarsys.net IN CNAME .
 *.suite29.emarsys.net IN CNAME .
-suite32.emarsys.net IN CNAME .
-*.suite32.emarsys.net IN CNAME .
 suite33.emarsys.net IN CNAME .
 *.suite33.emarsys.net IN CNAME .
 suite38.emarsys.net IN CNAME .
 *.suite38.emarsys.net IN CNAME .
+suite40-cf.emarsys.net IN CNAME .
+*.suite40-cf.emarsys.net IN CNAME .
 suite40.emarsys.net IN CNAME .
 *.suite40.emarsys.net IN CNAME .
 suite45.emarsys.net IN CNAME .
 *.suite45.emarsys.net IN CNAME .
+suite47-cf.emarsys.net IN CNAME .
+*.suite47-cf.emarsys.net IN CNAME .
 suite54.emarsys.net IN CNAME .
 *.suite54.emarsys.net IN CNAME .
 suite56.emarsys.net IN CNAME .
@@ -983,6 +973,8 @@ suite67-cf.emarsys.net IN CNAME .
 *.suite67-cf.emarsys.net IN CNAME .
 suite7.emarsys.net IN CNAME .
 *.suite7.emarsys.net IN CNAME .
+suite8.emarsys.net IN CNAME .
+*.suite8.emarsys.net IN CNAME .
 suite9.emarsys.net IN CNAME .
 *.suite9.emarsys.net IN CNAME .
 t.1und1.de IN CNAME .
@@ -1133,6 +1125,8 @@ us-go.kelkoogroup.net IN CNAME .
 *.us-go.kelkoogroup.net IN CNAME .
 vfo.voyage-prive.co.uk IN CNAME .
 *.vfo.voyage-prive.co.uk IN CNAME .
+view.email.microsoftemail.com IN CNAME .
+*.view.email.microsoftemail.com IN CNAME .
 view.email.nzz.ch IN CNAME .
 *.view.email.nzz.ch IN CNAME .
 webflow.grsm.io IN CNAME .
