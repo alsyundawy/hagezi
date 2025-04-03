@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743635253 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743721654 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.com IN CNAME .
@@ -473,6 +473,8 @@ dns.adguard.com IN CNAME .
 *.dns.adguard.com IN CNAME .
 dns.aeiou.pp.ua IN CNAME .
 *.dns.aeiou.pp.ua IN CNAME .
+dns.alvosec.com IN CNAME .
+*.dns.alvosec.com IN CNAME .
 dns.api.globus.org IN CNAME .
 *.dns.api.globus.org IN CNAME .
 dns.api.preview.globus.org IN CNAME .
@@ -885,8 +887,6 @@ eth.link IN CNAME .
 *.eth.link IN CNAME .
 eu-browse.startpage.com IN CNAME .
 *.eu-browse.startpage.com IN CNAME .
-eu1-browse.startpage.com IN CNAME .
-*.eu1-browse.startpage.com IN CNAME .
 eu1.dns.lavate.ch IN CNAME .
 *.eu1.dns.lavate.ch IN CNAME .
 eu2-browse.startpage.com IN CNAME .
@@ -925,6 +925,8 @@ fet01.dnscry.pt IN CNAME .
 *.fet01.dnscry.pt IN CNAME .
 finchvpn.com IN CNAME .
 *.finchvpn.com IN CNAME .
+fineproxy.org IN CNAME .
+*.fineproxy.org IN CNAME .
 fjr01.dnscry.pt IN CNAME .
 *.fjr01.dnscry.pt IN CNAME .
 flashpull.com IN CNAME .
@@ -1583,8 +1585,6 @@ shelljacket.us IN CNAME .
 *.shelljacket.us IN CNAME .
 shop-books-school.vercel.app IN CNAME .
 *.shop-books-school.vercel.app IN CNAME .
-sin01.dnscry.pt IN CNAME .
-*.sin01.dnscry.pt IN CNAME .
 sin02.dnscry.pt IN CNAME .
 *.sin02.dnscry.pt IN CNAME .
 sin03.dnscry.pt IN CNAME .
@@ -1751,8 +1751,6 @@ unblock-proxy.com.de IN CNAME .
 *.unblock-proxy.com.de IN CNAME .
 unblock-us.com IN CNAME .
 *.unblock-us.com IN CNAME .
-unblocked.how IN CNAME .
-*.unblocked.how IN CNAME .
 unblockit.pages.dev IN CNAME .
 *.unblockit.pages.dev IN CNAME .
 unblockninja.com IN CNAME .
