@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-AMAZON"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743635381 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743721799 12h 15m 3w 3h
 aan.amazon.co.jp IN CNAME .
 *.aan.amazon.co.jp IN CNAME .
 aan.amazon.co.uk IN CNAME .
@@ -451,6 +451,8 @@ monitoring.us-east-1.amazonaws.com IN CNAME .
 *.monitoring.us-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-2.amazonaws.com IN CNAME .
 *.monitoring.us-east-2.amazonaws.com IN CNAME .
+monitoring.us-gov-east-1.amazonaws.com IN CNAME .
+*.monitoring.us-gov-east-1.amazonaws.com IN CNAME .
 monitoring.us-gov-west-1.amazonaws.com IN CNAME .
 *.monitoring.us-gov-west-1.amazonaws.com IN CNAME .
 monitoring.us-west-1.amazonaws.com IN CNAME .
