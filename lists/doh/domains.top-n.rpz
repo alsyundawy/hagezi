@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743635246 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743721646 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -151,6 +151,8 @@ dns.adguard.com IN CNAME .
 *.dns.adguard.com IN CNAME .
 dns.aeiou.pp.ua IN CNAME .
 *.dns.aeiou.pp.ua IN CNAME .
+dns.alvosec.com IN CNAME .
+*.dns.alvosec.com IN CNAME .
 dns.api.globus.org IN CNAME .
 *.dns.api.globus.org IN CNAME .
 dns.api.preview.globus.org IN CNAME .
@@ -811,8 +813,6 @@ sg1.dnswarden.com IN CNAME .
 *.sg1.dnswarden.com IN CNAME .
 sgn01.dnscry.pt IN CNAME .
 *.sgn01.dnscry.pt IN CNAME .
-sin01.dnscry.pt IN CNAME .
-*.sin01.dnscry.pt IN CNAME .
 sin02.dnscry.pt IN CNAME .
 *.sin02.dnscry.pt IN CNAME .
 sin03.dnscry.pt IN CNAME .
