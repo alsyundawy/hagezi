@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-VIVO"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743721830 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743808228 12h 15m 3w 3h
 asia-ad-mkt-vivofs.vivoglobal.com IN CNAME .
 *.asia-ad-mkt-vivofs.vivoglobal.com IN CNAME .
 asia-adlog.vivoglobal.com IN CNAME .
@@ -69,6 +69,10 @@ eu-errup.vivoglobal.com IN CNAME .
 *.eu-errup.vivoglobal.com IN CNAME .
 eu-pnrt-stsdk.vivoglobal.com IN CNAME .
 *.eu-pnrt-stsdk.vivoglobal.com IN CNAME .
+ex-adreq-asia.vivoglobal.com IN CNAME .
+*.ex-adreq-asia.vivoglobal.com IN CNAME .
+ex-adreq-in.vivoglobal.com IN CNAME .
+*.ex-adreq-in.vivoglobal.com IN CNAME .
 id-analyzer-appstore.vivoglobal.com IN CNAME .
 *.id-analyzer-appstore.vivoglobal.com IN CNAME .
 in-adlog.vivoglobal.com IN CNAME .
@@ -183,15 +187,33 @@ ru-stsdk.vivoglobal.com IN CNAME .
 *.ru-stsdk.vivoglobal.com IN CNAME .
 stsdk.vivoglobal.com IN CNAME .
 *.stsdk.vivoglobal.com IN CNAME .
+tr-cota.vivoglobal.com IN CNAME .
+*.tr-cota.vivoglobal.com IN CNAME .
 tr-domaincfg.vivoglobal.com IN CNAME .
 *.tr-domaincfg.vivoglobal.com IN CNAME .
+tr-onrt-stsdk.vivoglobal.com IN CNAME .
+*.tr-onrt-stsdk.vivoglobal.com IN CNAME .
+tr-ort-stsdk.vivoglobal.com IN CNAME .
+*.tr-ort-stsdk.vivoglobal.com IN CNAME .
+tr-p.vivoglobal.com IN CNAME .
+*.tr-p.vivoglobal.com IN CNAME .
 tr-romsp-unifyconfig.vivoglobal.com IN CNAME .
 *.tr-romsp-unifyconfig.vivoglobal.com IN CNAME .
 tr-st-sl.vivoglobal.com IN CNAME .
 *.tr-st-sl.vivoglobal.com IN CNAME .
+tr-st-sysupgrade.vivoglobal.com IN CNAME .
+*.tr-st-sysupgrade.vivoglobal.com IN CNAME .
+tr-sysupgrade-api.vivoglobal.com IN CNAME .
+*.tr-sysupgrade-api.vivoglobal.com IN CNAME .
 tr-timesync.vivoglobal.com IN CNAME .
 *.tr-timesync.vivoglobal.com IN CNAME .
 tr-vcode-api.vivoglobal.com IN CNAME .
 *.tr-vcode-api.vivoglobal.com IN CNAME .
 tr-vcode-od.vivoglobal.com IN CNAME .
 *.tr-vcode-od.vivoglobal.com IN CNAME .
+tr-vcode-or.vivoglobal.com IN CNAME .
+*.tr-vcode-or.vivoglobal.com IN CNAME .
+tr-weather.vivoglobal.com IN CNAME .
+*.tr-weather.vivoglobal.com IN CNAME .
+xn-ex-adreq-asa-c5b.vivoglobal.com IN CNAME .
+*.xn-ex-adreq-asa-c5b.vivoglobal.com IN CNAME .
