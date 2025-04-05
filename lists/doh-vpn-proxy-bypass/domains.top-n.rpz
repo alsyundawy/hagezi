@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743808054 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743894452 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1clickvpn.com IN CNAME .
@@ -107,8 +107,6 @@ ams1.startpage.com IN CNAME .
 *.ams1.startpage.com IN CNAME .
 ams2.startpage.com IN CNAME .
 *.ams2.startpage.com IN CNAME .
-anchorfree.net IN CNAME .
-*.anchorfree.net IN CNAME .
 anonymize.com IN CNAME .
 *.anonymize.com IN CNAME .
 anonymizer.com IN CNAME .
@@ -1001,6 +999,8 @@ getlantern.org IN CNAME .
 *.getlantern.org IN CNAME .
 getoutline.org IN CNAME .
 *.getoutline.org IN CNAME .
+getproton.me IN CNAME .
+*.getproton.me IN CNAME .
 goldenfrog.com IN CNAME .
 *.goldenfrog.com IN CNAME .
 google-public-dns-a.google.com IN CNAME .
@@ -1469,8 +1469,6 @@ proxy.wynd.network IN CNAME .
 *.proxy.wynd.network IN CNAME .
 proxy1.startpage.com IN CNAME .
 *.proxy1.startpage.com IN CNAME .
-proxy2.startpage.com IN CNAME .
-*.proxy2.startpage.com IN CNAME .
 proxy3.startpage.com IN CNAME .
 *.proxy3.startpage.com IN CNAME .
 proxybrowser.github.io IN CNAME .
