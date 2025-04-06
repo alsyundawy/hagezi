@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-VIVO"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743894608 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743980995 12h 15m 3w 3h
 asia-ad-mkt-vivofs.vivoglobal.com IN CNAME .
 *.asia-ad-mkt-vivofs.vivoglobal.com IN CNAME .
 asia-adlog.vivoglobal.com IN CNAME .
@@ -203,6 +203,8 @@ tr-st-sl.vivoglobal.com IN CNAME .
 *.tr-st-sl.vivoglobal.com IN CNAME .
 tr-st-sysupgrade.vivoglobal.com IN CNAME .
 *.tr-st-sysupgrade.vivoglobal.com IN CNAME .
+tr-stsdk.vivoglobal.com IN CNAME .
+*.tr-stsdk.vivoglobal.com IN CNAME .
 tr-sysupgrade-api.vivoglobal.com IN CNAME .
 *.tr-sysupgrade-api.vivoglobal.com IN CNAME .
 tr-timesync.vivoglobal.com IN CNAME .
