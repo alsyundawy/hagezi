@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1744067245 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1744153645 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -209,6 +209,8 @@ dns.fullaccesstointernet.jp.eu.org IN CNAME .
 *.dns.fullaccesstointernet.jp.eu.org IN CNAME .
 dns.gamban.com IN CNAME .
 *.dns.gamban.com IN CNAME .
+dns.gi.co.id IN CNAME .
+*.dns.gi.co.id IN CNAME .
 dns.google IN CNAME .
 *.dns.google IN CNAME .
 dns.google.com IN CNAME .
@@ -327,6 +329,8 @@ dns4me.net IN CNAME .
 *.dns4me.net IN CNAME .
 dns9.quad9.net IN CNAME .
 *.dns9.quad9.net IN CNAME .
+dnscache.e-utp.net IN CNAME .
+*.dnscache.e-utp.net IN CNAME .
 dnsforfamily.com IN CNAME .
 *.dnsforfamily.com IN CNAME .
 dnsforge.de IN CNAME .
