@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1786155466 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1786241891 12h 15m 3w 3h
 0025974bf482fe84ac6a59293ae0bc0432a7b9fc.com IN CNAME .
 *.0025974bf482fe84ac6a59293ae0bc0432a7b9fc.com IN CNAME .
 09vpn.com IN CNAME .
@@ -1137,6 +1137,8 @@ acceleratisnot-gay.global.ssl.fastly.net IN CNAME .
 *.acceleratisnot-gay.global.ssl.fastly.net IN CNAME .
 acdtop.com IN CNAME .
 *.acdtop.com IN CNAME .
+acsnet.co IN CNAME .
+*.acsnet.co IN CNAME .
 activitysforscience.space.cdn.cloudflare.net IN CNAME .
 *.activitysforscience.space.cdn.cloudflare.net IN CNAME .
 actmobile.com IN CNAME .
@@ -1493,8 +1495,6 @@ azureserv.com IN CNAME .
 *.azureserv.com IN CNAME .
 b0ac15e151420f6dc473-72e85853250626f809e7d6f166ccb9a7.ssl.cf6.rackcdn.com IN CNAME .
 *.b0ac15e151420f6dc473-72e85853250626f809e7d6f166ccb9a7.ssl.cf6.rackcdn.com IN CNAME .
-babiesyui.ignorelist.com IN CNAME .
-*.babiesyui.ignorelist.com IN CNAME .
 back-in-mah-day-we-didnt-have-shadow-proxxy.easterndns.com IN CNAME .
 *.back-in-mah-day-we-didnt-have-shadow-proxxy.easterndns.com IN CNAME .
 banana.global.ssl.fastly.net IN CNAME .
@@ -1817,8 +1817,6 @@ cdnnetwork.fun IN CNAME .
 *.cdnnetwork.fun IN CNAME .
 cdnnetwork.live IN CNAME .
 *.cdnnetwork.live IN CNAME .
-cdnnetwork.xyz IN CNAME .
-*.cdnnetwork.xyz IN CNAME .
 cdnonedge.org IN CNAME .
 *.cdnonedge.org IN CNAME .
 cdzopi.duckdns.org IN CNAME .
@@ -1895,8 +1893,6 @@ clever-vpn.net IN CNAME .
 *.clever-vpn.net IN CNAME .
 clever.com.mooo.com IN CNAME .
 *.clever.com.mooo.com IN CNAME .
-cleverp0rtal.ignorelist.com IN CNAME .
-*.cleverp0rtal.ignorelist.com IN CNAME .
 clic.eu.org IN CNAME .
 *.clic.eu.org IN CNAME .
 clickr.my.to IN CNAME .
@@ -3039,8 +3035,6 @@ diddle.club.cdn.cloudflare.net IN CNAME .
 *.diddle.club.cdn.cloudflare.net IN CNAME .
 diddy.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
 *.diddy.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
-diddyscoming.ignorelist.com IN CNAME .
-*.diddyscoming.ignorelist.com IN CNAME .
 dieuy732rkuvo.cloudfront.net IN CNAME .
 *.dieuy732rkuvo.cloudfront.net IN CNAME .
 difference.clean.abrdns.com IN CNAME .
@@ -3465,8 +3459,6 @@ dohdot.coxlab.net IN CNAME .
 *.dohdot.coxlab.net IN CNAME .
 dohtrial.att.net IN CNAME .
 *.dohtrial.att.net IN CNAME .
-doingthsforfunandcuzschoolisboring.ignorelist.com IN CNAME .
-*.doingthsforfunandcuzschoolisboring.ignorelist.com IN CNAME .
 domain.name IN CNAME .
 *.domain.name IN CNAME .
 domainalreadyinuselolgetrektlilbro.easterndns.com IN CNAME .
@@ -4041,8 +4033,6 @@ g7y.ooguy.com IN CNAME .
 *.g7y.ooguy.com IN CNAME .
 gagajichang.pages.dev IN CNAME .
 *.gagajichang.pages.dev IN CNAME .
-galacticfederation.jumpingcrab.com IN CNAME .
-*.galacticfederation.jumpingcrab.com IN CNAME .
 galacticsurf.boats.cdn.cloudflare.net IN CNAME .
 *.galacticsurf.boats.cdn.cloudflare.net IN CNAME .
 galaxyiscool.ignorelist.com IN CNAME .
@@ -4067,8 +4057,6 @@ generator.ajh.boats.cdn.cloudflare.net IN CNAME .
 *.generator.ajh.boats.cdn.cloudflare.net IN CNAME .
 genielee.duckdns.org IN CNAME .
 *.genielee.duckdns.org IN CNAME .
-geographystudyguide.ignorelist.com IN CNAME .
-*.geographystudyguide.ignorelist.com IN CNAME .
 geonix.com IN CNAME .
 *.geonix.com IN CNAME .
 geonode.com IN CNAME .
@@ -4407,8 +4395,6 @@ hotspotshield.com IN CNAME .
 *.hotspotshield.com IN CNAME .
 howo.pages.dev IN CNAME .
 *.howo.pages.dev IN CNAME .
-howtodomaths.jumpingcrab.com IN CNAME .
-*.howtodomaths.jumpingcrab.com IN CNAME .
 hoxx.com IN CNAME .
 *.hoxx.com IN CNAME .
 hrsm12181.duckdns.org IN CNAME .
@@ -4527,6 +4513,8 @@ iantem.io IN CNAME .
 *.iantem.io IN CNAME .
 iapure.com IN CNAME .
 *.iapure.com IN CNAME .
+ib.systems IN CNAME .
+*.ib.systems IN CNAME .
 ibksturm.synology.me IN CNAME .
 *.ibksturm.synology.me IN CNAME .
 ibuxdrwvjkjgyromtwck.supabase.co IN CNAME .
@@ -4543,8 +4531,6 @@ idofjvj.easterndns.com IN CNAME .
 *.idofjvj.easterndns.com IN CNAME .
 ifyoublockthisurgay-ggnewo.vercel.app IN CNAME .
 *.ifyoublockthisurgay-ggnewo.vercel.app IN CNAME .
-ifyourereadingthisyourecool.jumpingcrab.com IN CNAME .
-*.ifyourereadingthisyourecool.jumpingcrab.com IN CNAME .
 ifyournotfirstyourlast.twilightparadox.com IN CNAME .
 *.ifyournotfirstyourlast.twilightparadox.com IN CNAME .
 ight.vercel.app IN CNAME .
@@ -5137,8 +5123,6 @@ math.theworkpc.com IN CNAME .
 *.math.theworkpc.com IN CNAME .
 math.vincenzodimaro.it.cdn.cloudflare.net IN CNAME .
 *.math.vincenzodimaro.it.cdn.cloudflare.net IN CNAME .
-mathchallenges.jumpingcrab.com IN CNAME .
-*.mathchallenges.jumpingcrab.com IN CNAME .
 mathcraftinghub.com IN CNAME .
 *.mathcraftinghub.com IN CNAME .
 mathematicsedu.xyz.cdn.cloudflare.net IN CNAME .
@@ -5171,8 +5155,6 @@ mcore.us.to IN CNAME .
 *.mcore.us.to IN CNAME .
 mechanikdns.kozow.com IN CNAME .
 *.mechanikdns.kozow.com IN CNAME .
-meeeow.ignorelist.com IN CNAME .
-*.meeeow.ignorelist.com IN CNAME .
 meela.pages.dev IN CNAME .
 *.meela.pages.dev IN CNAME .
 megahack67.chickenkiller.com IN CNAME .
@@ -5275,8 +5257,6 @@ muli.stusta.mhn.de IN CNAME .
 *.muli.stusta.mhn.de IN CNAME .
 mullvad.net IN CNAME .
 *.mullvad.net IN CNAME .
-multiplydose.com IN CNAME .
-*.multiplydose.com IN CNAME .
 mus.cisco.com IN CNAME .
 *.mus.cisco.com IN CNAME .
 musoujunn.easterndns.com IN CNAME .
@@ -5359,8 +5339,6 @@ net4ebur.fra1.digitaloceanspaces.com IN CNAME .
 *.net4ebur.fra1.digitaloceanspaces.com IN CNAME .
 netexplores.com IN CNAME .
 *.netexplores.com IN CNAME .
-netitude.net IN CNAME .
-*.netitude.net IN CNAME .
 netnut.io IN CNAME .
 *.netnut.io IN CNAME .
 netpioneeres.com IN CNAME .
@@ -5481,6 +5459,8 @@ nqh-dns.duckdns.org IN CNAME .
 *.nqh-dns.duckdns.org IN CNAME .
 nrusimha.crabdance.com IN CNAME .
 *.nrusimha.crabdance.com IN CNAME .
+ns.mtsoln.com IN CNAME .
+*.ns.mtsoln.com IN CNAME .
 ns0.fdn.fr IN CNAME .
 *.ns0.fdn.fr IN CNAME .
 ns1.fdn.fr IN CNAME .
@@ -5739,8 +5719,6 @@ play.frogiee.one.cdn.cloudflare.net IN CNAME .
 *.play.frogiee.one.cdn.cloudflare.net IN CNAME .
 playful-meringue-fb58bc.netlify.app IN CNAME .
 *.playful-meringue-fb58bc.netlify.app IN CNAME .
-pleaseaddto.ignorelist.com IN CNAME .
-*.pleaseaddto.ignorelist.com IN CNAME .
 pledget.karrozzin.cloud-ip.cc IN CNAME .
 *.pledget.karrozzin.cloud-ip.cc IN CNAME .
 plichaa12.ddns.net IN CNAME .
@@ -6097,12 +6075,6 @@ reskah.pp.ua IN CNAME .
 *.reskah.pp.ua IN CNAME .
 resolv.flokinet.net IN CNAME .
 *.resolv.flokinet.net IN CNAME .
-resolv1.trash.net IN CNAME .
-*.resolv1.trash.net IN CNAME .
-resolv2.trash.net IN CNAME .
-*.resolv2.trash.net IN CNAME .
-resolv3.trash.net IN CNAME .
-*.resolv3.trash.net IN CNAME .
 resolver.arpa IN CNAME .
 *.resolver.arpa IN CNAME .
 resolver.dns.eban.eu.org IN CNAME .
@@ -6283,8 +6255,6 @@ schooltechreadong.mywire.org IN CNAME .
 *.schooltechreadong.mywire.org IN CNAME .
 schoolwebsite.zapto.org IN CNAME .
 *.schoolwebsite.zapto.org IN CNAME .
-schoool.ignorelist.com IN CNAME .
-*.schoool.ignorelist.com IN CNAME .
 science-making.swanndvr.net IN CNAME .
 *.science-making.swanndvr.net IN CNAME .
 science.mathforkids.buzz.cdn.cloudflare.net IN CNAME .
@@ -6423,8 +6393,6 @@ sia.tech IN CNAME .
 *.sia.tech IN CNAME .
 siddeus.synology.me IN CNAME .
 *.siddeus.synology.me IN CNAME .
-sigma10192011.ignorelist.com IN CNAME .
-*.sigma10192011.ignorelist.com IN CNAME .
 simplexsolutionsinc.com IN CNAME .
 *.simplexsolutionsinc.com IN CNAME .
 sin4.ddnsfree.com IN CNAME .
@@ -6761,14 +6729,10 @@ thelastempire.easterndns.com IN CNAME .
 *.thelastempire.easterndns.com IN CNAME .
 thetatoken.org IN CNAME .
 *.thetatoken.org IN CNAME .
-think.atom.i-nameservers.net IN CNAME .
-*.think.atom.i-nameservers.net IN CNAME .
 third-army.surge.sh IN CNAME .
 *.third-army.surge.sh IN CNAME .
 thirdpartycache.b-cdn.net IN CNAME .
 *.thirdpartycache.b-cdn.net IN CNAME .
-thiswebsiteispeak4life.com.ignorelist.com IN CNAME .
-*.thiswebsiteispeak4life.com.ignorelist.com IN CNAME .
 thjk.srv64.de IN CNAME .
 *.thjk.srv64.de IN CNAME .
 thordata.com IN CNAME .
@@ -6831,8 +6795,6 @@ top10vpn.com IN CNAME .
 *.top10vpn.com IN CNAME .
 toppal.tech IN CNAME .
 *.toppal.tech IN CNAME .
-toppet.jumpingcrab.com IN CNAME .
-*.toppet.jumpingcrab.com IN CNAME .
 topvpn.cc IN CNAME .
 *.topvpn.cc IN CNAME .
 tor.bravesoftware.com IN CNAME .
@@ -6877,8 +6839,6 @@ travis90x.ddns.net IN CNAME .
 *.travis90x.ddns.net IN CNAME .
 tree.152.53.136.204.nip.io IN CNAME .
 *.tree.152.53.136.204.nip.io IN CNAME .
-treyisbald.jumpingcrab.com IN CNAME .
-*.treyisbald.jumpingcrab.com IN CNAME .
 tronlit.com IN CNAME .
 *.tronlit.com IN CNAME .
 tronyza.com IN CNAME .
@@ -7439,8 +7399,6 @@ william.tienda.cdn.cloudflare.net IN CNAME .
 *.william.tienda.cdn.cloudflare.net IN CNAME .
 wilway.today.cdn.cloudflare.net IN CNAME .
 *.wilway.today.cdn.cloudflare.net IN CNAME .
-windowbook92.com IN CNAME .
-*.windowbook92.com IN CNAME .
 windscribe.com IN CNAME .
 *.windscribe.com IN CNAME .
 wipter.com IN CNAME .
@@ -7453,8 +7411,6 @@ wirevpn.cc IN CNAME .
 *.wirevpn.cc IN CNAME .
 wiseghostapp.com IN CNAME .
 *.wiseghostapp.com IN CNAME .
-witopia.net IN CNAME .
-*.witopia.net IN CNAME .
 wlvpn.com IN CNAME .
 *.wlvpn.com IN CNAME .
 woalongit.synology.me IN CNAME .

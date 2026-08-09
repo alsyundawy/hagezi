@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1786155597 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1786242024 12h 15m 3w 3h
 000.pe IN CNAME .
 *.000.pe IN CNAME .
 000a.de IN CNAME .
@@ -851,6 +851,8 @@ doodlekit.com IN CNAME .
 *.doodlekit.com IN CNAME .
 dot.tk IN CNAME .
 *.dot.tk IN CNAME .
+dothome.co.kr IN CNAME .
+*.dothome.co.kr IN CNAME .
 douploads.net IN CNAME .
 *.douploads.net IN CNAME .
 downfall.shop IN CNAME .

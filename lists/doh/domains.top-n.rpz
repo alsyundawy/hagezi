@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1786155457 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1786241883 12h 15m 3w 3h
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 2.alpo.pp.ua IN CNAME .
@@ -1009,6 +1009,8 @@ huv01.dnscry.pt IN CNAME .
 *.huv01.dnscry.pt IN CNAME .
 iah01.dnscry.pt IN CNAME .
 *.iah01.dnscry.pt IN CNAME .
+ib.systems IN CNAME .
+*.ib.systems IN CNAME .
 ibksturm.synology.me IN CNAME .
 *.ibksturm.synology.me IN CNAME .
 iev01.dnscry.pt IN CNAME .
@@ -1257,6 +1259,8 @@ nqh-dns.duckdns.org IN CNAME .
 *.nqh-dns.duckdns.org IN CNAME .
 nrusimha.crabdance.com IN CNAME .
 *.nrusimha.crabdance.com IN CNAME .
+ns.mtsoln.com IN CNAME .
+*.ns.mtsoln.com IN CNAME .
 ns0.fdn.fr IN CNAME .
 *.ns0.fdn.fr IN CNAME .
 ns1.fdn.fr IN CNAME .
@@ -1381,12 +1385,6 @@ reskah.pp.ua IN CNAME .
 *.reskah.pp.ua IN CNAME .
 resolv.flokinet.net IN CNAME .
 *.resolv.flokinet.net IN CNAME .
-resolv1.trash.net IN CNAME .
-*.resolv1.trash.net IN CNAME .
-resolv2.trash.net IN CNAME .
-*.resolv2.trash.net IN CNAME .
-resolv3.trash.net IN CNAME .
-*.resolv3.trash.net IN CNAME .
 resolver.dns.eban.eu.org IN CNAME .
 *.resolver.dns.eban.eu.org IN CNAME .
 resolver.sunet.se IN CNAME .

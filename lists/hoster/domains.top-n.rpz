@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1786155600 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1786242027 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -217,6 +217,8 @@ doodlekit.com IN CNAME .
 *.doodlekit.com IN CNAME .
 dot.tk IN CNAME .
 *.dot.tk IN CNAME .
+dothome.co.kr IN CNAME .
+*.dothome.co.kr IN CNAME .
 drivehq.com IN CNAME .
 *.drivehq.com IN CNAME .
 dweb.link IN CNAME .
